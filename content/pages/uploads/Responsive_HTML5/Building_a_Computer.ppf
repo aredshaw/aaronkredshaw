@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE polprojfile>
+<ppfml version="2.00" project="Building_a_Computer" type="4">
+ <windowlist defaultwindow="NewWindow">
+  <window name="NewWindow" x="5%" y="5%" width="90%" height="90%" viewtype="doublepane" workspacestyle="DEFAULT" toolbar="off" locationbar="off" menu="off" resizable="yes" statusbar="off" usecurrentwindowsettings="yes" caption="NewWindow">
+   <elements><element name="BrowseSequence" Present="yes" /><element name="SearchInput" Present="no" />
+   </elements>
+   <agents defaultagent="toc">
+    <agent>toc
+    </agent>
+    <agent>ndx
+    </agent>
+    <agent>nls
+    </agent>
+    <agent>gls
+    </agent>
+   </agents>
+  </window>
+ </windowlist>
+ <contextmap>
+  <contextentry id="1" page="Building_a_Computer\c_ChoosingCase.html">
+  </contextentry>
+ </contextmap>
+ <topiclist defaulttopic="Building_a_Computer\c_Introduction.html">
+  <topic>Building_a_Computer\c_ChoosingCase.html
+  </topic>
+  <topic>Building_a_Computer\c_ChoosingDVDDrive.html
+  </topic>
+  <topic>Building_a_Computer\c_ChoosingGraphicsCard.html
+  </topic>
+  <topic>Building_a_Computer\c_ChoosingHardDrive.html
+  </topic>
+  <topic>Building_a_Computer\c_ChoosingMemory.html
+  </topic>
+  <topic>Building_a_Computer\c_ChoosingMotherboard.html
+  </topic>
+  <topic>Building_a_Computer\c_ChoosingNetworkAdapter.html
+  </topic>
+  <topic>Building_a_Computer\c_ChoosingSoundCard.html
+  </topic>
+  <topic>Building_a_Computer\c_ChoosingUSBCard.html
+  </topic>
+  <topic>Building_a_Computer\c_Introduction.html
+  </topic>
+  <topic>Building_a_Computer\c_SuppliesNeeded.html
+  </topic>
+  <topic>Building_a_Computer\t_FinishingUp.html
+  </topic>
+  <topic>Building_a_Computer\t_GraphicsCardInstallation.html
+  </topic>
+  <topic>Building_a_Computer\t_HardDrive-CD-DVD-Installation.html
+  </topic>
+  <topic>Building_a_Computer\t_MemoryInstallation.html
+  </topic>
+  <topic>Building_a_Computer\t_MotherboardInstallation.html
+  </topic>
+  <topic>Building_a_Computer\t_NetworkCardInstallation.html
+  </topic>
+  <topic>Building_a_Computer\t_SoundCardInstallation.html
+  </topic>
+  <topic>Building_a_Computer\t_USBCardInstallation.html
+  </topic>
+ </topiclist>
+ <projectincludes>
+ </projectincludes>
+ <filenamemap>
+  <filenameentry moniker="wh_languagetype">
+   <filename>en_US
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="nls">
+   <filename>.nla
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="wh_lngfile">
+   <filename>index.lng
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="wh_stoplist">
+   <filename>index.stp
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="startpage">
+   <filename>index.html
+   </filename>
+  </filenameentry>
+ </filenamemap>
+</ppfml>

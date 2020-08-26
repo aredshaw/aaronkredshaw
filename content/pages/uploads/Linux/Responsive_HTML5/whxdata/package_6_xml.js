@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"no\"?><pk><wd nm=\"yourselfthes\" rd=\"4,0:182:0\"/><wd nm=\"yoursituation\" rd=\"3,0:1750:0\"/><wd nm=\"yousoftwar\" rd=\"2,0:973:0\"/><wd nm=\"youwant\" rd=\"13,0:368:0\"/><wd nm=\"youwill\" rd=\"7,0:340:0|14,0:344:0\"/><wd nm=\"“brain”\" rd=\"5,0:747:0\"/></pk>";
