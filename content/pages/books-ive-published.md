@@ -8,7 +8,7 @@ tags:
   - untagged
 ---
 
-When I was a high school English teacher I sometimes wondered what it would be like to write a book. I had met several teachers who said that one day they would write a novel, but it just never seemed to happen. Then one day I thought to myself, "Why not stop dreaming and just do it!"
+When I was a high school English teacher I sometimes wondered what it would be like to write a book. I had met several teachers who said that one day they would write a novel, but it just never seemed to happen. Then one day I thought to myself, "Why not stop dreaming and just do it!" You can also [view these books at Amazon](https://www.amazon.com/Aaron-K-Redshaw/e/B00E3KSIB6).
 
 ## The Gifted Series
 
