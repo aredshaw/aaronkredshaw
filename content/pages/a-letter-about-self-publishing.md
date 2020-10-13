@@ -27,7 +27,7 @@ Hugh Howey is a guy who made it big self-publishing a couple of years ago. He wr
 
 I found this guy very helpful and motivational as well: http://www.youtube.com/watch?v=cix5AcqOtI4&feature=c4-overview-vl&list=PLK_bMOz0qH7yWEr3MxIIpaezL18jUygY5. You can learn a lot from his youtube videos.
 
-The book I am just finished reading is called “Your First 1000 Copies:The Step-by-Step Guide to Marketing Your Book (http://www.amazon.com/Your-First-Copies-Step-Step-ebook/dp/B00DMIWAIC). They also have an audio version.
+The book I am just finished reading is called “Your First 1000 Copies:The Step-by-Step Guide to Marketing Your Book (https://www.amazon.com/Your-First-Copies-Step-Step-ebook/dp/B08HQZ4QXY/). They also have an audio version.
 
 A bit overwhelming, right! For now, you will do well if you just work on revising what you have in front of you. Read the post by Hugh Howey to get inspired for this and don’t give up. You will get sick of your book after awhile because you will be reading it over and over to revise it. Eventually though, you will have something you can be proud of. You will probably even surprise yourself at times. I know I did!
 

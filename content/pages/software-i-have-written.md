@@ -6,7 +6,7 @@ draft: true
 
 I have written a number of programs in Java, Python, and JavaScript in order to improve my coding skills.
 
-### [DebtPayoff](https://aaronkredshaw.com/debtpayoff/)
+### [DebtPayoff](../debtpayoff)
 
 This is the largest program I have written in Java. It runs in a GUI (graphical user interface) and is designed to help you understand credit card debt.
 

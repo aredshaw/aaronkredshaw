@@ -10,7 +10,7 @@ tags:
 
 ## Documentation for Clyste
 
-I am currently writing some documentation for a start-up called Clyste. The Word doc can be found [here](uploads/Clyste-for-Jason-What-I-wrote.docx). Besides this document, I put together an introductory email for those joining the group.
+I am currently writing some documentation for a start-up called Clyste. The Word doc can be found [here](../uploads/Clyste-for-Jason-What-I-wrote.docx). Besides this document, I put together an introductory email for those joining the group.
 
 # Clyste
 

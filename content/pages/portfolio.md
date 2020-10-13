@@ -32,7 +32,7 @@ tags:
 
 ## Portfolio Items
 
-### [APIs using OpenAPI (Swagger)](../api-practice/)
+### [APIs using OpenAPI (Swagger)](../api-and-openapi-practice)
 
 ![API-OpenAPI (Swagger)](../images/API-FrontPage-1024x398.png)
 

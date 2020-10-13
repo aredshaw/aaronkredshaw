@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><csh-info><item mapid=\"c_ChoosingCase\" mapnum=\"1\" topicurl=\"Building_a_Computer/c_ChoosingCase.html\" /></csh-info>";

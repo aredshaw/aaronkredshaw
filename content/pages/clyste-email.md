@@ -12,13 +12,13 @@ tags:
 
 ## The original
 
-Welcome to the community Aaron. Our first goal is 1. To inform you about what we are doing (whatever you don’t understand, please ask questions – this will help us refine our idea). 2. Ask for your help in spreading the word and inviting individuals in your network who may be interested in this idea or supporting us by reviewing our product and providing feedback so that we can build a platform that meets the needs of our users – you. 3. Welcome other like-minded individuals that join this group to the team, answer questions if you know the answer, and network. Use this chance to grow your professional network and find people you would like to work with in the future. Whether you are working on this project or your own, this is a community for you, too. Thank you for your interest in this project and I look forward and answering any questions you may have. Jason
+Welcome to the community Aaron. Our first goal is 1. To inform you about what we are doing (whatever you don’t understand, please ask questions – this will help us refine our idea). 2. Ask for your help in spreading the word and inviting individuals in your network who may be interested in this idea or supporting us by reviewing our product and providing feedback so that we can build a platform that meets the needs of our users – you. 3. Welcome other like-minded individuals that join this group to the team, answer questions if you know the answer, and network. Use this chance to grow your professional network and find people you would like to work with in the future. Whether you are working on this project or your own, this is a community for you, too. Thank you for your interest in this project and I look forward and answering any questions you may have. Jake
 
 Also let me know if this welcome message works – from a writer’s view and from a reader’s understanding. I’ll be using this to personally welcome each individual that joins the slack channel, however, it is still a template and the only thing that will likely change is the individual’s name – and later, our goals.
 
 Thank you. I appreciate it a lot.
 
-Jason
+Jake
 
 ## My version
 
@@ -34,7 +34,7 @@ Here are our current goals:
 
 Thank you for your interest in this project. If you have any questions, do not hesitate to ask.
 
-Jason
+Jake
 
 # A Note on my Changes
 

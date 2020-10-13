@@ -20,15 +20,15 @@ Tools used: FrameMaker, Photoshop, WinSCP
 
 ### Windows Directions
 
-* [Responsive HTML 5 (Windows)](https://aaronkredshaw.com/DITA/Building_a_Computer/Responsive_HTML5/)
-* [Microsoft HTML Help File (Windows)](https://aaronkredshaw.com/DITA/Building_a_Computer/Microsoft_HTML_Help/Building_a_Computer.chm)
-* []Kindle e-book-.mobi) (Windows)](https://aaronkredshaw.com/DITA/Building_a_Computer/Kindle.mobi)
+* [Responsive HTML 5 (Windows)](../DITA/Responsive_HTML5/)
+* [Microsoft HTML Help File (Windows)](../DITA/Building_a_Computer.chm)
+* [Kindle e-book-.mobi) (Windows)](../DITA/Kindle.mobi)
 
 ### Linux Directions:
 
-* [Responsive HTML 5 (Linux)](https://aaronkredshaw.com/DITA/Building_a_Computer/Linux/Responsive_HTML5/)
-* [Microsoft HTML Help File (Linux)](https://aaronkredshaw.com/DITA/Building_a_Computer/Linux/Microsoft_HTML_Help/Building_a_Linux_Computer.chm)
-* [Kindle e-book-.mobi (Linux)](https://aaronkredshaw.com/DITA/Building_a_Computer/Linux/Kindle.mobi)
+* [Responsive HTML 5 (Linux)](../DITA/Linux/Responsive_HTML5/)
+* [Microsoft HTML Help File (Linux)](../DITA/Linux/Building_a_Linux_Computer.chm)
+* [Kindle e-book-.mobi (Linux)](../DITA/Linux/Linux-Kindle.mobi)
 
 **Note:**
 
