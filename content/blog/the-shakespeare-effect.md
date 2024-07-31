@@ -1,5 +1,5 @@
 ---
-title: "The Shakespeare Effect"
+title: "The Shakespeare effect"
 date: 2021-09-12
 draft: false
 toc: true

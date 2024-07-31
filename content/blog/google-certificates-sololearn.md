@@ -1,5 +1,5 @@
 ---
-title: "Google Certificates & Sololearn"
+title: "Google certificates & Sololearn"
 date: 2021-07-17
 draft: false
 toc: true

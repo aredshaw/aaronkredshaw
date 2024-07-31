@@ -1,5 +1,5 @@
 ---
-title: "How to Get a Job in Technical Writing"
+title: "How to get a job in technical writing"
 date: 2020-05-07
 draft: false
 toc: true

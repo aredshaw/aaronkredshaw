@@ -8,6 +8,7 @@ tags:
   - untagged
 ---
 
+
 As I said in the last post, [How to get a job in technical writing](https://aaronkredshaw.com/2020/05/07/elementor-1195/),  there are two big issues that you have to overcome to get into technical writing. 
 
 1. Experience is king.

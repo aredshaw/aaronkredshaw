@@ -1,5 +1,5 @@
 ---
-title: "The technical writing interview – Part 2"
+title: "The technical writing interview – part 2"
 date: 2022-01-27
 draft: false
 toc: true

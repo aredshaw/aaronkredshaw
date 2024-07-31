@@ -1,5 +1,5 @@
 ---
-title: "Getting experience – Part 3"
+title: "Getting experience – part 3"
 date: 2022-07-08
 draft: false
 toc: true
