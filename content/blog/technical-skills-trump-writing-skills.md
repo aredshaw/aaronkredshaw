@@ -1,7 +1,11 @@
 ---
-title: "Technical Skills Trump Writing Skills"
-date: 2020-07-16T16:24:25-07:00
-draft: true
+title: "Technical skills trump writing skills"
+date: 2020-05-30
+draft: false
+toc: true
+images:
+tags:
+  - untagged
 ---
 
 If you are trying to get into technical writing, you may find it is a sad fact that much more emphasis is placed on your technical skills than your writing skills. It seems it is assumed that writing is easier to pick up than technical skills. Or perhaps the assumption is that everyone can write, but not everyone has technical know-how. Take a look at this list of requirements for a fairly low-level technical writer position I found (really, it was the first one that came up on Indeed).

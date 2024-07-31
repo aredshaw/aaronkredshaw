@@ -1,7 +1,11 @@
 ---
 title: "How to Get a Job in Technical Writing"
-date: 2020-07-16T16:21:51-07:00
-draft: true
+date: 2020-05-07
+draft: false
+toc: true
+images:
+tags:
+  - untagged
 ---
 
 There are two categories of people interested in technical writing. Those who have received a degree or certificate in technical writing, and those who want to make the switch from another career. While you might think those with a degree or certificate have all the advantages in the job market, that is simply not the case. Without experience and a good portfolio, employers will seldom even consider a candidate.

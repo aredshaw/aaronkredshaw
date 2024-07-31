@@ -1,7 +1,11 @@
 ---
-title: "Start With a Good Resume"
-date: 2020-07-16T16:34:29-07:00
-draft: true
+title: "Start with a good resume"
+date: 2020-06-12
+draft: false
+toc: true
+images:
+tags:
+  - untagged
 ---
 
 This post will not get into [resume writing basics](https://www.roberthalf.com/blog/writing-a-resume/how-to-write-a-good-resume-in-7-easy-steps). There are some great guides out there for free already on that topic. Here I will just cover what is specific to technical writing.

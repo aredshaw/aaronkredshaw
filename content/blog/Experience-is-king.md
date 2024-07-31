@@ -1,5 +1,5 @@
 ---
-title: "Experience is king"
+title: "Experience is King"
 date: 2020-05-15
 draft: false
 toc: true
