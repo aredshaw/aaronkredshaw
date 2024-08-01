@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="siteBaseUrl" content="http://localhost:1313/">
     <meta name="author" content="">
-    <meta name="description" content="My tech writing blog">
+    <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="generator" content="Hugo 0.130.0">
     <title>
@@ -20,13 +20,12 @@
         
     </title>
     <meta itemprop="name" content="Tech">
-    <meta itemprop="description" content="Tech - My tech writing blog">
+    <meta itemprop="description" content="Tech - %!s(&lt;nil&gt;)">
     <meta property="og:site_name" content="Aaron Redshaw&#39;s Tech Writing Blog">
 
     <meta property="og:url" content="http://localhost:1313/categories/tech/">
   <meta property="og:site_name" content="Aaron Redshaw&#39;s Tech Writing Blog">
   <meta property="og:title" content="Tech">
-  <meta property="og:description" content="My tech writing blog">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="website">
 
@@ -75,11 +74,6 @@
         </ul>
 
         
-            <div id="search-box" class="search">
-                <i class="fas fa-search"></i>
-                <input id="search" type="text" placeholder="Search ...">
-            </div>
-        
     </div>
 </nav>
 
@@ -108,6 +102,8 @@
                 </a>
             </h3>
 
+            
+                <span class="subtitle">The Best Widgets on Earth</span>
             
         </div>
 
@@ -171,7 +167,22 @@
     </div>
 
     
-        Service Mesh vs API Gateway 在前一篇关于Service Mesh的文章中,我提到了几个关于Service Mesh和API Gateway之间关系的问题，在本篇文章
+        Service Mesh vs API Gateway 在前一篇关于Service Mesh的文章中,我提到了几个关于Service Mesh和API Gateway之间关系的问题，在本篇文章中，我打算就Service Mesh和API Gateway的用途进行进一步讨论。
+为了区分API Gateway和Service Mesh，让我们先分别看看两者各自的关键特征。
+API Gateway: 将服务作为被管理的API向外部暴露 使用API Gateway的主要目的是将微服务作为被管理的API暴露（给外部系统）。因此，我们在API Gateway层开发的API或者边界服务对外提供了业务功能。
+API/边界服务调用下游的组合或者原子微服务，通过组合/混装多个下游微服务的方式来提供业务逻辑。
+在API/Edge服务调用下游服务时，需要采用一种可靠的通信方式，应用了断路器，超时，负载均衡/故障转移等可靠性模式。因此大部分的API Gateway解决方案都内置了这些特性。
+API Gateway也内置了以下特性的支持，包括：服务发现，分析（可见性：性能指标，监控，分布式日志，分布式调用追踪）和安全。
+API Gateway和API管理生态系统的其他组件的关系紧密，比如： API 市场/商店， API 发布门户。
+Service Mesh：微服务的网络通信基础设施 现在我们来看看Service Mesh有哪些不同。
+Service Mesh是一个网络通信基础设施， 可以用于将应用层的网络通信功能从你的服务代码中剥离出来。
+采用Service Mesh， 你不用在服务代码中实现用于可靠通信的模式如断路，超时等，类似地，Service Mesh也提供了服务发现，服务可见性等其他功能。
+API Gateway和Service Mesh实践 API Gateway和Service Mesh之间的主要不同点：API Gateway是暴露API/边界服务的关键组件，而Service Mesh则仅仅是一个服务间通信的基础设施，并不了解应用中的业务逻辑。
+下图说明了API Gateway和Service Mesh的关系。如同前面所说，这两者之间也有一些重叠的部分（例如断路器等），但重要的是需要理解这两者是用于完全不同的用途。
+图1： API Gateway和Service Mesh实践
+如上图所示，Service Mesh作为Sidecar（边车）和服务一起部署，它是独立于服务的业务逻辑的。
+另一方面，API Gateway 提供了所有的API服务（这些API服务有明确定义的业务功能），它是应用业务逻辑的一部分。API Gateway可以具有内建的服务间通信能力，但它也可以使用Service Mesh来调用下游服务（API Gateway-&gt;Service Mesh-&gt;Microservices）。
+在API管理层次，你可以使用API Gateway内建的服务间通信能力；也可以通过Service Mesh来调用下游服务，以将应用网络通信功能从应用程序转移到Service Mesh中。
 
         
             <a href="http://localhost:1313/2018/04/11/service-mesh-vs-api-gateway/" class="more">Continue reading</a>
@@ -606,7 +617,21 @@
     </div>
 
     
-        灰度发布（又名金丝雀发布）介绍 当应用上线以后，运维面临的一大挑战是如何能够在不影响已上线业务的情况下进行升级。做过产品的同学都清楚，不管在发
+        灰度发布（又名金丝雀发布）介绍 当应用上线以后，运维面临的一大挑战是如何能够在不影响已上线业务的情况下进行升级。做过产品的同学都清楚，不管在发布前做过多么完备的自动化和人工测试，在发布后都会出现或多或少的故障。根据墨菲定律，可能会出错的版本发布一定会出错。
+&ldquo;ANYTHING THAN CAN GO WRONG WILL GO WRONG&rdquo; &ndash;MURPHY&rsquo;S LAW
+因此我们不能寄希望于在线下测试时发现所有潜在故障。在无法百分百避免版本升级故障的情况下，需要通过一种方式进行可控的版本发布，把故障影响控制在可以接受的范围内，并可以快速回退。
+可以通过灰度发布（又名金丝雀发布）来实现业务从老版本到新版本的平滑过渡，并避免升级过程中出现的问题对用户造成的影响。
+“金丝雀发布”的来源于矿工们用金丝雀对矿井进行空气测试的做法。以前矿工挖煤的时候，矿工下矿井前会先把金丝雀放进去，或者挖煤的时候一直带着金丝雀。金丝雀对甲烷和一氧化碳浓度比较敏感，会先报警。所以大家都用“金丝雀”来搞最先的测试。
+下图中，左下方的少部分用户就被当作“金丝雀”来用于测试新上线的1.1版本。如果新版本出现问题，“金丝雀”们会报警，但不会影响其他用户业务的正常运行。 灰度发布（金丝雀发布）的流程如下：
+准备和生产环境隔离的“金丝雀”服务器。 将新版本的服务部署到“金丝雀”服务器上。 对“金丝雀”服务器上的服务进行自动化和人工测试。 测试通过后，将“金丝雀”服务器连接到生产环境，将少量生产流量导入到“金丝雀”服务器中。 如果在线测试出现问题，则通过把生产流量从“金丝雀”服务器中重新路由到老版本的服务的方式进行回退，修复问题后重新进行发布。 如果在线测试顺利，则逐渐把生产流量按一定策略逐渐导入到新版本服务器中。 待新版本服务稳定运行后，删除老版本服务。 Istio实现灰度发布(金丝雀发布)的原理 从上面的流程可以看到，如果要实现一套灰度发布的流程，需要应用程序和运维流程对该发布过程进行支持，工作量和难度的挑战是非常大的。虽然面对的问题类似，但每个企业或组织一般采用不同的私有化实现方案来进行灰度发布,为解决该问题导致研发和运维花费了大量的成本。
+Istio通过高度的抽象和良好的设计采用一致的方式解决了该问题，采用sidecar对应用流量进行了转发，通过Pilot下发路由规则，可以在不修改应用程序的前提下实现应用的灰度发布。
+备注：采用kubernetes的滚动升级(rolling update)功能也可以实现不中断业务的应用升级,但滚动升级是通过逐渐使用新版本的服务来替换老版本服务的方式对应用进行升级，在滚动升级不能对应用的流量分发进行控制，因此无法采用受控地把生产流量逐渐导流到新版本服务中，也就无法控制服务升级对用户造成的影响。
+采用Istio后，可以通过定制路由规则将特定的流量（如指定特征的用户）导入新版本服务中，在生产环境下进行测试，同时通过渐进受控地导入生产流量，可以最小化升级中出现的故障对用户的影响。并且在同时存在新老版本服务时，还可根据应用压力对不同版本的服务进行独立的缩扩容，非常灵活。采用Istio进行灰度发布的流程如下图所示： 操作步骤 下面采用Istion自带的BookinfoInfo示例程序来试验灰度发布的流程。
+测试环境安装 首先参考手把手教你从零搭建Istio及Bookinfo示例程序安装Kubernetes及Istio控制面。
+因为本试验并不需要安装全部3个版本的reviews服务，因此如果已经安装了该应用，先采用下面的命令卸载。
+istio-0.2.10/samples/bookinfo/kube/cleanup.sh 部署V1版本的服务 首先只部署V1版本的Bookinfo应用程序。由于示例中的yaml文件中包含了3个版本的reviews服务，我们先将V2和V3版本的Deployment从yaml文件istio-0.2.10/samples/bookinfo/kube/bookinfo.yaml中删除。
+从Bookinfo.yaml中删除这部分内容:
+apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec: replicas: 1 template: metadata: labels: app: reviews version: v2 spec: containers: - name: reviews image: istio/examples-bookinfo-reviews-v2:0.2.3 imagePullPolicy: IfNotPresent ports: - containerPort: 9080 --- apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v3 spec: replicas: 1 template: metadata: labels: app: reviews version: v3 spec: containers: - name: reviews image: istio/examples-bookinfo-reviews-v3:0.
 
         
             <a href="http://localhost:1313/2017/11/08/istio-canary-release/" class="more">Continue reading</a>
@@ -862,16 +887,6 @@
     
 
     
-
-    
-    <div id="activate-algolia-search" class="hidden">
-  <input type="hidden" id="algolia-search-appId" value="">
-  <input type="hidden" id="algolia-search-apiKey" value="">
-  <input type="hidden" id="algolia-search-indexName" value="">
-  <input type="hidden" id="algolia-search-noSearchResults" value="Nothing found.">
-
-  
-</div>
 
     
 
