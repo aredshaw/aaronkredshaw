@@ -1,8 +1,8 @@
 baseURL = 'https://aaronkredshaw.com/'
 languageCode = 'en-us'
-title = "Aaron Redshaw's Tech Writing Blog"
+title = "Aaron K. Redshaw"
 theme = "bilberry-hugo-theme"
 [params]
-  subtitle = 'The Best Widgets on Earth'
+  subtitle = 'How to get a job in technical writing'
   [params.contact]
     email = 'akredshaw@gmail.com'

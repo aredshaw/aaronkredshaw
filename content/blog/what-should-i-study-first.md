@@ -13,11 +13,11 @@ If you want to get a job as a technical writer, you will have to get technical. 
 
 I won't tell you what to study first, but I'll give you what you need to make that decision. As usual, I'm assuming you want to document software using a [docs-as-code](https://www.writethedocs.org/guide/docs-as-code/) approach, which is where my experience lies.
 
-For minimum requirements to get a job as a technical writer, see the first section of [Getting experience – Part 1](https://aaronkredshaw.com/2022/03/03/getting-experience-part-1/).
+For minimum requirements to get a job as a technical writer, see the first section of [Getting experience – Part 1](../getting-experience-part-1/).
 
 ## If you have a technical background
 
-If you have a degree in computer science, or you have been a software developer in the past, you don’t need as much practice with the technology as you do writing and thinking like a technical writer. What would probably help you the most is a [technical writing certification](https://aaronkredshaw.com/2022/03/03/getting-experience-part-1/#College_programs_that_help_you_get_into_technical_writing). It may be from a college or other institution. A certification will demonstrate to employers that you not only know something about writing, but that you have the skill to write technical documentation. It also proves you are interested in technical writing as a career. I mention this because some employers will assume that since programming pays more, you will end up doing that instead of technical writing. Completing such a certification shows you are serious about this profession.
+If you have a degree in computer science, or you have been a software developer in the past, you don’t need as much practice with the technology as you do writing and thinking like a technical writer. What would probably help you the most is a [technical writing certification](../getting-experience-part-1/#College_programs_that_help_you_get_into_technical_writing). It may be from a college or other institution. A certification will demonstrate to employers that you not only know something about writing, but that you have the skill to write technical documentation. It also proves you are interested in technical writing as a career. I mention this because some employers will assume that since programming pays more, you will end up doing that instead of technical writing. Completing such a certification shows you are serious about this profession.
 
 If there are some items you don’t know on the list below, go ahead and learn them as well.
 
@@ -36,68 +36,16 @@ This is for all of you with a BA in English, Art, Social Science, etc. You will 
   - OpenAPI specs
 
 
-
-<table>
-   <colgroup>
-      <col width="20%" />
-      <col width="20%" />
-      <col width="20%" />
-      <col width="40%" />
-   </colgroup>
-   <thead>
-      <tr>
-         <th>Technology</th>
-         <th>Difficulty</th>
-         <th>Estimated time to learn</th>
-         <th>Notes & resources</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>Programming language</td>
-         <td>Hard</td>
-         <td>2-4 months</td>
-         <td>Only at a basic level. <a href="https://aaronkredshaw.com/2022/01/27/the-technical-writing-interview-part-2/#Reading_code">Here is some guidance</a> on learning a programming language.</td>
-      </tr>
-      <tr>
-         <td>Git</td>
-         <td>Medium</td>
-         <td>1 month</td>
-         <td>Learn this through [githowto.com](https://githowto.com/). Out of the 51 lessons, the first 28 will be the most useful.</td>
-      </tr>
-      <tr>
-         <td>Command line</td>
-         <td>Medium</td>
-         <td>2-4 weeks</td>
-         <td>Depending on your OS, go to YouTube and type one of the following: <a href="https://www.youtube.com/results?search_query=learn+command+line+for+windows">learn command line for Windows</a> | <a href="https://www.youtube.com/results?search_query=learn+command+line+for+mac+os">learn command line for Mac OS</a> | <a href="https://www.youtube.com/results?search_query=learn+command+line+for+linux">learn command line for Linux.</a> There are a lot of good videos out there.</td>
-      </tr>
-      <tr>
-         <td>HTML</td>
-         <td>Medium</td>
-         <td>3 weeks</td>
-         <td>There are probably a million HTML tutorials online. Learn the basics, plus how to create tables.</td>
-      </tr>
-      <tr>
-         <td>Markdown</td>
-         <td>Easy</td>
-         <td>2 hrs</td>
-         <td>This is really easy. Learn it with <a href="https://markdownlivepreview.com/">Markdown Live Preview</a>.</td>
-      </tr>
-      <tr>
-         <td>Web API documentation</td>
-         <td>Hard</td>
-         <td>3 months</td>
-         <td>See <a href="https://idratherbewriting.com/learnapidoc/">Documenting APIs</a> from Tom Johnson. There are several <a href="https://www.udemy.com/">Udemy courses</a> on this topic you can buy as well.</td>
-      </tr>
-      <tr>
-         <td>OpenAPI specs
-(Part of web API documentation)</td>
-         <td>Hard</td>
-         <td>1 month</td>
-         <td>Only 1 month if you already know web API documentation basics. See <a href="https://idratherbewriting.com/learnapidoc/openapi_tutorial.html">Step-by-step OpenAPI code tutorial</a>.</td>
-      </tr>
-   </tbody>
-</table>
+| Technology | Difficulty | Estimated time to learn | Notes & resources |
+|------------|------------|-------------------------|-------------------|
+| Programming language | Hard | 2-4 months | Only at a basic level. [Here is some guidance](../the-technical-writing-interview-part-2/#Reading_code) on learning a programming language. |
+| Git | Medium | 1 month | Learn this through [githowto.com](https://githowto.com/). Out of the 51 lessons, the first 28 will be the most useful. |
+| Command line | Medium | 2-4 weeks | Depending on your OS, go to YouTube and type of the the following:[learn command line for Windows](https://www.youtube.com/results?search_query=learn+command+line+for+windows)[learn command line for Mac OS](https://www.youtube.com/results?search_query=learn+command+line+for+mac+os)[learn command line for Linux](https://www.youtube.com/results?search_query=learn+command+line+for+linux)There are a lot of good videos out there. |
+| HTML | Medium | 3 weeks | There are probably a million HTML tutorials online. Learn the basics, plus how to create tables. |
+| Markdown | Easy | 2 hrs | This is really easy. Learn it with [Markdown Live Preview](https://markdownlivepreview.com/). |
+| Web API documentation | Hard | 3 months | See [Documenting APIs](https://idratherbewriting.com/learnapidoc/) from Tom Johnson. There are several [Udemy courses](https://www.udemy.com/) on this topic you can buy as well. |
+| OpenAPI specs
+(Part of web API documentation) | Hard | 1 month | Only 1 month if you already know web API documentation basics. See [Step-by-step OpenAPI code tutorial](https://idratherbewriting.com/learnapidoc/openapi_tutorial.html). |
 
 
 ### In order of importance (just the numbers)
@@ -135,6 +83,6 @@ Something else to consider is that learning some of these subjects can get tirin
 
 You should also know that if you start learning API documentation in any depth, you will learn the command line and possibly Git along the way, since these tools come up frequently when working with REST APIs.
 
-If you want to read more about what you can expect in a technical interview, read [The technical writing interview – Part 2](https://aaronkredshaw.com/2022/01/27/the-technical-writing-interview-part-2/).
+If you want to read more about what you can expect in a technical interview, read [The technical writing interview – Part 2](../the-technical-writing-interview-part-2/).
 
 Happy learning!

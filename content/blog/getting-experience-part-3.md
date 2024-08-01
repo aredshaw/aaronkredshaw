@@ -11,7 +11,7 @@ tags:
 
 # Get experience with an open source project
 
-> ![Open Source](../images/open_source.png)
+> ![Open Source](images/open_source.png)
 > 
 > GitHub | Linux | GNU | Sourceforge
 
@@ -132,6 +132,6 @@ Another blogger says [about this method](https://iqdrac.wordpress.com/2022/03/19
 
 I am not going to say it is impossible to get a job by contributing to open source. I can only say that it seems hard. Really hard. I might also add it seems unlikely. However, if you are an ex-developer, or have specialized knowledge, maybe you can ignore this post and make it work. And if you have months or years to burn, you could probably find a way eventually.
 
-For others trying to make the transition into technical writing, I would recommend that you go back and see my [first two blogs](https://aaronkredshaw.com/2022/03/03/getting-experience-part-1/) for ways to get experience that might lead to a job.
+For others trying to make the transition into technical writing, I would recommend that you go back and see my [first two blogs](../getting-experience-part-1/) for ways to get experience that might lead to a job.
 
 If you know other people who have contributed docs to open source projects, which led to them getting a job in technical writing, I'd love to hear about it in the comments.
