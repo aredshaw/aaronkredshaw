@@ -1,4 +1,4 @@
-baseurl = "https://aaronkredshaw.com"
+baseurl = "https://aaronkredshaw.com/"
 title = "Aaron Redshaw's Tech Writing Blog"
 theme = "lekh"
 languageCode = "en-us"
