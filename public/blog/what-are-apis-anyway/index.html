@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/fonts.css">
+    
+    <title></title>
+    <link rel="icon" type="image/png" href="/assets/img/favicon.ico" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <script src="/js/dark.js" defer=""></script>
+
+</head>
+
+
+<html>
+<!DOCTYPE html>
+<html>
+
+<body>
+  <header class="site-header">
+
+    <div class="wrapper">
+      <a class="muted small" href="http://localhost:1313/"></a>
+    </div>
+  </header>
+</body>
+
+</html>
+
+<h1>What are APIs anyway?</h1>
+<p class="post-meta"><time itemprop="datePublished">July 30, 2022</time>
+</p>
+<h2 id="introduction-to-apis">Introduction to APIs</h2>
+<p>When people use the term APIs, they are not all talking about the same thing. This used to confuse me early on, so I&rsquo;m going to give you a very quick tour of APIs. If you want more in-depth knowledge, there is a ton of information online.</p>
+<p>To start, API stands for Application Programming Interface. It’s a way that software can exchange information with other software. Since knowing how to document APIs is in very high demand for software technical writers, I’m going to also provide resources for learning more about each type.</p>
+<p>There are two main categories of APIs. Library APIs and web APIs.</p>
+<h2 id="library-apis">Library APIs</h2>
+<p>Library APIs are software components. You don’t want to have every possible software library already included in your program or else it will take up a lot of space and it could really slow down your program. Instead, you include the software components you want when you need them in your program. For instance, if you’re not including images in your program, you don’t need to import an image API. How do you learn about these APIs? When learning a programming language, you usually learn about some of the common library APIs for that language. If you were learning to program for Windows, you might start learning about the available Windows APIs.</p>
+<h3 id="examples-of-library-apis">Examples of library APIs</h3>
+<ul>
+<li><a href="https://developer.android.com/reference">Android API</a></li>
+<li><a href="https://docs.microsoft.com/en-us/windows/win32/apiindex/windows-api-list">Windows API</a></li>
+<li><a href="https://docs.oracle.com/javase/7/docs/api/">Java APIs</a></li>
+<li><a href="https://dev.evernote.com/doc/reference/">Evernote APIs</a></li>
+</ul>
+<h2 id="web-apis">Web APIs</h2>
+<p>Web APIs are also software components that can communicate with existing software, but these can be accessed through the web. Web APIs have been increasingly popular in the last few years, because anyone with an internet connection can access them, often for a fee. Web APIs come in several different types. Here are the most popular ones.</p>
+<h3 id="rest-apis">REST APIs</h3>
+<p>Representational State Transfer. This is an architecture for the web. You can request, add, update, or delete resources. It is also the most common type of web APIs available, and one that shows up in a lot of technical writer job descriptions. If you want an excellent free course to learn how to document REST APIs, go through <a href="https://idratherbewriting.com/learnapidoc/">Tom Johnson’s API documentation course</a>.</p>
+<h4 id="advantages">Advantages</h4>
+<p>It uses HTTP, which the internet is built on. It also utilizes the newest innovations of the internet, such as HTTP2. There are a lot of free tools for use with REST, and much of what is out there is open source, so companies can take the source code, modify it, and make it their own. When <a href="https://www.openapis.org/">OpenAPI</a> specs are used, these APIs can be easily navigated for the average user.</p>
+<h4 id="examples-of-rest-apis">Examples of REST APIs</h4>
+<ul>
+<li><a href="https://stripe.com/docs/api">Stripe</a></li>
+<li><a href="https://developer.ebay.com/api-docs/static/ebay-rest-landing.html">eBay</a></li>
+<li><a href="https://developer.spotify.com/documentation/web-api/">Spotify</a></li>
+<li><a href="https://discord.com/developers/docs/reference">Discord</a></li>
+</ul>
+<h3 id="grpc-apis">gRPC APIs</h3>
+<p>Google Remote Procedure Call. This is Google’s version of RPC, and it calls methods (a programming term for actions) on the other machine directly. You can call methods across the internet as if they were already on your machine. While there are fewer gRPC APIs in use, the number of transactions worldwide are the highest. For instance, YouTube uses gRPC. Imagine how many transactions per second happen on YouTube! These APIs are much more often closed to the outside, so others cannot use them. You can <a href="https://grpc.io/">learn much more about gRPC here</a>.</p>
+<h4 id="advantages-1">Advantages</h4>
+<p>It’s fast. Really fast. In general, it’s about 7 times faster than REST APIs. It’s also great for programmers, because they can use a programming language they already know, and it’s like calling a method on another computer as if it was the same computer.</p>
+<h4 id="examples-of-grpc-apis">Examples of gRPC APIs</h4>
+<ul>
+<li><a href="https://github.com/CiscoDevNet/grpc-getting-started">Cisco</a></li>
+<li><a href="https://github.com/Netflix/ribbon">Netflix</a></li>
+<li><a href="https://www.ibm.com/docs/en/scdli/1.2.1?topic=preview-gprc">IBM</a></li>
+<li><a href="https://dropbox.tech/infrastructure/courier-dropbox-migration-to-grpc">Dropbox</a></li>
+</ul>
+<h3 id="graphql">GraphQL</h3>
+<p>Data query and manipulation language, which includes the runtime to make these queries. Whereas REST was an architecture, and gRPC was a way to call methods, GraphQL is a query language. With it, you can request data, add to the data, change the data, or delete it. It was created by Facebook to solve some of the problems with REST APIs, such as overfetching or underfetching, or having easy ways to deal with different versions of the API. I won’t explain all of that here, but you can learn a lot more about it on the <a href="https://graphql.org/learn/">GraphQL Foundation page</a>. That site also has a good tutorial for all the basics.</p>
+<h4 id="advantages-2">Advantages</h4>
+<p>GraphQL solves several issues that come up often with REST APIs. With REST, you request resources, and often several things are given in one request. For example, if you request book information, you may get the title, author, ISBN, and date of publication. But what if you only want the title. Then you are overfetching. You don’t need all the other information given. Let’s say you are doing this thousands of times for different books. It might be costly and take up most of your internet bandwidth, because you are getting a lot more information than you need. But GraphQL only gives you exactly what you ask for. Therefore, it is much more efficient. There are other advantages too. See the <a href="https://graphql.org/learn/">GraphQL Foundation page</a> for more.</p>
+<h4 id="examples-of-graphql-apis">Examples of GraphQL APIs</h4>
+<ul>
+<li><a href="https://www.contentful.com/developers/docs/tutorials/general/graphql/">GitHub</a></li>
+<li><a href="https://developers.facebook.com/docs/graph-api/">Facebook</a></li>
+<li><a href="https://developer.atlassian.com/platform/atlassian-graphql-api/graphql/">Atlassian</a></li>
+<li><a href="https://graphql.braintreepayments.com/">Braintree</a>, a Paypal service</li>
+</ul>
+<h2 id="final-thoughts">Final thoughts</h2>
+<p>I learned recently that some companies are now using gRPC or GraphQL for the underlying API, but then use REST as the customer facing API. Evidently this offers some advantages, and is becoming more common now.</p>
+<p>There are other kinds of APIs out there too, but these are the most common currently in circulation. I know I didn&rsquo;t go into much detail here, but it&rsquo;s a start, and you can use the resources I&rsquo;ve provided to learn more.</p>
+
+
+<footer>
+    <div>
+        <h3><a href="http://localhost:1313/posts">Back to all posts</a></h3>
+    </div>
+    <hr>
+    <p>Go <a href="http://localhost:1313//index.xml">here</a> for an RSS feed.</p>
+</footer>
+
+</html>

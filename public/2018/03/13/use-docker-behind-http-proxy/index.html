@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/fonts.css">
+    
+    <title></title>
+    <link rel="icon" type="image/png" href="/assets/img/favicon.ico" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <script src="/js/dark.js" defer=""></script>
+
+</head>
+
+
+<html>
+<!DOCTYPE html>
+<html>
+
+<body>
+  <header class="site-header">
+
+    <div class="wrapper">
+      <a class="muted small" href="http://localhost:1313/"></a>
+    </div>
+  </header>
+</body>
+
+</html>
+
+<h1>如何配置docker使用HTTP代理</h1>
+<p class="post-meta"><time itemprop="datePublished">March 13, 2018</time>
+</p>
+<h2 id="ubuntu">Ubuntu</h2>
+<h3 id="设置docker使用http-proxy">设置docker使用http proxy</h3>
+<pre tabindex="0"><code>sudo /etc/default/docker
+
+export http_proxy=&#34;http://127.0.0.1:3128/&#34;
+export https_proxy=&#34;http://127.0.0.1:3128/&#34;
+export HTTP_PROXY=&#34;http://127.0.0.1:3128/&#34;
+export HTTPS_PROXY=&#34;http://127.0.0.1:3128/&#34;
+</code></pre><h3 id="加载配置并重启docker">加载配置并重启docker</h3>
+<pre tabindex="0"><code>sudo service docker restart
+</code></pre><h2 id="centos">CentOS</h2>
+<h3 id="设置docker使用http-proxy-1">设置docker使用http proxy</h3>
+<pre tabindex="0"><code>sudo mkdir -p /etc/systemd/system/docker.service.d
+
+echo &#39;
+[Service]
+Environment=&#34;HTTP_PROXY=http://proxy.foo.bar.com:80/&#34;
+&#39; | sudo tee /etc/systemd/system/docker.service.d/http-proxy.conf
+</code></pre><h3 id="加载配置并重启docker-1">加载配置并重启docker</h3>
+<pre tabindex="0"><code>sudo systemctl daemon-reload
+sudo systemctl restart docker
+</code></pre>
+
+<footer>
+    <div>
+        <h3><a href="http://localhost:1313/posts">Back to all posts</a></h3>
+    </div>
+    <hr>
+    <p>Go <a href="http://localhost:1313//index.xml">here</a> for an RSS feed.</p>
+</footer>
+
+</html>
