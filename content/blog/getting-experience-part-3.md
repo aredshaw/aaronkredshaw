@@ -11,7 +11,7 @@ tags:
 
 # Get experience with an open source project
 
-> ![Open Source](images/open_source.png)
+> ![Open Source](../images/open_source.png)
 > 
 > GitHub | Linux | GNU | Sourceforge
 

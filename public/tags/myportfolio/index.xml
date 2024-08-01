@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Myportfolio on Aaron K. Redshaw</title>
-    <link>http://localhost:51655/tags/myportfolio/</link>
+    <link>http://localhost:51924/tags/myportfolio/</link>
     <description>Recent content in Myportfolio on Aaron K. Redshaw</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:51655/tags/myportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51924/tags/myportfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DITA &amp; FrameMaker</title>
-      <link>http://localhost:51655/pages/ditaframemaker/</link>
+      <link>http://localhost:51924/pages/ditaframemaker/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51655/pages/ditaframemaker/</guid>
+      <guid>http://localhost:51924/pages/ditaframemaker/</guid>
       <description>Skills demonstrated: DITA, XML, topic based authoring, structured authoring, single source publishing, computer hardware, research, photo editing, docs as code​&#xA;Tools used: FrameMaker, Photoshop, WinSCP&#xA;How to Build a Computer​ Three file types generated, two conditional outputs, one XML source Windows Directions Responsive HTML 5 (Windows) Microsoft HTML Help File (Windows) Kindle e-book-.mobi) (Windows) Linux Directions: Responsive HTML 5 (Linux) Microsoft HTML Help File (Linux) Kindle e-book-.mobi (Linux) Note:</description>
     </item>
     <item>
       <title>Technical Writer – Developer Docs / APIs</title>
-      <link>http://localhost:51655/pages/portfolio/</link>
+      <link>http://localhost:51924/pages/portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51655/pages/portfolio/</guid>
+      <guid>http://localhost:51924/pages/portfolio/</guid>
       <description>| Resume | LinkedIn | GitHub | Amazon |&#xA;Resources for &amp;ldquo;Creating an Online Portfolio&amp;rdquo; STC Presentation&#xA;Summary of Skills For experience with these, see my resume&#xA;Managing projects with multiple subject matter experts and stakeholders. Documenting SDKs and APIs, including OpenAPI specs and Swagger. Integrating code into documentation (Java, Python, JavaScript, command-line scripts). Writing docs for overviews, concepts, guides, quick-starts, tutorials, and reference. Reading and writing code in Java and Python.</description>
     </item>
   </channel>
