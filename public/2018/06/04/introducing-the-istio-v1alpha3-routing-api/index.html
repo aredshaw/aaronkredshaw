@@ -1,40 +1,178 @@
 <!DOCTYPE html>
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <link rel="stylesheet" href="/css/style.css">
-    <link rel="stylesheet" href="/css/fonts.css">
-    
-    <title></title>
-    <link rel="icon" type="image/png" href="/assets/img/favicon.ico" />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
-        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    <script src="/js/dark.js" defer=""></script>
 
+
+  
+<html itemscope itemtype="https://schema.org/WebPage" class="no-js" lang="en">
+
+<head prefix="og: http://ogp.me/ns#"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="siteBaseUrl" content="http://localhost:1313/">
+    <meta name="author" content="">
+    <meta name="description" content="My tech writing blog">
+    <meta name="keywords" content="">
+    <meta name="generator" content="Hugo 0.130.0">
+    <title>
+        
+           
+               Istio v1aplha3 routing API介绍(译文） &vert; Aaron Redshaw&#39;s Tech Writing Blog
+           
+        
+    </title>
+    <meta itemprop="name" content="Istio v1aplha3 routing API介绍(译文）">
+    <meta itemprop="description" content="介绍Istio v1alpha3 routing API及其设计原则">
+    <meta property="og:site_name" content="Aaron Redshaw&#39;s Tech Writing Blog">
+
+    <meta property="og:url" content="http://localhost:1313/2018/06/04/introducing-the-istio-v1alpha3-routing-api/">
+  <meta property="og:site_name" content="Aaron Redshaw&#39;s Tech Writing Blog">
+  <meta property="og:title" content="Istio v1aplha3 routing API介绍(译文）">
+  <meta property="og:description" content="介绍Istio v1alpha3 routing API及其设计原则">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2018-06-04T00:00:00+00:00">
+    <meta property="article:modified_time" content="2018-06-04T00:00:00+00:00">
+    <meta property="article:tag" content="Istio">
+
+
+    
+
+
+    <script src="/modernizr-simple.js"></script>
+
+    
+
+
+    
+    <link rel="canonical" href="http://localhost:1313/2018/06/04/introducing-the-istio-v1alpha3-routing-api/">
+    
+
+    <link rel="stylesheet" href="http://localhost:1313/theme.css">
+
+    
+
+    
+
+    
 </head>
 
+<body class="bilberry-hugo-theme">
+    
 
-<html>
-<!DOCTYPE html>
-<html>
+    
+    <nav>
 
-<body>
-  <header class="site-header">
+    <div class="container">
+        <ul class="topnav">
+            
+                
+                    <li><a href="http://localhost:1313/about/"></a></li>
+                
+            
+                
+                    <li><a href="http://localhost:1313/notes/"></a></li>
+                
+            
+        </ul>
 
-    <div class="wrapper">
-      <a class="muted small" href="http://localhost:1313/"></a>
+        
+            <div id="search-box" class="search">
+                <i class="fas fa-search"></i>
+                <input id="search" type="text" placeholder="Search ...">
+            </div>
+        
     </div>
-  </header>
-</body>
+</nav>
 
-</html>
 
-<h1>Istio v1aplha3 routing API介绍(译文）</h1>
-<p class="post-meta"><time itemprop="datePublished">June 4, 2018</time>
-</p>
-<p>到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。</p>
+    
+    <header>
+
+    <div class="container">
+        <div class="logo">
+            <a href="/" class="logo">
+                
+                    
+                    
+                        
+                    
+                    <img src="https://seccdn.libravatar.org/avatar/d41d8cd98f00b204e9800998ecf8427e?d=mm&size=200" alt="">
+                
+
+                <span class="overlay"><i class="fa fa-home"></i></span>
+            </a>
+        </div>
+        <div class="titles">
+            <h3 class="title">
+                <a href="/">
+                    Aaron Redshaw&#39;s Tech Writing Blog
+                </a>
+            </h3>
+
+            
+        </div>
+
+        
+
+        
+            <div class="toggler">
+        
+                <i class="fa fa-bars" aria-hidden="true"></i>
+            </div>
+    </div>
+</header>
+
+
+    <div class="main container">
+        
+    <div class="article-wrapper u-cf single">
+        
+            <a class="bubble" href="http://localhost:1313/2018/06/04/introducing-the-istio-v1alpha3-routing-api/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
+</a>
+
+<article class="default article">
+    
+
+    <div class="content">
+    <h1 class="article-title">
+        <a href="http://localhost:1313/2018/06/04/introducing-the-istio-v1alpha3-routing-api/">
+            Istio v1aplha3 routing API介绍(译文）
+        </a>
+    </h1>
+
+    <div class="meta">
+        
+            
+                <span class="date moment">2018-06-04</span>
+            
+        
+
+        
+
+        
+            <span class="categories">
+                
+                    
+                    
+                        <a href="http://localhost:1313/categories/tech/">Tech</a>
+                    
+                
+            </span>
+        
+
+        
+            <span class="author">
+                
+                
+            </span>
+        
+    </div>
+
+    
+        
+
+        <p>到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。</p>
 <p>虽然目前API的功能已被证明是Istio非常引人注目的一部分，但用户的反馈也表明，这个API确实有一些缺点，尤其是在使用它来管理包含数千个服务的非常大的应用程序，以及使用HTTP以外的协议时。 此外，使用Kubernetes Ingress资源来配置外部流量的方式已被证明不能满足需求。</p>
 <p>为了解决上述缺陷和其他的一些问题，Istio引入了新的流量管理API v1alpha3，新版本的API将完全取代之前的API。 尽管v1alpha3和之前的模型在本质上是基本相同的，但它并不向后兼容的，基于旧API的模型需要进行手动转换。 Istio接下来的几个版本中会提供一个新旧模型的转换工具。</p>
 <p>为了证明该非兼容升级的必要性，v1alpha3 API经历了漫长而艰苦的社区评估过程，以希望新的API能够大幅改进，并经得起时间考验。 在本文中，我们将介绍新的配置模型，并试图解释其后面的一些动机和设计原则。</p>
@@ -281,13 +419,187 @@
 <ul>
 <li><a href="https://kubernetes.io/blog/2018/01/extensible-admission-is-beta">Introducing the Istio v1alpha3 routing API</a></li>
 </ul>
+    
+</div>
 
-<footer>
-    <div>
-        <h3><a href="http://localhost:1313/posts">Back to all posts</a></h3>
+    
+<div class="footer">
+
+
+    
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                    <a href="http://localhost:1313/tags/istio/">Istio</a>
+                    
+                
+            </div>
+        </div>
+    
+
+    
+</div>
+
+</article>
+
+        
     </div>
-    <hr>
-    <p>Go <a href="http://localhost:1313//index.xml">here</a> for an RSS feed.</p>
+
+    
+        <div id="comments-container">
+            
+            
+
+            
+
+            
+
+        </div>
+    
+
+    </div>
+
+    
+<footer>
+    <div class="container">
+
+        
+        <div class="recent-posts">
+            <strong>Latest posts</strong>
+            <ul>
+                
+                
+                    <li>
+                        <a href="http://localhost:1313/blog/would-i-like-technical-writing/">Would I like technical writing?</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://localhost:1313/blog/what-should-i-study-first/">What should I study first?</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://localhost:1313/blog/what-are-apis-anyway/">What are APIs anyway?</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://localhost:1313/blog/getting-experience-part-3/">Getting experience – part 3</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://localhost:1313/blog/getting-experience-part-2/">Getting experience – part 2</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://localhost:1313/blog/getting-experience-part-1/">Getting experience – part 1</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://localhost:1313/blog/the-importance-of-humility/">The importance of humility</a>
+                    </li>
+                
+            </ul>
+        </div>
+        
+
+        
+        <div class="categories">
+            
+            <a href="http://localhost:1313/categories/"><strong>Categories</strong></a>
+            
+
+            <ul>
+                
+                <li>
+                
+                    <a href="http://localhost:1313/categories/tech/">Tech (15)</a>
+                
+                </li>
+                
+                <li>
+                
+                    <a href="http://localhost:1313/categories/tips/">Tips (4)</a>
+                
+                </li>
+                
+                <li>
+                
+                    <a href="http://localhost:1313/categories/life/">Life (1)</a>
+                
+                </li>
+                
+            </ul>
+        </div>
+        
+
+        <div class="right">
+            
+            <div class="external-profiles">
+                <strong>Social media</strong>
+                
+            </div>
+            
+
+            
+
+            
+            <div class="archive">
+                
+                <a href="http://localhost:1313/archive/"><strong>Archive</strong></a>
+                
+            </div>
+            
+        </div>
+    </div>
 </footer>
+
+
+<div class="credits">
+    <div class="container">
+        <div class="copyright">
+            <a href="https://github.com/Lednerb" target="_blank">
+                &copy;
+                
+                2018 - 2024
+                
+                by Lednerb
+            </a>
+            
+        </div>
+        <div class="author">
+            <a href="https://github.com/Lednerb/bilberry-hugo-theme"
+                target="_blank">Bilberry Hugo Theme</a>
+        </div>
+    </div>
+</div>
+
+
+    
+  
+
+
+
+    
+    <script src="http://localhost:1313/theme.js"></script>
+    
+
+    
+
+    
+    <div id="activate-algolia-search" class="hidden">
+  <input type="hidden" id="algolia-search-appId" value="">
+  <input type="hidden" id="algolia-search-apiKey" value="">
+  <input type="hidden" id="algolia-search-indexName" value="">
+  <input type="hidden" id="algolia-search-noSearchResults" value="Nothing found.">
+
+  
+</div>
+
+    
+
+    
+</body>
 
 </html>
