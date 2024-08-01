@@ -1,0 +1,1 @@
+gXMLBuffer ="<?xml version=\"1.0\" encoding=\"utf-8\" ?><data  src=\"toc.js\"  name=\"Choosing a USB Card\" url=\"Building_a_Computer/c_ChoosingUSBCard.html\"><item name=\"Installing a USB Card\" url=\"Building_a_Computer/t_USBCardInstallation.html\" /></data>";

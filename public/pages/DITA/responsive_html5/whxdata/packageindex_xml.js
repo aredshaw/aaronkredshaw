@@ -1,0 +1,1 @@
+gXMLBuffer="<?xml version=\"1.0\" encoding=\"utf-8\"?><cki><ck fm=\"!\" to=\"built\"/><ck fm=\"burn\" to=\"fill\"/><ck fm=\"final\" to=\"locat\"/><ck fm=\"long\" to=\"portsgo\"/><ck fm=\"possibl\" to=\"the\"/><ck fm=\"thecard\" to=\"yousoftwar\"/><ck fm=\"youwant\" to=\"“brain”\"/></cki>";
