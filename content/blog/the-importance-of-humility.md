@@ -12,7 +12,7 @@ When trying to get a job in technical writing, or even once you have one, humili
 
 ## I don’t know what I don’t know
 
-Here’s the thing. I think I’m pretty smart. I’ve learned some things trying to get into technical writing, and on the job. Sometimes I think I’ve arrived. But that’s not true at all. I know what I know. But I also don’t know what I don’t know. You can take a look at the comment at the end of my blog on [What kind of technical writing job should I get into?](https://aaronkredshaw.com/2022/01/01/what-kind-of-technical-writing-job-should-i-get-into/) and see that some of my assumptions were incorrect, at least for other locations. While it may be hard to hear that, it helps me to grow. The truth is my knowledge was incomplete. Someone else knew something I didn’t know.
+Here’s the thing. I think I’m pretty smart. I’ve learned some things trying to get into technical writing, and on the job. Sometimes I think I’ve arrived. But that’s not true at all. I know what I know. But I also don’t know what I don’t know. You can take a look at the comment at the end of my blog on [What kind of technical writing job should I get into?](../what-kind-of-technical-writing-job-should-i-get-into/) and see that some of my assumptions were incorrect, at least for other locations. While it may be hard to hear that, it helps me to grow. The truth is my knowledge was incomplete. Someone else knew something I didn’t know.
 
 It’s good to keep that in mind when trying to get into technical writing. It’s always hard to get rejections from companies. However, if they send something besides a form letter, it may really help to hear what they thought you needed to learn. Other than more experience, add any skills they mention to your list. Then learn those next.
 

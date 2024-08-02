@@ -8,6 +8,10 @@ tags:
   - untagged
 ---
 
+| This topic is divided into two posts: |
+|------------------|--------------------------------------------------------|
+| **Part 1** covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.|
+| **Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See <a href="../what-kind-of-technical-writing-job-should-i-get-into/">What kind of technical writing job should I get into?</a> for more on types of technical writing jobs and where my work lies. | 
 
 <table>
    <thead>
@@ -18,15 +22,15 @@ tags:
    <tbody>
       <tr>
          <td>**Part 1** covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.<br/><br/>
-         **Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See <a href="https://aaronkredshaw.com/2022/01/01/what-kind-of-technical-writing-job-should-i-get-into/">What kind of technical writing job should I get into?</a> for more on types of technical writing jobs and where my work lies.</td>
+         **Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See <a href="../what-kind-of-technical-writing-job-should-i-get-into/">What kind of technical writing job should I get into?</a> for more on types of technical writing jobs and where my work lies.</td>
       </tr>
    </tbody>
 </table>
 
 
-In this second post on the technical writing interview, I’ll focus on the technical section of the interview itself. For behavioral interview advice, as well as how to prepare for other general interview questions, see [The technical writing interview – Part 1](https://aaronkredshaw.com/2022/01/16/the-technical-writing-interview-part-1/).
+In this second post on the technical writing interview, I’ll focus on the technical section of the interview itself. For behavioral interview advice, as well as how to prepare for other general interview questions, see [The technical writing interview – Part 1](../the-technical-writing-interview-part-1/).
 
-This post will be based on [the kind of technical writing I do](https://aaronkredshaw.com/2022/01/01/what-kind-of-technical-writing-job-should-i-get-into/#Docs_as_code). It’s what I’ve heard some refer to as technical technical writing. Specifically, it uses the [docs as code approach](https://www.writethedocs.org/guide/docs-as-code/) to technical writing.
+This post will be based on [the kind of technical writing I do](..what-kind-of-technical-writing-job-should-i-get-into/#Docs_as_code). It’s what I’ve heard some refer to as technical technical writing. Specifically, it uses the [docs as code approach](https://www.writethedocs.org/guide/docs-as-code/) to technical writing.
 
 Most interviews I went through had five different sections, an hour each, with a different person doing each section. Yes, that’s five hours of interviews. One person was dedicated to the technical portion. For Amazon, I did this twice, going through the whole process for two separate teams. In these interviews, sometimes it was a software engineer who gave the technical portion, and sometimes it was a technical writer with a coding background.
 
@@ -122,26 +126,13 @@ If you use Sololearn, which I will recommend in a moment, you should make sure y
 
 While I consider these sections to be the most important for an interview, from my limited experience, you may want to finish the whole course just in case. Also, my experience is that to feel comfortable with a programming language, I have to go through the entire course three times. Here’s how it usually goes for me:
 
-<table>
-   <colgroup>
-      <col width="30%" />
-      <col width="70%" />
-   </colgroup>
-   <tbody>
-      <tr>
-         <td>1st time through</td>
-         <td>I get the main concepts and try out the provided code.</td>
-      </tr>
-      <tr>
-         <td>2nd time through</td>
-         <td>I play with the code more, making changes to see what happens.</td>
-      </tr>
-      <tr>
-         <td>3rd time through</td>
-         <td>I am starting to create some small programs now from scratch, looking up things when I get stuck or can’t remember exactly how to type something. At this point I feel like I have a good handle on these lessons, and a good foundation for the programming language.</td>
-      </tr>
-   </tbody>
-</table>
+
+|                  |                                                        |
+|------------------|--------------------------------------------------------|
+| 1st time through | I get the main concepts and try out the provided code. |
+| 2nd time through | I play with the code more, making changes to see what happens. |
+| 3rd time through | I am starting to create some small programs now from scratch, looking up things when I get stuck or can’t remember exactly how to type something. At this point I feel like I have a good handle on these lessons, and a good foundation for the programming language. |
+
 
 As I mentioned before, my favorite resource for learning a programming language is [Sololearn](https://www.sololearn.com/). You can use the website, or my preference is to use the phone app. There is a free version, or you can upgrade to the premium version, which I recommend if you can. Either way, it’s a great place to learn a programming language. The cool thing about it is that as you learn, you can play with live code and even create your own programs from scratch and save them. Sololearn offers courses for all three of these languages, as well as several others.
 
@@ -186,4 +177,4 @@ I have one other piece of advice, and it’s not quite as technical as the rest 
 
 Read a few articles online to familiarize yourself with the lingo. A good book that helped me with some of this, even though it wasn’t specifically for a docs as code approach was [Technical Writing Process](https://www.amazon.com/Technical-Writing-Process-five-step-procedures/dp/0994169310/), by Kieran Morgan. The book was also helpful for learning to think more like a technical writer, especially in how to organize information, and how to create a procedure for the work itself.
 
-Spend time writing out your answers to [Part 1 of this series](https://aaronkredshaw.com/2022/01/16/the-technical-writing-interview-part-1/), and prepare for the technical knowledge section, and you may just get the job you’re interviewing for. Good luck!
+Spend time writing out your answers to [Part 1 of this series](../the-technical-writing-interview-part-1/), and prepare for the technical knowledge section, and you may just get the job you’re interviewing for. Good luck!

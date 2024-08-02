@@ -12,7 +12,7 @@ This topic is divided into two posts:
 
 **Part 1** covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.
 
-**Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See [What kind of technical writing job should I get into?](https://aaronkredshaw.com/2022/01/01/what-kind-of-technical-writing-job-should-i-get-into/) for more on types of technical writing jobs and where my work lies.
+**Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See [What kind of technical writing job should I get into?](../what-kind-of-technical-writing-job-should-i-get-into/) for more on types of technical writing jobs and where my work lies.
 
 Congratulations, you got the interview! So, how do you prepare for it? You are going to prepare for it, right?
 

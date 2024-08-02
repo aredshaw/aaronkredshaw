@@ -12,6 +12,10 @@ tags:
 
 "How can I get experience in technical writing when all the entry-level jobs require experience?" I've heard this a lot. It's perhaps the most difficult issue to overcome when trying to get into technical writing. Just today I looked up entry level positions for technical writing on [Indeed](https://www.indeed.com/). I saw only one in my area, and here’s what it said:
 
+![Open Source](../images/job_desc.png)
+
+<img src="../images/job_desc.png" alt="Job description">
+
 3-6 years? I have seen many other entry level positions like this, usually requiring 1-3 years of experience. How is that entry level? Of course, you can always apply anyway, but even in interviews I have found getting around a lack of experience extremely difficult.
 
 Note: This post is about technical writing jobs for the software industry, including API documentation. There are many other kinds of technical writing out there, but this is my area of expertise.
@@ -76,6 +80,6 @@ Further from me, in India, [Metapercept Technology Services](https://metapercept
 
 For programs that don’t directly connect you to an internship or job, most help you create a portfolio, which is a step in the right direction. 
 
-If you are considering either a certification program or college degree in technical writing, I would make sure they offer a way into the industry directly. At a minimum they should offer an internship, or even better, connections to the industry with a high rate of students being placed at companies. Since it is so difficult to get started without actual experience, I would recommend rejecting any program that only helps you build your portfolio. Remember, [experience is king](https://aaronkredshaw.com/2020/05/15/experience-is-king/). If they can get you experience, that’s what counts. The best experience would be for the kind of technical writing you want to get into, such as writing documentation for software developers. 
+If you are considering either a certification program or college degree in technical writing, I would make sure they offer a way into the industry directly. At a minimum they should offer an internship, or even better, connections to the industry with a high rate of students being placed at companies. Since it is so difficult to get started without actual experience, I would recommend rejecting any program that only helps you build your portfolio. Remember, [experience is king](../experience-is-king/). If they can get you experience, that’s what counts. The best experience would be for the kind of technical writing you want to get into, such as writing documentation for software developers. 
 
 I will continue going through this list in my next post. In the meantime, feel free to leave a comment below. I especially welcome comments about programs or schools that offer not only training, but experience in the field that might lead to a job.

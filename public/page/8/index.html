@@ -4,10 +4,10 @@
   
 <html itemscope itemtype="https://schema.org/WebPage" class="no-js" lang="en">
 
-<head prefix="og: http://ogp.me/ns#"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head prefix="og: http://ogp.me/ns#"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=53601&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="siteBaseUrl" content="http://localhost:1313/">
+    <meta name="siteBaseUrl" content="http://localhost:53601/">
     <meta name="author" content="">
     <meta name="description" content="">
     <meta name="keywords" content="">
@@ -23,7 +23,7 @@
     <meta itemprop="description" content="">
     <meta property="og:site_name" content="Aaron K. Redshaw">
 
-    <meta property="og:url" content="http://localhost:1313/">
+    <meta property="og:url" content="http://localhost:53601/">
   <meta property="og:site_name" content="Aaron K. Redshaw">
   <meta property="og:title" content="Aaron K. Redshaw">
   <meta property="og:locale" content="en_us">
@@ -36,16 +36,16 @@
     <script src="/modernizr-simple.js"></script>
 
     
-    <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="Aaron K. Redshaw" />
-    <link href="http://localhost:1313/index.xml" rel="feed" type="application/rss+xml" title="Aaron K. Redshaw" />
+    <link href="http://localhost:53601/index.xml" rel="alternate" type="application/rss+xml" title="Aaron K. Redshaw" />
+    <link href="http://localhost:53601/index.xml" rel="feed" type="application/rss+xml" title="Aaron K. Redshaw" />
     
 
 
     
-    <link rel="canonical" href="http://localhost:1313/">
+    <link rel="canonical" href="http://localhost:53601/">
     
 
-    <link rel="stylesheet" href="http://localhost:1313/theme.css">
+    <link rel="stylesheet" href="http://localhost:53601/theme.css">
 
     
 
@@ -64,11 +64,11 @@
         <ul class="topnav">
             
                 
-                    <li><a href="http://localhost:1313/about/"></a></li>
+                    <li><a href="http://localhost:53601/about/"></a></li>
                 
             
                 
-                    <li><a href="http://localhost:1313/notes/"></a></li>
+                    <li><a href="http://localhost:53601/notes/"></a></li>
                 
             
         </ul>
@@ -140,7 +140,7 @@
         
     <div class="article-wrapper u-cf">
         
-            <a class="bubble" href="http://localhost:1313/2017/11/28/access-application-from-outside/">
+            <a class="bubble" href="http://localhost:53601/2017/11/28/access-application-from-outside/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
@@ -149,7 +149,7 @@
 
     <div class="content">
     <h1 class="article-title">
-        <a href="http://localhost:1313/2017/11/28/access-application-from-outside/">
+        <a href="http://localhost:53601/2017/11/28/access-application-from-outside/">
             如何从外部访问Kubernetes集群中的应用？
         </a>
     </h1>
@@ -168,7 +168,7 @@
                 
                     
                     
-                        <a href="http://localhost:1313/categories/tech/">Tech</a>
+                        <a href="http://localhost:53601/categories/tech/">Tech</a>
                     
                 
             </span>
@@ -187,7 +187,7 @@
 <p>我们知道，kubernetes的Cluster Network属于私有网络，只能在cluster Network内部才能访问部署的应用，那如何才能将Kubernetes集群中的应用暴露到外部网络，为外部用户提供服务呢？本文探讨了从外部网络访问kubernetes cluster中应用的几种实现方式。</p>
 
         
-            <a href="http://localhost:1313/2017/11/28/access-application-from-outside/" class="more">Continue reading</a>
+            <a href="http://localhost:53601/2017/11/28/access-application-from-outside/" class="more">Continue reading</a>
         
     
 </div>
@@ -203,7 +203,7 @@
                 
                     
                     
-                    <a href="http://localhost:1313/tags/kubernetes/">Kubernetes</a>
+                    <a href="http://localhost:53601/tags/kubernetes/">Kubernetes</a>
                     
                 
             </div>
@@ -223,7 +223,7 @@
         
     <div class="article-wrapper u-cf">
         
-            <a class="bubble" href="http://localhost:1313/2017/11/08/istio-canary-release/">
+            <a class="bubble" href="http://localhost:53601/2017/11/08/istio-canary-release/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
@@ -232,7 +232,7 @@
 
     <div class="content">
     <h1 class="article-title">
-        <a href="http://localhost:1313/2017/11/08/istio-canary-release/">
+        <a href="http://localhost:53601/2017/11/08/istio-canary-release/">
             采用Istio实现灰度发布(金丝雀发布)
         </a>
     </h1>
@@ -251,7 +251,7 @@
                 
                     
                     
-                        <a href="http://localhost:1313/categories/tech/">Tech</a>
+                        <a href="http://localhost:53601/categories/tech/">Tech</a>
                     
                 
             </span>
@@ -283,7 +283,7 @@ istio-0.2.10/samples/bookinfo/kube/cleanup.sh 部署V1版本的服务 首先只�
 apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec: replicas: 1 template: metadata: labels: app: reviews version: v2 spec: containers: - name: reviews image: istio/examples-bookinfo-reviews-v2:0.2.3 imagePullPolicy: IfNotPresent ports: - containerPort: 9080 --- apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v3 spec: replicas: 1 template: metadata: labels: app: reviews version: v3 spec: containers: - name: reviews image: istio/examples-bookinfo-reviews-v3:0.
 
         
-            <a href="http://localhost:1313/2017/11/08/istio-canary-release/" class="more">Continue reading</a>
+            <a href="http://localhost:53601/2017/11/08/istio-canary-release/" class="more">Continue reading</a>
         
     
 </div>
@@ -299,7 +299,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
                 
                     
                     
-                    <a href="http://localhost:1313/tags/istio/">Istio</a>
+                    <a href="http://localhost:53601/tags/istio/">Istio</a>
                     
                 
             </div>
@@ -319,7 +319,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
         
     <div class="article-wrapper u-cf">
         
-            <a class="bubble" href="http://localhost:1313/2017/11/07/istio-traffic-shifting/">
+            <a class="bubble" href="http://localhost:53601/2017/11/07/istio-traffic-shifting/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
@@ -328,7 +328,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
 
     <div class="content">
     <h1 class="article-title">
-        <a href="http://localhost:1313/2017/11/07/istio-traffic-shifting/">
+        <a href="http://localhost:53601/2017/11/07/istio-traffic-shifting/">
             使用Istio实现应用流量转移
         </a>
     </h1>
@@ -347,7 +347,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
                 
                     
                     
-                        <a href="http://localhost:1313/categories/tech/">Tech</a>
+                        <a href="http://localhost:53601/categories/tech/">Tech</a>
                     
                 
             </span>
@@ -367,7 +367,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
 <p>本任务将演示如何将应用流量逐渐从旧版本的服务迁移到新版本。通过Istio，可以使用一系列不同权重的规则（10%，20%，··· 100%）将流量平缓地从旧版本服务迁移到新版本服务。</p>
 
         
-            <a href="http://localhost:1313/2017/11/07/istio-traffic-shifting/" class="more">Continue reading</a>
+            <a href="http://localhost:53601/2017/11/07/istio-traffic-shifting/" class="more">Continue reading</a>
         
     
 </div>
@@ -383,7 +383,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
                 
                     
                     
-                    <a href="http://localhost:1313/tags/istio/">Istio</a>
+                    <a href="http://localhost:53601/tags/istio/">Istio</a>
                     
                 
             </div>
@@ -403,7 +403,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
         
     <div class="article-wrapper u-cf">
         
-            <a class="bubble" href="http://localhost:1313/2017/11/04/istio-install_and_example/">
+            <a class="bubble" href="http://localhost:53601/2017/11/04/istio-install_and_example/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
@@ -412,7 +412,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
 
     <div class="content">
     <h1 class="article-title">
-        <a href="http://localhost:1313/2017/11/04/istio-install_and_example/">
+        <a href="http://localhost:53601/2017/11/04/istio-install_and_example/">
             Istio及Bookinfo示例程序安装试用笔记
         </a>
     </h1>
@@ -431,7 +431,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
                 
                     
                     
-                        <a href="http://localhost:1313/categories/tech/">Tech</a>
+                        <a href="http://localhost:53601/categories/tech/">Tech</a>
                     
                 
             </span>
@@ -451,7 +451,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
 <p>服务网格将服务间通讯以及与此相关的管理控制功能从业务程序中下移到一个基础设施层，从而彻底隔离了业务逻辑和服务通讯两个关注点。采用服务网格后，应用开发者只需要关注并实现应用业务逻辑。服务之间的通信，包括服务发现，通讯的可靠性，通讯的安全性，服务路由等由服务网格层进行处理，并对应用程序透明。</p>
 
         
-            <a href="http://localhost:1313/2017/11/04/istio-install_and_example/" class="more">Continue reading</a>
+            <a href="http://localhost:53601/2017/11/04/istio-install_and_example/" class="more">Continue reading</a>
         
     
 </div>
@@ -467,7 +467,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
                 
                     
                     
-                    <a href="http://localhost:1313/tags/istio/">Istio</a>
+                    <a href="http://localhost:53601/tags/istio/">Istio</a>
                     
                 
             </div>
@@ -487,7 +487,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
         
     <div class="article-wrapper u-cf">
         
-            <a class="bubble" href="http://localhost:1313/2017/11/03/hello-world/">
+            <a class="bubble" href="http://localhost:53601/2017/11/03/hello-world/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
@@ -496,7 +496,7 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
 
     <div class="content">
     <h1 class="article-title">
-        <a href="http://localhost:1313/2017/11/03/hello-world/">
+        <a href="http://localhost:53601/2017/11/03/hello-world/">
             Welcome to Zhaohuabing Blog
         </a>
     </h1>
@@ -547,7 +547,7 @@ Hello World!
         
     <div class="article-wrapper u-cf">
         
-            <a class="bubble" href="http://localhost:1313/pages/dita/linux/responsive_html5/">
+            <a class="bubble" href="http://localhost:53601/pages/dita/linux/responsive_html5/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
@@ -556,7 +556,7 @@ Hello World!
 
     <div class="content">
     <h1 class="article-title">
-        <a href="http://localhost:1313/pages/dita/linux/responsive_html5/">
+        <a href="http://localhost:53601/pages/dita/linux/responsive_html5/">
             
         </a>
     </h1>
@@ -602,7 +602,7 @@ End of search results.&nbsp;&#160;&nbsp;&nbsp;&#160;
         
     <div class="article-wrapper u-cf">
         
-            <a class="bubble" href="http://localhost:1313/pages/dita/responsive_html5/">
+            <a class="bubble" href="http://localhost:53601/pages/dita/responsive_html5/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
@@ -611,7 +611,7 @@ End of search results.&nbsp;&#160;&nbsp;&nbsp;&#160;
 
     <div class="content">
     <h1 class="article-title">
-        <a href="http://localhost:1313/pages/dita/responsive_html5/">
+        <a href="http://localhost:53601/pages/dita/responsive_html5/">
             
         </a>
     </h1>
@@ -681,31 +681,31 @@ End of search results.&nbsp;&#160;&nbsp;&nbsp;&#160;
                 
                 
                     <li>
-                        <a href="http://localhost:1313/blog/would-i-like-technical-writing/">Would I like technical writing?</a>
+                        <a href="http://localhost:53601/blog/would-i-like-technical-writing/">Would I like technical writing?</a>
                     </li>
                 
                     <li>
-                        <a href="http://localhost:1313/blog/what-should-i-study-first/">What should I study first?</a>
+                        <a href="http://localhost:53601/blog/what-should-i-study-first/">What should I study first?</a>
                     </li>
                 
                     <li>
-                        <a href="http://localhost:1313/blog/what-are-apis-anyway/">What are APIs anyway?</a>
+                        <a href="http://localhost:53601/blog/what-are-apis-anyway/">What are APIs anyway?</a>
                     </li>
                 
                     <li>
-                        <a href="http://localhost:1313/blog/getting-experience-part-3/">Getting experience – part 3</a>
+                        <a href="http://localhost:53601/blog/getting-experience-part-3/">Getting experience – part 3</a>
                     </li>
                 
                     <li>
-                        <a href="http://localhost:1313/blog/getting-experience-part-2/">Getting experience – part 2</a>
+                        <a href="http://localhost:53601/blog/getting-experience-part-2/">Getting experience – part 2</a>
                     </li>
                 
                     <li>
-                        <a href="http://localhost:1313/blog/getting-experience-part-1/">Getting experience – part 1</a>
+                        <a href="http://localhost:53601/blog/getting-experience-part-1/">Getting experience – part 1</a>
                     </li>
                 
                     <li>
-                        <a href="http://localhost:1313/blog/the-importance-of-humility/">The importance of humility</a>
+                        <a href="http://localhost:53601/blog/the-importance-of-humility/">The importance of humility</a>
                     </li>
                 
             </ul>
@@ -715,26 +715,26 @@ End of search results.&nbsp;&#160;&nbsp;&nbsp;&#160;
         
         <div class="categories">
             
-            <a href="http://localhost:1313/categories/"><strong>Categories</strong></a>
+            <a href="http://localhost:53601/categories/"><strong>Categories</strong></a>
             
 
             <ul>
                 
                 <li>
                 
-                    <a href="http://localhost:1313/categories/tech/">Tech (15)</a>
+                    <a href="http://localhost:53601/categories/tech/">Tech (15)</a>
                 
                 </li>
                 
                 <li>
                 
-                    <a href="http://localhost:1313/categories/tips/">Tips (4)</a>
+                    <a href="http://localhost:53601/categories/tips/">Tips (4)</a>
                 
                 </li>
                 
                 <li>
                 
-                    <a href="http://localhost:1313/categories/life/">Life (1)</a>
+                    <a href="http://localhost:53601/categories/life/">Life (1)</a>
                 
                 </li>
                 
@@ -755,7 +755,7 @@ End of search results.&nbsp;&#160;&nbsp;&nbsp;&#160;
             
             <div class="archive">
                 
-                <a href="http://localhost:1313/archive/"><strong>Archive</strong></a>
+                <a href="http://localhost:53601/archive/"><strong>Archive</strong></a>
                 
             </div>
             
@@ -775,7 +775,7 @@ End of search results.&nbsp;&#160;&nbsp;&nbsp;&#160;
                 by Lednerb
             </a>
             -
-            <a href="http://localhost:1313/index.xml">rss</a>
+            <a href="http://localhost:53601/index.xml">rss</a>
         </div>
         <div class="author">
             <a href="https://github.com/Lednerb/bilberry-hugo-theme"
@@ -791,7 +791,7 @@ End of search results.&nbsp;&#160;&nbsp;&nbsp;&#160;
 
 
     
-    <script src="http://localhost:1313/theme.js"></script>
+    <script src="http://localhost:53601/theme.js"></script>
     
 
     

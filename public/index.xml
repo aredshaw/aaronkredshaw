@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aaron K. Redshaw</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:53601/</link>
     <description>Recent content on Aaron K. Redshaw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:53601/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Would I like technical writing?</title>
-      <link>http://localhost:1313/blog/would-i-like-technical-writing/</link>
+      <link>http://localhost:53601/blog/would-i-like-technical-writing/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/would-i-like-technical-writing/</guid>
+      <guid>http://localhost:53601/blog/would-i-like-technical-writing/</guid>
       <description>Before you invest time, and possibly money, into getting into a technical writing career, you should first decide if it&amp;rsquo;s the kind of job you would like.
 Keep in mind you probably won’t identify with everything in these lists, but if technical writing is a job you’d like, you may see some familiar patterns here.
 Questions to answer - The big 3 There are lots of possible questions to answer to know if you would like technical writing, but I think these might be the big 3:</description>
@@ -23,79 +23,78 @@ Questions to answer - The big 3 There are lots of possible questions to answer t
     
     <item>
       <title>What should I study first?</title>
-      <link>http://localhost:1313/blog/what-should-i-study-first/</link>
+      <link>http://localhost:53601/blog/what-should-i-study-first/</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/what-should-i-study-first/</guid>
+      <guid>http://localhost:53601/blog/what-should-i-study-first/</guid>
       <description>If you want to get a job as a technical writer, you will have to get technical. Since I&amp;rsquo;m often asked what to study first, I&amp;rsquo;ve put together some guiding principles so you can figure out where to spend your time learning the technical subjects.
 I won&amp;rsquo;t tell you what to study first, but I&amp;rsquo;ll give you what you need to make that decision. As usual, I&amp;rsquo;m assuming you want to document software using a docs-as-code approach, which is where my experience lies.</description>
     </item>
     
     <item>
       <title>What are APIs anyway?</title>
-      <link>http://localhost:1313/blog/what-are-apis-anyway/</link>
+      <link>http://localhost:53601/blog/what-are-apis-anyway/</link>
       <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/what-are-apis-anyway/</guid>
+      <guid>http://localhost:53601/blog/what-are-apis-anyway/</guid>
       <description>Introduction to APIs When people use the term APIs, they are not all talking about the same thing. This used to confuse me early on, so I&amp;rsquo;m going to give you a very quick tour of APIs. If you want more in-depth knowledge, there is a ton of information online.
 To start, API stands for Application Programming Interface. It’s a way that software can exchange information with other software. Since knowing how to document APIs is in very high demand for software technical writers, I’m going to also provide resources for learning more about each type.</description>
     </item>
     
     <item>
       <title>Getting experience – part 3</title>
-      <link>http://localhost:1313/blog/getting-experience-part-3/</link>
+      <link>http://localhost:53601/blog/getting-experience-part-3/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/getting-experience-part-3/</guid>
+      <guid>http://localhost:53601/blog/getting-experience-part-3/</guid>
       <description>Get experience with an open source project GitHub | Linux | GNU | Sourceforge
 Common advice The idea that you can get a job in technical writing by volunteering to write documentation for an open source project has been around awhile. This advice often appears in blog posts, tech writing forums, and advice columns. The prevailing logic is that you can add to your portfolio by writing documentation for some of the many open source software projects available.</description>
     </item>
     
     <item>
       <title>Getting experience – part 2</title>
-      <link>http://localhost:1313/blog/getting-experience-part-2/</link>
+      <link>http://localhost:53601/blog/getting-experience-part-2/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/getting-experience-part-2/</guid>
+      <guid>http://localhost:53601/blog/getting-experience-part-2/</guid>
       <description>Get any job in an IT industry, and try to work your way into a tech writing position If you’ve been applying for technical writing jobs, you may have discovered that no one will hire you without experience. In that case, you may try getting a job in a technical company, and see if you can work your way into technical writing. If you are currently employed, you may do this in your current company.</description>
     </item>
     
     <item>
       <title>Getting experience – part 1</title>
-      <link>http://localhost:1313/blog/getting-experience-part-1/</link>
+      <link>http://localhost:53601/blog/getting-experience-part-1/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/getting-experience-part-1/</guid>
+      <guid>http://localhost:53601/blog/getting-experience-part-1/</guid>
       <description>The problem &amp;ldquo;How can I get experience in technical writing when all the entry-level jobs require experience?&amp;rdquo; I&amp;rsquo;ve heard this a lot. It&amp;rsquo;s perhaps the most difficult issue to overcome when trying to get into technical writing. Just today I looked up entry level positions for technical writing on Indeed. I saw only one in my area, and here’s what it said:
 3-6 years? I have seen many other entry level positions like this, usually requiring 1-3 years of experience.</description>
     </item>
     
     <item>
       <title>The importance of humility</title>
-      <link>http://localhost:1313/blog/the-importance-of-humility/</link>
+      <link>http://localhost:53601/blog/the-importance-of-humility/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/the-importance-of-humility/</guid>
+      <guid>http://localhost:53601/blog/the-importance-of-humility/</guid>
       <description>When trying to get a job in technical writing, or even once you have one, humility can serve you well. Sometimes humility is learned the hard way, by running into a wall, or being turned down a few dozen times. Fortunately, we don’t have to wait for that to happen to learn humility. Here are some thoughts I have about its importance in your job search.
 I don’t know what I don’t know Here’s the thing.</description>
     </item>
     
     <item>
       <title>The technical writing interview – part 2</title>
-      <link>http://localhost:1313/blog/the-technical-writing-interview-part-2/</link>
+      <link>http://localhost:53601/blog/the-technical-writing-interview-part-2/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/the-technical-writing-interview-part-2/</guid>
-      <description>In this second post on the technical writing interview, I’ll focus on the technical section of the interview itself. For behavioral interview advice, as well as how to prepare for other general interview questions, see The technical writing interview – Part 1.
-This post will be based on the kind of technical writing I do. It’s what I’ve heard some refer to as technical technical writing. Specifically, it uses the docs as code approach to technical writing.</description>
+      <guid>http://localhost:53601/blog/the-technical-writing-interview-part-2/</guid>
+      <description>This topic is divided into two posts: Part 1 covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job. Part 2 will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do.</description>
     </item>
     
     <item>
       <title>The technical writing interview – part 1</title>
-      <link>http://localhost:1313/blog/the-technical-writing-interview-part-1/</link>
+      <link>http://localhost:53601/blog/the-technical-writing-interview-part-1/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/the-technical-writing-interview-part-1/</guid>
+      <guid>http://localhost:53601/blog/the-technical-writing-interview-part-1/</guid>
       <description>This topic is divided into two posts:
 Part 1 covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.
 Part 2 will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do.</description>
@@ -103,104 +102,104 @@ Part 2 will focus on the technical aspects. This will be from my own experience,
     
     <item>
       <title>What kind of technical writing job should I get into?</title>
-      <link>http://localhost:1313/blog/what-kind-of-technical-writing-job-should-i-get-into/</link>
+      <link>http://localhost:53601/blog/what-kind-of-technical-writing-job-should-i-get-into/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/what-kind-of-technical-writing-job-should-i-get-into/</guid>
+      <guid>http://localhost:53601/blog/what-kind-of-technical-writing-job-should-i-get-into/</guid>
       <description>If you&amp;rsquo;re looking for a technical writing job, it&amp;rsquo;s easy to get overwhelmed with all the possible job requirements. The truth is there are many types of technical writing jobs, and each has its own requirements. For that reason, there is no need to study all the requirements for every category of technical writing job. Picking a target type and working towards that kind of job can save you from being quite so overwhelmed and may get you a job faster.</description>
     </item>
     
     <item>
       <title>Tech writing hiring freeze</title>
-      <link>http://localhost:1313/blog/tech-writing-hiring-freeze/</link>
+      <link>http://localhost:53601/blog/tech-writing-hiring-freeze/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/tech-writing-hiring-freeze/</guid>
+      <guid>http://localhost:53601/blog/tech-writing-hiring-freeze/</guid>
       <description>I hope the title caught your attention, because if you are in the market to get hired as a technical writer, keep a watch on your calendar. In general, most companies stop hiring around the end of October (sometimes weeks earlier), and start again around mid-January. This often has to do with approved budgets for headcount, and also businesses just start hunkering down as the holidays approach.
 What should I do about it?</description>
     </item>
     
     <item>
       <title>The Shakespeare effect</title>
-      <link>http://localhost:1313/blog/the-shakespeare-effect/</link>
+      <link>http://localhost:53601/blog/the-shakespeare-effect/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/the-shakespeare-effect/</guid>
+      <guid>http://localhost:53601/blog/the-shakespeare-effect/</guid>
       <description>When I was in college, working my way towards a BA in English, I took a Shakespeare class. Besides all that we learned during lecture times, we were required to read six Shakespeare plays outside of class. So, several nights a week I found myself reading through a Shakespeare play, and most of the time I was utterly confused. Many of the words were modern words, but many were also new to me.</description>
     </item>
     
     <item>
       <title>How do you handle the frustration?</title>
-      <link>http://localhost:1313/blog/how-do-you-handle-the-frustration/</link>
+      <link>http://localhost:53601/blog/how-do-you-handle-the-frustration/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-do-you-handle-the-frustration/</guid>
+      <guid>http://localhost:53601/blog/how-do-you-handle-the-frustration/</guid>
       <description>Here&amp;rsquo;s the thing. I&amp;rsquo;m completely lost in this Android course. I&amp;rsquo;m copying and pasting code, and sometimes it compiles and works and sometimes it doesn&amp;rsquo;t. I get some of the concepts, but most are over my head at this point. I know if I slow down too much, I will get bogged down and feel like I&amp;rsquo;m going nowhere. With enough repetition, this will get better in later iterations. As long as I don&amp;rsquo;t stop.</description>
     </item>
     
     <item>
       <title>Learning the hard stuff</title>
-      <link>http://localhost:1313/blog/learning-the-hard-stuff/</link>
+      <link>http://localhost:53601/blog/learning-the-hard-stuff/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/learning-the-hard-stuff/</guid>
+      <guid>http://localhost:53601/blog/learning-the-hard-stuff/</guid>
       <description>The thing about getting into technical writing, is that most employers care more about your technical mastery than they do your writing ability. For that reason, one of the best ways to show your value is to prove your technical skills. The list of what you can learn is just about infinite, and choosing what will impress employers can be difficult. (See my spreadsheet if you are looking for how to narrow this down.</description>
     </item>
     
     <item>
       <title>Google certificates &amp; Sololearn</title>
-      <link>http://localhost:1313/blog/google-certificates-sololearn/</link>
+      <link>http://localhost:53601/blog/google-certificates-sololearn/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/google-certificates-sololearn/</guid>
+      <guid>http://localhost:53601/blog/google-certificates-sololearn/</guid>
       <description>As I have said before, when getting into technical writing, experience is king. But when you might have difficulty getting experience, the next best thing you can do is gain technical know-how. I&amp;rsquo;ve recently stumbled upon Google Certificates. These are courses that are offered either through Google or through a partnership with Google and Coursera, and they are intended to help people get into high-growth technical jobs.
 According to their site, 82% of Certificate graduates report a positive career impact in six months, though so far, these statistics mostly come from the IT Support course, which was their first.</description>
     </item>
     
     <item>
       <title>Stock OpenAPI (Swagger)</title>
-      <link>http://localhost:1313/pages/stock-openapi/</link>
+      <link>http://localhost:53601/pages/stock-openapi/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/stock-openapi/</guid>
+      <guid>http://localhost:53601/pages/stock-openapi/</guid>
       <description>&amp;lt;body&amp;gt; &amp;lt;div id = &amp;quot;fb&amp;quot;&amp;gt;Facebook: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;ap&amp;quot;&amp;gt;Apple: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;goog&amp;quot;&amp;gt;Google: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;msft&amp;quot;&amp;gt;Microsoft: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;ibm&amp;quot;&amp;gt;IBM: &amp;lt;/div&amp;gt; &amp;lt;/body&amp;gt; Here is an OpenAPI (Swagger) document I wrote for use with this resource. With it you can make calls to IEX Cloud to look up current stock prices for many different companies.​</description>
     </item>
     
     <item>
       <title>Start with a good resume</title>
-      <link>http://localhost:1313/blog/start-with-a-good-resume/</link>
+      <link>http://localhost:53601/blog/start-with-a-good-resume/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/start-with-a-good-resume/</guid>
+      <guid>http://localhost:53601/blog/start-with-a-good-resume/</guid>
       <description>This post will not get into resume writing basics. There are some great guides out there for free already on that topic. Here I will just cover what is specific to technical writing.
 Keywords are key According to Josh Hrala at careerminds.com, 17% of all resumes submitted are never read by a human being. Instead, they are processed by an ATS (applicant tracking system), which searches for certain keywords that match the job description.</description>
     </item>
     
     <item>
       <title>Technical skills trump writing skills</title>
-      <link>http://localhost:1313/blog/technical-skills-trump-writing-skills/</link>
+      <link>http://localhost:53601/blog/technical-skills-trump-writing-skills/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/technical-skills-trump-writing-skills/</guid>
+      <guid>http://localhost:53601/blog/technical-skills-trump-writing-skills/</guid>
       <description>If you are trying to get into technical writing, you may find it is a sad fact that much more emphasis is placed on your technical skills than your writing skills. It seems it is assumed that writing is easier to pick up than technical skills. Or perhaps the assumption is that everyone can write, but not everyone has technical know-how. Take a look at this list of requirements for a fairly low-level technical writer position I found (really, it was the first one that came up on Indeed).</description>
     </item>
     
     <item>
       <title>A Letter About Self Publishing</title>
-      <link>http://localhost:1313/pages/a-letter-about-self-publishing/</link>
+      <link>http://localhost:53601/pages/a-letter-about-self-publishing/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/a-letter-about-self-publishing/</guid>
+      <guid>http://localhost:53601/pages/a-letter-about-self-publishing/</guid>
       <description>Here is a letter I wrote in response to someone asking about self-publishing. Josh,
 I’m glad I got to talk with you a little tonight. It looks like you are on the same adventure that I am on. I really enjoy writing; it is my new hobby, but I have to keep reminding myself that it is more of a marathon than a sprint. I had written five first drafts (National Novel Writing Month), but only one of those did I ever revise into a book for others.</description>
     </item>
     
     <item>
       <title>A Self-Publishing Guide</title>
-      <link>http://localhost:1313/pages/a-self-publishing-guide_tools/</link>
+      <link>http://localhost:53601/pages/a-self-publishing-guide_tools/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/a-self-publishing-guide_tools/</guid>
+      <guid>http://localhost:53601/pages/a-self-publishing-guide_tools/</guid>
       <description>Skills demonstrated: Software documentation, screenshots, HTML, publishing, explaining step-by-step procedures, web development Tools used: Google Docs, Microsoft Word, Photoshop, Adobe Acrobat, CMS (content management system), WordPress
 Read as a PDF
 Google Docs I use Google Docs for the bulk of my drafting and revision. Some reasons for this are:
@@ -209,29 +208,29 @@ Google Docs saves your document every few seconds, so I do not have to worry abo
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/pages/about-me/</link>
+      <link>http://localhost:53601/pages/about-me/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/about-me/</guid>
+      <guid>http://localhost:53601/pages/about-me/</guid>
       <description> Technical Writer Author of five novels and two novelettes B.A. English </description>
     </item>
     
     <item>
       <title>Books I&#39;ve Published</title>
-      <link>http://localhost:1313/pages/books-ive-published/</link>
+      <link>http://localhost:53601/pages/books-ive-published/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/books-ive-published/</guid>
+      <guid>http://localhost:53601/pages/books-ive-published/</guid>
       <description>When I was a high school English teacher I sometimes wondered what it would be like to write a book. I had met several teachers who said that one day they would write a novel, but it just never seemed to happen. Then one day I thought to myself, &amp;ldquo;Why not stop dreaming and just do it!&amp;rdquo; You can also view these books at Amazon.
 The Gifted Series Space to Stand Trivia My first draft of my first book, The Gifted, only took me 11 days to complete (50,000 words).</description>
     </item>
     
     <item>
       <title>Clyste</title>
-      <link>http://localhost:1313/pages/clyste/</link>
+      <link>http://localhost:53601/pages/clyste/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/clyste/</guid>
+      <guid>http://localhost:53601/pages/clyste/</guid>
       <description>Documentation for Clyste I am currently writing some documentation for a start-up called Clyste. The Word doc can be found here. Besides this document, I put together an introductory email for those joining the group.
 Clyste (Pronounced Klīst)
 https://angel.co/clyste-social-network
@@ -240,38 +239,38 @@ Most of you are familiar with social media, such as Facebook, Instagram, and Twi
     
     <item>
       <title>Clyste Email</title>
-      <link>http://localhost:1313/pages/clyste-email/</link>
+      <link>http://localhost:53601/pages/clyste-email/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/clyste-email/</guid>
+      <guid>http://localhost:53601/pages/clyste-email/</guid>
       <description>When I joined the Clyste group, I was sent an email by the COO of the company. I offered to help with a rewrite of the initial email. Here you can see the original as well as my version. The original Welcome to the community Aaron. Our first goal is 1. To inform you about what we are doing (whatever you don’t understand, please ask questions – this will help us refine our idea).</description>
     </item>
     
     <item>
       <title>Creating an Online Portfolio</title>
-      <link>http://localhost:1313/pages/creating-an-online-portfolio/</link>
+      <link>http://localhost:53601/pages/creating-an-online-portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/creating-an-online-portfolio/</guid>
+      <guid>http://localhost:53601/pages/creating-an-online-portfolio/</guid>
       <description>Resources Slides from presentation Handout for Creating an Online Portfolio The best article I found for comparing web hosting sites The top part contains inexpensive hosting plans, with free accounts at the bottom. Advice for aspiring writers This was a letter I wrote to Karen (not her real name), full of advice about what worked for me and how I went about getting into technical writing. Technical writing tools / skills most in demand According to searches I made on Indeed.</description>
     </item>
     
     <item>
       <title>DebtPayoff</title>
-      <link>http://localhost:1313/pages/debtpayoff/</link>
+      <link>http://localhost:53601/pages/debtpayoff/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/debtpayoff/</guid>
+      <guid>http://localhost:53601/pages/debtpayoff/</guid>
       <description>As I was learning Java, I realized I had need of a program that would calculate how much money and time it would take to pay off my credit card. I wanted to be able to play with the numbers. If I paid $20 more per month, how much would I save in interest payments? How about $50? This program does just that.
 View the Source Code or Download the Program </description>
     </item>
     
     <item>
       <title>DITA &amp; FrameMaker</title>
-      <link>http://localhost:1313/pages/ditaframemaker/</link>
+      <link>http://localhost:53601/pages/ditaframemaker/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/ditaframemaker/</guid>
+      <guid>http://localhost:53601/pages/ditaframemaker/</guid>
       <description>Skills demonstrated: DITA, XML, topic based authoring, structured authoring, single source publishing, computer hardware, research, photo editing, docs as code​
 Tools used: FrameMaker, Photoshop, WinSCP
 How to Build a Computer​ Three file types generated, two conditional outputs, one XML source Windows Directions Responsive HTML 5 (Windows) Microsoft HTML Help File (Windows) Kindle e-book-.mobi) (Windows) Linux Directions: Responsive HTML 5 (Linux) Microsoft HTML Help File (Linux) Kindle e-book-.mobi (Linux) Note:</description>
@@ -279,29 +278,29 @@ How to Build a Computer​ Three file types generated, two conditional outputs, 
     
     <item>
       <title>Experience is king</title>
-      <link>http://localhost:1313/blog/experience-is-king/</link>
+      <link>http://localhost:53601/blog/experience-is-king/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/experience-is-king/</guid>
+      <guid>http://localhost:53601/blog/experience-is-king/</guid>
       <description>As I said in the last post, How to get a job in technical writing, there are two big issues that you have to overcome to get into technical writing.
 Experience is king. Technical skills trump writing skills Before I go into each solution in detail, I want to give you an idea of how problematic these obstacles are. I had a number of phone interviews that began and ended with the phrase, “How many years of experience do you have as a technical writer.</description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/pages/resume/</link>
+      <link>http://localhost:53601/pages/resume/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/resume/</guid>
+      <guid>http://localhost:53601/pages/resume/</guid>
       <description>Read my resume as a Word doc or PDF. If you are ambitious, try my Java Swing resume. </description>
     </item>
     
     <item>
       <title>Technical Writer – Developer Docs / APIs</title>
-      <link>http://localhost:1313/pages/portfolio/</link>
+      <link>http://localhost:53601/pages/portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/portfolio/</guid>
+      <guid>http://localhost:53601/pages/portfolio/</guid>
       <description>| Resume | LinkedIn | GitHub | Amazon |
 Resources for &amp;ldquo;Creating an Online Portfolio&amp;rdquo; STC Presentation
 Summary of Skills For experience with these, see my resume
@@ -310,30 +309,30 @@ Managing projects with multiple subject matter experts and stakeholders. Documen
     
     <item>
       <title>White Paper</title>
-      <link>http://localhost:1313/pages/white-paper/</link>
+      <link>http://localhost:53601/pages/white-paper/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/white-paper/</guid>
+      <guid>http://localhost:53601/pages/white-paper/</guid>
       <description>A friend of mine was part of a startup and asked if I wanted to write a white paper for them. It was a social media startup based on blockchain. I did what anyone new to writing white papers would do. I bought two books on how to write a white paper and got to work. Here is my result.
 Download the white paper</description>
     </item>
     
     <item>
       <title>How to get a job in technical writing</title>
-      <link>http://localhost:1313/blog/how-to-get-a-job-in-technical-writing/</link>
+      <link>http://localhost:53601/blog/how-to-get-a-job-in-technical-writing/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/how-to-get-a-job-in-technical-writing/</guid>
+      <guid>http://localhost:53601/blog/how-to-get-a-job-in-technical-writing/</guid>
       <description>There are two categories of people interested in technical writing. Those who have received a degree or certificate in technical writing, and those who want to make the switch from another career. While you might think those with a degree or certificate have all the advantages in the job market, that is simply not the case. Without experience and a good portfolio, employers will seldom even consider a candidate.
 Since I recently made the switch into technical writing, I thought I’d pass on what I learned along the way.</description>
     </item>
     
     <item>
       <title>Clean White Theme for Hugo</title>
-      <link>http://localhost:1313/post/readme/</link>
+      <link>http://localhost:53601/post/readme/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/readme/</guid>
+      <guid>http://localhost:53601/post/readme/</guid>
       <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme.
 It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme.
 These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster compiling speed.</description>
@@ -341,19 +340,19 @@ These two upstream projects have done awesome jobs to create a blog theme, what 
     
     <item>
       <title>Istio v1aplha3 routing API介绍(译文）</title>
-      <link>http://localhost:1313/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
+      <link>http://localhost:53601/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
+      <guid>http://localhost:53601/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
       <description>&lt;p&gt;到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Istio 0.8 Release发布</title>
-      <link>http://localhost:1313/2018/06/02/istio08/</link>
+      <link>http://localhost:53601/2018/06/02/istio08/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/06/02/istio08/</guid>
+      <guid>http://localhost:53601/2018/06/02/istio08/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;在6月1日这一天的早上，Istio社区宣布发布0.8 Release，除了常规的故障修复和性能改进外，这个儿童节礼物里面还有什么值得期待内容呢？让我们来看一看：&lt;/p&gt;
 &lt;/blockquote&gt;</description>
@@ -361,10 +360,10 @@ These two upstream projects have done awesome jobs to create a blog theme, what 
     
     <item>
       <title>Everything about Setting Up My Ubuntu Desktop</title>
-      <link>http://localhost:1313/2018/05/24/set_up_my_ubuntu_desktop/</link>
+      <link>http://localhost:53601/2018/05/24/set_up_my_ubuntu_desktop/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/05/24/set_up_my_ubuntu_desktop/</guid>
+      <guid>http://localhost:53601/2018/05/24/set_up_my_ubuntu_desktop/</guid>
       <description>Generate SSH Key Pair ssh-keygen -C &amp;#34;zhaohuabing@gmail.com&amp;#34; Shadowsocks Install shadowsokcs
 sudo apt-get install python3-pip sudo pip3 install shadowsocks Create config at config/shadowsocks.json, with the following content:
 { &amp;#34;server&amp;#34;:&amp;#34;remote-shadowsocks-server-ip-addr&amp;#34;, &amp;#34;server_port&amp;#34;:443, &amp;#34;local_address&amp;#34;:&amp;#34;127.0.0.1&amp;#34;, &amp;#34;local_port&amp;#34;:1080, &amp;#34;password&amp;#34;:&amp;#34;your-passwd&amp;#34;, &amp;#34;timeout&amp;#34;:300, &amp;#34;method&amp;#34;:&amp;#34;aes-256-cfb&amp;#34;, &amp;#34;fast_open&amp;#34;:false, &amp;#34;workers&amp;#34;:1 } Start a local socks proxy
@@ -374,10 +373,10 @@ sudo vi /usr/local/lib/python3.6/dist-packages/shadowsocks/crypto/openssl.py :%s
     
     <item>
       <title>微服务安全沉思录之三</title>
-      <link>http://localhost:1313/2018/05/23/external_system_auth/</link>
+      <link>http://localhost:53601/2018/05/23/external_system_auth/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/05/23/external_system_auth/</guid>
+      <guid>http://localhost:53601/2018/05/23/external_system_auth/</guid>
       <description>外部系统访问控制 除用户访问和微服务之间的相互访问外，外部的第三方系统也可能需要访问系统内部的微服务。例如在上一篇博客的网上商店例子中，外部的推荐服务可能需要接入系统，以获取商店的商品目录信息。相对于内部服务之间的访问而言，外部系统的访问需要进行严格的安全控制。
 使用账号进行控制 可以为外部系统创建一个用户账号，类似普通用户一样对外部系统的账号进行管理，并使用该账号对外部系统进行认证和权限控制。
 采用这种方式的问题是难以处理用户相关的敏感数据。因为外部系统自身也是微服务系统中的一个用户账号，因此该外部系统只能访问该账号自身的数据和一些不敏感的公共数据，而不能访问和用户相关的数据。例如在网上商店的例子中，外部系统可以采用该方式访问商品目录信息，但不应允许访问用户历史购买记录，用户余额等信息。
@@ -401,10 +400,10 @@ POST /oauth/token HTTP/1.1 Host: authorization-server.com grant_type=authorizati
     
     <item>
       <title>微服务安全沉思录之二</title>
-      <link>http://localhost:1313/2018/05/23/service_2_service_auth/</link>
+      <link>http://localhost:53601/2018/05/23/service_2_service_auth/</link>
       <pubDate>Wed, 23 May 2018 15:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/05/23/service_2_service_auth/</guid>
+      <guid>http://localhost:53601/2018/05/23/service_2_service_auth/</guid>
       <description>&lt;h2 id=&#34;服务间认证与鉴权&#34;&gt;服务间认证与鉴权&lt;/h2&gt;
 &lt;p&gt;除来自用户的访问请求以外，微服务应用中的各个微服务相互之间还有大量的访问，包括下述场景：&lt;/p&gt;
 &lt;ul&gt;
@@ -418,10 +417,10 @@ POST /oauth/token HTTP/1.1 Host: authorization-server.com grant_type=authorizati
     
     <item>
       <title>微服务安全沉思录之一</title>
-      <link>http://localhost:1313/2018/05/22/user_authentication_authorization/</link>
+      <link>http://localhost:53601/2018/05/22/user_authentication_authorization/</link>
       <pubDate>Wed, 23 May 2018 10:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/05/22/user_authentication_authorization/</guid>
+      <guid>http://localhost:53601/2018/05/22/user_authentication_authorization/</guid>
       <description>这段时间对之前微服务安全相关的一些想法进行了进一步总结和归纳，理清了在之前文章里面没有想得太清楚的地方，例如服务间的认证与鉴权以及用户身份在服务调用链中的传递。
 在这一系列文章里，我将尝试分为三个部分对微服务安全进行系统阐述：用户访问认证与鉴权，服务间认证与鉴权，外部系统访问控制。
 目录 {:.no_toc}
@@ -440,10 +439,10 @@ Authorization: Bearer mF_9.B5f-4.1JqM 采用Token方式进行用户认证的基�
     
     <item>
       <title>Istio Sidecar自动注入原理</title>
-      <link>http://localhost:1313/2018/05/23/istio-auto-injection-with-webhook/</link>
+      <link>http://localhost:53601/2018/05/23/istio-auto-injection-with-webhook/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/05/23/istio-auto-injection-with-webhook/</guid>
+      <guid>http://localhost:53601/2018/05/23/istio-auto-injection-with-webhook/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;Kubernets 1.9版本引入了Admission Webhook(web 回调)扩展机制，通过Webhook,开发者可以非常灵活地对Kubernets API Server的功能进行扩展，在API Server创建资源时对资源进行验证或者修改。&lt;/p&gt;
@@ -453,10 +452,10 @@ Authorization: Bearer mF_9.B5f-4.1JqM 采用Token方式进行用户认证的基�
     
     <item>
       <title>川西秘境探险</title>
-      <link>http://localhost:1313/2018/05/01/may-day-jiulonghu/</link>
+      <link>http://localhost:53601/2018/05/01/may-day-jiulonghu/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/05/01/may-day-jiulonghu/</guid>
+      <guid>http://localhost:53601/2018/05/01/may-day-jiulonghu/</guid>
       <description>&lt;h2 id=&#34;寻浮云牧场不遇&#34;&gt;寻浮云牧场不遇&lt;/h2&gt;
 &lt;p&gt;五一节前的一周内，几个朋友就纷纷坐不住了，一个二个不再安心上班，开始在微信群里讨论过节要到哪里耍。
 大家思来想去，最后决定还是去理县方向。因为根据多年自驾的经验，只要出了汶川，沿途都是风景。&lt;/p&gt;</description>
@@ -464,10 +463,10 @@ Authorization: Bearer mF_9.B5f-4.1JqM 采用Token方式进行用户认证的基�
     
     <item>
       <title>Helm介绍</title>
-      <link>http://localhost:1313/2018/04/16/using-helm-to-deploy-to-kubernetes/</link>
+      <link>http://localhost:53601/2018/04/16/using-helm-to-deploy-to-kubernetes/</link>
       <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/04/16/using-helm-to-deploy-to-kubernetes/</guid>
+      <guid>http://localhost:53601/2018/04/16/using-helm-to-deploy-to-kubernetes/</guid>
       <description>前言 Helm是Kubernetes生态系统中的一个软件包管理工具。本文将介绍为何要使用Helm进行Kubernetes软件包管理，澄清Helm中使用到的相关概念，并通过一个具体的示例学习如何使用Helm打包，分发，安装，升级及回退Kubernetes应用。
 Kubernetes应用部署的挑战 让我们首先来看看Kubernetes，kubernetes提供了基于容器的应用集群管理，为容器化应用提供了部署运行、资源调度、服务发现和动态伸缩等一系列完整功能。
 kubernetes的核心设计理念是: 用户定义应用程序的规格，而kubernetes则负责按照定义的规则部署并运行应用程序，如果应用系统出现问题导致偏离了定义的规格，kubernetes负责对其进行自动修正。例如应用规格要求部署两个实例，其中一个实例异常终止了，kubernetes会检查到并重新启动一个新的实例。
@@ -504,10 +503,10 @@ Helm init 构建一个Helm chart 让我们在实践中来了解Helm。这里将�
     
     <item>
       <title>Service Mesh 和 API Gateway的关系探讨（译文）</title>
-      <link>http://localhost:1313/2018/04/11/service-mesh-vs-api-gateway/</link>
+      <link>http://localhost:53601/2018/04/11/service-mesh-vs-api-gateway/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/04/11/service-mesh-vs-api-gateway/</guid>
+      <guid>http://localhost:53601/2018/04/11/service-mesh-vs-api-gateway/</guid>
       <description>Service Mesh vs API Gateway 在前一篇关于Service Mesh的文章中,我提到了几个关于Service Mesh和API Gateway之间关系的问题，在本篇文章中，我打算就Service Mesh和API Gateway的用途进行进一步讨论。
 为了区分API Gateway和Service Mesh，让我们先分别看看两者各自的关键特征。
 API Gateway: 将服务作为被管理的API向外部暴露 使用API Gateway的主要目的是将微服务作为被管理的API暴露（给外部系统）。因此，我们在API Gateway层开发的API或者边界服务对外提供了业务功能。
@@ -528,10 +527,10 @@ API Gateway和Service Mesh实践 API Gateway和Service Mesh之间的主要不同
     
     <item>
       <title>谈谈微服务架构中的基础设施：Service Mesh与Istio</title>
-      <link>http://localhost:1313/2018/03/29/what-is-service-mesh-and-istio/</link>
+      <link>http://localhost:53601/2018/03/29/what-is-service-mesh-and-istio/</link>
       <pubDate>Thu, 29 Mar 2018 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/03/29/what-is-service-mesh-and-istio/</guid>
+      <guid>http://localhost:53601/2018/03/29/what-is-service-mesh-and-istio/</guid>
       <description>&lt;h2 id=&#34;微服务架构的演进&#34;&gt;微服务架构的演进&lt;/h2&gt;
 &lt;p&gt;作为一种架构模式，微服务将复杂系统切分为数十乃至上百个小服务，每个服务负责实现一个独立的业务逻辑。这些小服务易于被小型的软件工程师团队所理解和修改，并带来了语言和框架选择灵活性，缩短应用开发上线时间，可根据不同的工作负载和资源要求对服务进行独立缩扩容等优势。&lt;/p&gt;
 &lt;p&gt;另一方面，当应用被拆分为多个微服务进程后，进程内的方法调用变成了了进程间的远程调用。引入了对大量服务的连接、管理和监控的复杂性。&lt;/p&gt;</description>
@@ -539,10 +538,10 @@ API Gateway和Service Mesh实践 API Gateway和Service Mesh之间的主要不同
     
     <item>
       <title>如何配置docker使用HTTP代理</title>
-      <link>http://localhost:1313/2018/03/13/use-docker-behind-http-proxy/</link>
+      <link>http://localhost:53601/2018/03/13/use-docker-behind-http-proxy/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/03/13/use-docker-behind-http-proxy/</guid>
+      <guid>http://localhost:53601/2018/03/13/use-docker-behind-http-proxy/</guid>
       <description>&lt;h2 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h2&gt;
 &lt;h3 id=&#34;设置docker使用http-proxy&#34;&gt;设置docker使用http proxy&lt;/h3&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo /etc/default/docker
@@ -556,20 +555,20 @@ export HTTPS_PROXY=&amp;#34;http://127.0.0.1:3128/&amp;#34;
     
     <item>
       <title>Vim Tips</title>
-      <link>http://localhost:1313/2018/02/09/vim-tips/</link>
+      <link>http://localhost:53601/2018/02/09/vim-tips/</link>
       <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/02/09/vim-tips/</guid>
+      <guid>http://localhost:53601/2018/02/09/vim-tips/</guid>
       <description>&lt;h2 id=&#34;vim-graphical-cheat-sheet&#34;&gt;vim graphical cheat sheet&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;//img/2018-02-09-vim-tips/vi-vim-cheat-sheet.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>如何使用非root用户执行docker命令</title>
-      <link>http://localhost:1313/2018/02/09/docker-without-sudo/</link>
+      <link>http://localhost:53601/2018/02/09/docker-without-sudo/</link>
       <pubDate>Fri, 09 Feb 2018 10:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/02/09/docker-without-sudo/</guid>
+      <guid>http://localhost:53601/2018/02/09/docker-without-sudo/</guid>
       <description>Add the docker group if it doesn&amp;rsquo;t already exist: sudo groupadd docker
 Add the connected user &amp;ldquo;$USER&amp;rdquo; to the docker group. Change the user name to match your preferred user if you do not want to use your current user: sudo gpasswd -a $USER docker
 Either do a newgrp docker or log out/in to activate the changes to groups. </description>
@@ -577,40 +576,40 @@ Either do a newgrp docker or log out/in to activate the changes to groups. </des
     
     <item>
       <title>如何构建安全的微服务应用？</title>
-      <link>http://localhost:1313/2018/05/22/user_authentication_authorization/</link>
+      <link>http://localhost:53601/2018/05/22/user_authentication_authorization/</link>
       <pubDate>Sat, 03 Feb 2018 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/05/22/user_authentication_authorization/</guid>
+      <guid>http://localhost:53601/2018/05/22/user_authentication_authorization/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;微服务架构的引入为软件应用带来了诸多好处：包括小开发团队，缩短开发周期，语言选择灵活性，增强服务伸缩能力等。与此同时，也引入了分布式系统的诸多复杂问题。其中一个挑战就是如何在微服务架构中实现一个灵活，安全，高效的认证和鉴权方案。本文将尝试就此问题进行一次比较完整的探讨。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Nginx开源Service Mesh组件Nginmesh安装指南</title>
-      <link>http://localhost:1313/2018/01/02/nginmesh-install/</link>
+      <link>http://localhost:53601/2018/01/02/nginmesh-install/</link>
       <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2018/01/02/nginmesh-install/</guid>
+      <guid>http://localhost:53601/2018/01/02/nginmesh-install/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;Nginmesh是NGINX的Service Mesh开源项目，用于Istio服务网格平台中的数据面代理。它旨在提供七层负载均衡和服务路由功能，与Istio集成作为sidecar部署，并将以“标准，可靠和安全的方式”使得服务间通信更容易。Nginmesh在今年底已经连续发布了0.2和0.3版本，提供了服务发现，请求转发，路由规则，性能指标收集等功能。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>如何从外部访问Kubernetes集群中的应用？</title>
-      <link>http://localhost:1313/2017/11/28/access-application-from-outside/</link>
+      <link>http://localhost:53601/2017/11/28/access-application-from-outside/</link>
       <pubDate>Tue, 28 Nov 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2017/11/28/access-application-from-outside/</guid>
+      <guid>http://localhost:53601/2017/11/28/access-application-from-outside/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
 &lt;p&gt;我们知道，kubernetes的Cluster Network属于私有网络，只能在cluster Network内部才能访问部署的应用，那如何才能将Kubernetes集群中的应用暴露到外部网络，为外部用户提供服务呢？本文探讨了从外部网络访问kubernetes cluster中应用的几种实现方式。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>采用Istio实现灰度发布(金丝雀发布)</title>
-      <link>http://localhost:1313/2017/11/08/istio-canary-release/</link>
+      <link>http://localhost:53601/2017/11/08/istio-canary-release/</link>
       <pubDate>Wed, 08 Nov 2017 15:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2017/11/08/istio-canary-release/</guid>
+      <guid>http://localhost:53601/2017/11/08/istio-canary-release/</guid>
       <description>灰度发布（又名金丝雀发布）介绍 当应用上线以后，运维面临的一大挑战是如何能够在不影响已上线业务的情况下进行升级。做过产品的同学都清楚，不管在发布前做过多么完备的自动化和人工测试，在发布后都会出现或多或少的故障。根据墨菲定律，可能会出错的版本发布一定会出错。
 &amp;ldquo;ANYTHING THAN CAN GO WRONG WILL GO WRONG&amp;rdquo; &amp;ndash;MURPHY&amp;rsquo;S LAW
 因此我们不能寄希望于在线下测试时发现所有潜在故障。在无法百分百避免版本升级故障的情况下，需要通过一种方式进行可控的版本发布，把故障影响控制在可以接受的范围内，并可以快速回退。
@@ -630,10 +629,10 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
     
     <item>
       <title>使用Istio实现应用流量转移</title>
-      <link>http://localhost:1313/2017/11/07/istio-traffic-shifting/</link>
+      <link>http://localhost:53601/2017/11/07/istio-traffic-shifting/</link>
       <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2017/11/07/istio-traffic-shifting/</guid>
+      <guid>http://localhost:53601/2017/11/07/istio-traffic-shifting/</guid>
       <description>&lt;p&gt;关于Istio的更多内容请参考&lt;a href=&#34;http://istio.doczh.cn/&#34;&gt;istio中文文档&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;原文参见&lt;a href=&#34;https://istio.io/docs/tasks/traffic-management/traffic-shifting.html&#34;&gt;Traffic Shifting&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;本任务将演示如何将应用流量逐渐从旧版本的服务迁移到新版本。通过Istio，可以使用一系列不同权重的规则（10%，20%，··· 100%）将流量平缓地从旧版本服务迁移到新版本服务。&lt;/p&gt;</description>
@@ -641,10 +640,10 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
     
     <item>
       <title>Istio及Bookinfo示例程序安装试用笔记</title>
-      <link>http://localhost:1313/2017/11/04/istio-install_and_example/</link>
+      <link>http://localhost:53601/2017/11/04/istio-install_and_example/</link>
       <pubDate>Sat, 04 Nov 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2017/11/04/istio-install_and_example/</guid>
+      <guid>http://localhost:53601/2017/11/04/istio-install_and_example/</guid>
       <description>&lt;h2 id=&#34;服务网格简介&#34;&gt;服务网格简介&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;服务网格&lt;/strong&gt;（Service Mesh）是为解决微服务的通信和治理而出现的一种&lt;strong&gt;架构模式&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;服务网格将服务间通讯以及与此相关的管理控制功能从业务程序中下移到一个基础设施层，从而彻底隔离了业务逻辑和服务通讯两个关注点。采用服务网格后，应用开发者只需要关注并实现应用业务逻辑。服务之间的通信，包括服务发现，通讯的可靠性，通讯的安全性，服务路由等由服务网格层进行处理，并对应用程序透明。&lt;/p&gt;</description>
@@ -652,60 +651,60 @@ apiVersion: extensions/v1beta1 kind: Deployment metadata: name: reviews-v2 spec:
     
     <item>
       <title>Welcome to Zhaohuabing Blog</title>
-      <link>http://localhost:1313/2017/11/03/hello-world/</link>
+      <link>http://localhost:53601/2017/11/03/hello-world/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2017/11/03/hello-world/</guid>
+      <guid>http://localhost:53601/2017/11/03/hello-world/</guid>
       <description> “Yeah It&amp;rsquo;s on. ”
 Hello World! </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/dita/linux/responsive_html5/</link>
+      <link>http://localhost:53601/pages/dita/linux/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/dita/linux/responsive_html5/</guid>
+      <guid>http://localhost:53601/pages/dita/linux/responsive_html5/</guid>
       <description>	&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&lt;!DOCTYPE HTML&gt;Responsive HTML5&amp;nbsp;Responsive HTML5&amp;nbsp;&amp;nbsp;&amp;#160;&amp;#160;&amp;nbsp;&amp;nbsp;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;nbsp;&amp;nbsp;	%
 End of search results.&amp;nbsp;&amp;#160;&amp;nbsp;&amp;nbsp;&amp;#160; </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/dita/responsive_html5/</link>
+      <link>http://localhost:53601/pages/dita/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/dita/responsive_html5/</guid>
+      <guid>http://localhost:53601/pages/dita/responsive_html5/</guid>
       <description>	&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&lt;!DOCTYPE HTML&gt;Responsive HTML5&amp;nbsp;Responsive HTML5&amp;nbsp;&amp;nbsp;&amp;#160;&amp;#160;&amp;nbsp;&amp;nbsp;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;nbsp;&amp;nbsp;	%
 End of search results.&amp;nbsp;&amp;#160;&amp;nbsp;&amp;nbsp;&amp;#160; </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/uploads/uploads/dita/linux/responsive_html5/</link>
+      <link>http://localhost:53601/pages/uploads/uploads/dita/linux/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/uploads/uploads/dita/linux/responsive_html5/</guid>
+      <guid>http://localhost:53601/pages/uploads/uploads/dita/linux/responsive_html5/</guid>
       <description>	&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&lt;!DOCTYPE HTML&gt;Responsive HTML5&amp;nbsp;Responsive HTML5&amp;nbsp;&amp;nbsp;&amp;#160;&amp;#160;&amp;nbsp;&amp;nbsp;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;nbsp;&amp;nbsp;	%
 End of search results.&amp;nbsp;&amp;#160;&amp;nbsp;&amp;nbsp;&amp;#160; </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/uploads/uploads/dita/responsive_html5/</link>
+      <link>http://localhost:53601/pages/uploads/uploads/dita/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/uploads/uploads/dita/responsive_html5/</guid>
+      <guid>http://localhost:53601/pages/uploads/uploads/dita/responsive_html5/</guid>
       <description>	&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&lt;!DOCTYPE HTML&gt;Responsive HTML5&amp;nbsp;Responsive HTML5&amp;nbsp;&amp;nbsp;&amp;#160;&amp;#160;&amp;nbsp;&amp;nbsp;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;nbsp;&amp;nbsp;	%
 End of search results.&amp;nbsp;&amp;#160;&amp;nbsp;&amp;nbsp;&amp;#160; </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/search/placeholder/</link>
+      <link>http://localhost:53601/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/search/placeholder/</guid>
+      <guid>http://localhost:53601/search/placeholder/</guid>
       <description></description>
     </item>
     
