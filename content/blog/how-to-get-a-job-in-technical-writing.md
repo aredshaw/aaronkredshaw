@@ -30,7 +30,7 @@ Having said the above, the market is great to get into technical writing. Here a
 
 **Update or create a [LinkedIn](https://www.linkedin.com/) account**. This will likely be how many companies will find you. Come back to your LinkedIn profile often to update it. Spend as much time on this as your resume. Stay away from job boards such as Indeed, Glassdoor, Monster, etc. About 2% of people find jobs through these, but a lot of low paying recruiters will find you here and fill up your inbox and voicemail.
 
-**Create an online portfolio**. Portfolio samples are often requested before an interview. Putting it online makes it easier to discover and share. I did a presentation a while back on how to do this, and [my notes and resources can be found here](../creating-an-online-portfolio/). Create a tutorial or other technical writing docs and put them on this site. [Here’s an example of mine](https://aaronkredshaw.com/portfolio/).
+**Create an online portfolio**. Portfolio samples are often requested before an interview. Putting it online makes it easier to discover and share. I did a presentation a while back on how to do this, and [my notes and resources can be found here](../../pages/creating-an-online-portfolio/). Create a tutorial or other technical writing docs and put them on this site.
 
 **Build up your skills**. Use a job board such as Indeed and do a search for “Technical Writer” and see what skills are most in demand. Then start training yourself in these skills. If it’s a piece of software you don’t know, see if you can get a free trial version of it and learn the basics. Then create something you can put on your portfolio to demonstrate your skill with that program.
 

@@ -122,7 +122,7 @@ That's about what I expected.
 
 I think this is one of the most often quoted pieces of advice out there that seems to have very little data to back it up. I have only heard of one person getting a technical writing job through contributing to open source. Therefore, this should probably be considered a fringe case rather than a normal pathway.
 
-I prefer actual data, rather than[broscience](https://www.dictionary.com/e/slang/broscience/#:~:text=Broscience%20is%20a%20term%20for,claims%20not%20backed%20by%20science.) when giving out advice.
+I prefer actual data, rather than [broscience](https://www.dictionary.com/e/slang/broscience/#:~:text=Broscience%20is%20a%20term%20for,claims%20not%20backed%20by%20science.) when giving out advice.
 
 Another blogger says [about this method](https://iqdrac.wordpress.com/2022/03/19/building-a-portfolio/):
 

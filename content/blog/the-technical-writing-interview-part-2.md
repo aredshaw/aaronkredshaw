@@ -11,7 +11,7 @@ tags:
 | This topic is divided into two posts: |
 |------------------|--------------------------------------------------------|
 | **Part 1** covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.|
-| **Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See <a href="../what-kind-of-technical-writing-job-should-i-get-into/">What kind of technical writing job should I get into?</a> for more on types of technical writing jobs and where my work lies. | 
+| **Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See [What kind of technical writing job should I get into?](../what-kind-of-technical-writing-job-should-i-get-into/) for more on types of technical writing jobs and where my work lies. | 
 
 <table>
    <thead>
@@ -22,7 +22,7 @@ tags:
    <tbody>
       <tr>
          <td>**Part 1** covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.<br/><br/>
-         **Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See <a href="../what-kind-of-technical-writing-job-should-i-get-into/">What kind of technical writing job should I get into?</a> for more on types of technical writing jobs and where my work lies.</td>
+         **Part 2** will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See [What kind of technical writing job should I get into?](../what-kind-of-technical-writing-job-should-i-get-into/) for more on types of technical writing jobs and where my work lies.</td>
       </tr>
    </tbody>
 </table>
@@ -30,7 +30,7 @@ tags:
 
 In this second post on the technical writing interview, I’ll focus on the technical section of the interview itself. For behavioral interview advice, as well as how to prepare for other general interview questions, see [The technical writing interview – Part 1](../the-technical-writing-interview-part-1/).
 
-This post will be based on [the kind of technical writing I do](..what-kind-of-technical-writing-job-should-i-get-into/#Docs_as_code). It’s what I’ve heard some refer to as technical technical writing. Specifically, it uses the [docs as code approach](https://www.writethedocs.org/guide/docs-as-code/) to technical writing.
+This post will be based on [the kind of technical writing I do](../what-kind-of-technical-writing-job-should-i-get-into/#docs-as-code). It’s what I’ve heard some refer to as technical technical writing. Specifically, it uses the [docs as code approach](https://www.writethedocs.org/guide/docs-as-code/) to technical writing.
 
 Most interviews I went through had five different sections, an hour each, with a different person doing each section. Yes, that’s five hours of interviews. One person was dedicated to the technical portion. For Amazon, I did this twice, going through the whole process for two separate teams. In these interviews, sometimes it was a software engineer who gave the technical portion, and sometimes it was a technical writer with a coding background.
 
