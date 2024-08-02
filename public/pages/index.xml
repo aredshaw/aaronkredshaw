@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Aaron K. Redshaw</title>
-    <link>http://localhost:53601/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Aaron K. Redshaw</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:53601/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stock OpenAPI (Swagger)</title>
-      <link>http://localhost:53601/pages/stock-openapi/</link>
+      <link>http://localhost:1313/pages/stock-openapi/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/stock-openapi/</guid>
+      <guid>http://localhost:1313/pages/stock-openapi/</guid>
       <description>&amp;lt;body&amp;gt; &amp;lt;div id = &amp;quot;fb&amp;quot;&amp;gt;Facebook: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;ap&amp;quot;&amp;gt;Apple: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;goog&amp;quot;&amp;gt;Google: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;msft&amp;quot;&amp;gt;Microsoft: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;ibm&amp;quot;&amp;gt;IBM: &amp;lt;/div&amp;gt; &amp;lt;/body&amp;gt; Here is an OpenAPI (Swagger) document I wrote for use with this resource. With it you can make calls to IEX Cloud to look up current stock prices for many different companies.​</description>
     </item>
     <item>
       <title>A Letter About Self Publishing</title>
-      <link>http://localhost:53601/pages/a-letter-about-self-publishing/</link>
+      <link>http://localhost:1313/pages/a-letter-about-self-publishing/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/a-letter-about-self-publishing/</guid>
+      <guid>http://localhost:1313/pages/a-letter-about-self-publishing/</guid>
       <description>Here is a letter I wrote in response to someone asking about self-publishing. Josh,&#xA;I’m glad I got to talk with you a little tonight. It looks like you are on the same adventure that I am on. I really enjoy writing; it is my new hobby, but I have to keep reminding myself that it is more of a marathon than a sprint. I had written five first drafts (National Novel Writing Month), but only one of those did I ever revise into a book for others.</description>
     </item>
     <item>
       <title>A Self-Publishing Guide</title>
-      <link>http://localhost:53601/pages/a-self-publishing-guide_tools/</link>
+      <link>http://localhost:1313/pages/a-self-publishing-guide_tools/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/a-self-publishing-guide_tools/</guid>
+      <guid>http://localhost:1313/pages/a-self-publishing-guide_tools/</guid>
       <description>Skills demonstrated: Software documentation, screenshots, HTML, publishing, explaining step-by-step procedures, web development Tools used: Google Docs, Microsoft Word, Photoshop, Adobe Acrobat, CMS (content management system), WordPress&#xA;Read as a PDF&#xA;Google Docs I use Google Docs for the bulk of my drafting and revision. Some reasons for this are:&#xA;Google Docs saves your document every few seconds, so I do not have to worry about hitting save often or making sure I have auto-save on in Word.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:53601/pages/about-me/</link>
+      <link>http://localhost:1313/pages/about-me/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/about-me/</guid>
+      <guid>http://localhost:1313/pages/about-me/</guid>
       <description> Technical Writer Author of five novels and two novelettes B.A. English </description>
     </item>
     <item>
       <title>Books I&#39;ve Published</title>
-      <link>http://localhost:53601/pages/books-ive-published/</link>
+      <link>http://localhost:1313/pages/books-ive-published/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/books-ive-published/</guid>
+      <guid>http://localhost:1313/pages/books-ive-published/</guid>
       <description>When I was a high school English teacher I sometimes wondered what it would be like to write a book. I had met several teachers who said that one day they would write a novel, but it just never seemed to happen. Then one day I thought to myself, &amp;ldquo;Why not stop dreaming and just do it!&amp;rdquo; You can also view these books at Amazon.&#xA;The Gifted Series Space to Stand Trivia My first draft of my first book, The Gifted, only took me 11 days to complete (50,000 words).</description>
     </item>
     <item>
       <title>Clyste</title>
-      <link>http://localhost:53601/pages/clyste/</link>
+      <link>http://localhost:1313/pages/clyste/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/clyste/</guid>
+      <guid>http://localhost:1313/pages/clyste/</guid>
       <description>Documentation for Clyste I am currently writing some documentation for a start-up called Clyste. The Word doc can be found here. Besides this document, I put together an introductory email for those joining the group.&#xA;Clyste (Pronounced Klīst)&#xA;https://angel.co/clyste-social-network&#xA;Most of you are familiar with social media, such as Facebook, Instagram, and Twitter. This is where people connect, find out interesting news, and keep up with trends. But these models are developed from the top down by huge corporations, meaning that if someone wants to make a change, even a small change, there is a lot of red tape that needs to be gone through before any changes actually happen.</description>
     </item>
     <item>
       <title>Clyste Email</title>
-      <link>http://localhost:53601/pages/clyste-email/</link>
+      <link>http://localhost:1313/pages/clyste-email/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/clyste-email/</guid>
+      <guid>http://localhost:1313/pages/clyste-email/</guid>
       <description>When I joined the Clyste group, I was sent an email by the COO of the company. I offered to help with a rewrite of the initial email. Here you can see the original as well as my version. The original Welcome to the community Aaron. Our first goal is 1. To inform you about what we are doing (whatever you don’t understand, please ask questions – this will help us refine our idea).</description>
     </item>
     <item>
       <title>Creating an Online Portfolio</title>
-      <link>http://localhost:53601/pages/creating-an-online-portfolio/</link>
+      <link>http://localhost:1313/pages/creating-an-online-portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/creating-an-online-portfolio/</guid>
+      <guid>http://localhost:1313/pages/creating-an-online-portfolio/</guid>
       <description>Resources Slides from presentation Handout for Creating an Online Portfolio The best article I found for comparing web hosting sites The top part contains inexpensive hosting plans, with free accounts at the bottom. Advice for aspiring writers This was a letter I wrote to Karen (not her real name), full of advice about what worked for me and how I went about getting into technical writing. Technical writing tools / skills most in demand According to searches I made on Indeed.</description>
     </item>
     <item>
       <title>DebtPayoff</title>
-      <link>http://localhost:53601/pages/debtpayoff/</link>
+      <link>http://localhost:1313/pages/debtpayoff/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/debtpayoff/</guid>
+      <guid>http://localhost:1313/pages/debtpayoff/</guid>
       <description>As I was learning Java, I realized I had need of a program that would calculate how much money and time it would take to pay off my credit card. I wanted to be able to play with the numbers. If I paid $20 more per month, how much would I save in interest payments? How about $50? This program does just that.&#xA;View the Source Code or Download the Program </description>
     </item>
     <item>
       <title>DITA &amp; FrameMaker</title>
-      <link>http://localhost:53601/pages/ditaframemaker/</link>
+      <link>http://localhost:1313/pages/ditaframemaker/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/ditaframemaker/</guid>
+      <guid>http://localhost:1313/pages/ditaframemaker/</guid>
       <description>Skills demonstrated: DITA, XML, topic based authoring, structured authoring, single source publishing, computer hardware, research, photo editing, docs as code​&#xA;Tools used: FrameMaker, Photoshop, WinSCP&#xA;How to Build a Computer​ Three file types generated, two conditional outputs, one XML source Windows Directions Responsive HTML 5 (Windows) Microsoft HTML Help File (Windows) Kindle e-book-.mobi) (Windows) Linux Directions: Responsive HTML 5 (Linux) Microsoft HTML Help File (Linux) Kindle e-book-.mobi (Linux) Note:</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:53601/pages/resume/</link>
+      <link>http://localhost:1313/pages/resume/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/resume/</guid>
+      <guid>http://localhost:1313/pages/resume/</guid>
       <description>Read my resume as a Word doc or PDF. If you are ambitious, try my Java Swing resume. </description>
     </item>
     <item>
       <title>Technical Writer – Developer Docs / APIs</title>
-      <link>http://localhost:53601/pages/portfolio/</link>
+      <link>http://localhost:1313/pages/portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/portfolio/</guid>
+      <guid>http://localhost:1313/pages/portfolio/</guid>
       <description>| Resume | LinkedIn | GitHub | Amazon |&#xA;Resources for &amp;ldquo;Creating an Online Portfolio&amp;rdquo; STC Presentation&#xA;Summary of Skills For experience with these, see my resume&#xA;Managing projects with multiple subject matter experts and stakeholders. Documenting SDKs and APIs, including OpenAPI specs and Swagger. Integrating code into documentation (Java, Python, JavaScript, command-line scripts). Writing docs for overviews, concepts, guides, quick-starts, tutorials, and reference. Reading and writing code in Java and Python.</description>
     </item>
     <item>
       <title>White Paper</title>
-      <link>http://localhost:53601/pages/white-paper/</link>
+      <link>http://localhost:1313/pages/white-paper/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/white-paper/</guid>
+      <guid>http://localhost:1313/pages/white-paper/</guid>
       <description>A friend of mine was part of a startup and asked if I wanted to write a white paper for them. It was a social media startup based on blockchain. I did what anyone new to writing white papers would do. I bought two books on how to write a white paper and got to work. Here is my result.&#xA;Download the white paper</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:53601/pages/dita/linux/responsive_html5/</link>
+      <link>http://localhost:1313/pages/dita/linux/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/dita/linux/responsive_html5/</guid>
+      <guid>http://localhost:1313/pages/dita/linux/responsive_html5/</guid>
       <description>&#x9;&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&#xD;&lt;!DOCTYPE HTML&gt;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#x9;%&#xA;End of search results.&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160; </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:53601/pages/dita/responsive_html5/</link>
+      <link>http://localhost:1313/pages/dita/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/dita/responsive_html5/</guid>
+      <guid>http://localhost:1313/pages/dita/responsive_html5/</guid>
       <description>&#x9;&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&#xD;&lt;!DOCTYPE HTML&gt;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#x9;%&#xA;End of search results.&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160; </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:53601/pages/uploads/uploads/dita/linux/responsive_html5/</link>
+      <link>http://localhost:1313/pages/uploads/uploads/dita/linux/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/uploads/uploads/dita/linux/responsive_html5/</guid>
+      <guid>http://localhost:1313/pages/uploads/uploads/dita/linux/responsive_html5/</guid>
       <description>&#x9;&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&#xD;&lt;!DOCTYPE HTML&gt;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#x9;%&#xA;End of search results.&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160; </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:53601/pages/uploads/uploads/dita/responsive_html5/</link>
+      <link>http://localhost:1313/pages/uploads/uploads/dita/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/uploads/uploads/dita/responsive_html5/</guid>
+      <guid>http://localhost:1313/pages/uploads/uploads/dita/responsive_html5/</guid>
       <description>&#x9;&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&#xD;&lt;!DOCTYPE HTML&gt;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#x9;%&#xA;End of search results.&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160; </description>
     </item>
   </channel>

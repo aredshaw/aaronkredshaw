@@ -2,220 +2,220 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on Aaron K. Redshaw</title>
-    <link>http://localhost:53601/tags/untagged/</link>
+    <link>http://localhost:1313/tags/untagged/</link>
     <description>Recent content in Untagged on Aaron K. Redshaw</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:53601/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Would I like technical writing?</title>
-      <link>http://localhost:53601/blog/would-i-like-technical-writing/</link>
+      <link>http://localhost:1313/blog/would-i-like-technical-writing/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/would-i-like-technical-writing/</guid>
+      <guid>http://localhost:1313/blog/would-i-like-technical-writing/</guid>
       <description>Before you invest time, and possibly money, into getting into a technical writing career, you should first decide if it&amp;rsquo;s the kind of job you would like.&#xA;Keep in mind you probably won’t identify with everything in these lists, but if technical writing is a job you’d like, you may see some familiar patterns here.&#xA;Questions to answer - The big 3 There are lots of possible questions to answer to know if you would like technical writing, but I think these might be the big 3:</description>
     </item>
     <item>
       <title>What should I study first?</title>
-      <link>http://localhost:53601/blog/what-should-i-study-first/</link>
+      <link>http://localhost:1313/blog/what-should-i-study-first/</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/what-should-i-study-first/</guid>
+      <guid>http://localhost:1313/blog/what-should-i-study-first/</guid>
       <description>If you want to get a job as a technical writer, you will have to get technical. Since I&amp;rsquo;m often asked what to study first, I&amp;rsquo;ve put together some guiding principles so you can figure out where to spend your time learning the technical subjects.&#xA;I won&amp;rsquo;t tell you what to study first, but I&amp;rsquo;ll give you what you need to make that decision. As usual, I&amp;rsquo;m assuming you want to document software using a docs-as-code approach, which is where my experience lies.</description>
     </item>
     <item>
       <title>What are APIs anyway?</title>
-      <link>http://localhost:53601/blog/what-are-apis-anyway/</link>
+      <link>http://localhost:1313/blog/what-are-apis-anyway/</link>
       <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/what-are-apis-anyway/</guid>
+      <guid>http://localhost:1313/blog/what-are-apis-anyway/</guid>
       <description>Introduction to APIs When people use the term APIs, they are not all talking about the same thing. This used to confuse me early on, so I&amp;rsquo;m going to give you a very quick tour of APIs. If you want more in-depth knowledge, there is a ton of information online.&#xA;To start, API stands for Application Programming Interface. It’s a way that software can exchange information with other software. Since knowing how to document APIs is in very high demand for software technical writers, I’m going to also provide resources for learning more about each type.</description>
     </item>
     <item>
       <title>Getting experience – part 3</title>
-      <link>http://localhost:53601/blog/getting-experience-part-3/</link>
+      <link>http://localhost:1313/blog/getting-experience-part-3/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/getting-experience-part-3/</guid>
+      <guid>http://localhost:1313/blog/getting-experience-part-3/</guid>
       <description>Get experience with an open source project GitHub | Linux | GNU | Sourceforge&#xA;Common advice The idea that you can get a job in technical writing by volunteering to write documentation for an open source project has been around awhile. This advice often appears in blog posts, tech writing forums, and advice columns. The prevailing logic is that you can add to your portfolio by writing documentation for some of the many open source software projects available.</description>
     </item>
     <item>
       <title>Getting experience – part 2</title>
-      <link>http://localhost:53601/blog/getting-experience-part-2/</link>
+      <link>http://localhost:1313/blog/getting-experience-part-2/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/getting-experience-part-2/</guid>
+      <guid>http://localhost:1313/blog/getting-experience-part-2/</guid>
       <description>Get any job in an IT industry, and try to work your way into a tech writing position If you’ve been applying for technical writing jobs, you may have discovered that no one will hire you without experience. In that case, you may try getting a job in a technical company, and see if you can work your way into technical writing. If you are currently employed, you may do this in your current company.</description>
     </item>
     <item>
       <title>Getting experience – part 1</title>
-      <link>http://localhost:53601/blog/getting-experience-part-1/</link>
+      <link>http://localhost:1313/blog/getting-experience-part-1/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/getting-experience-part-1/</guid>
+      <guid>http://localhost:1313/blog/getting-experience-part-1/</guid>
       <description>The problem &amp;ldquo;How can I get experience in technical writing when all the entry-level jobs require experience?&amp;rdquo; I&amp;rsquo;ve heard this a lot. It&amp;rsquo;s perhaps the most difficult issue to overcome when trying to get into technical writing. Just today I looked up entry level positions for technical writing on Indeed. I saw only one in my area, and here’s what it said:&#xA;3-6 years? I have seen many other entry level positions like this, usually requiring 1-3 years of experience.</description>
     </item>
     <item>
       <title>The importance of humility</title>
-      <link>http://localhost:53601/blog/the-importance-of-humility/</link>
+      <link>http://localhost:1313/blog/the-importance-of-humility/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/the-importance-of-humility/</guid>
+      <guid>http://localhost:1313/blog/the-importance-of-humility/</guid>
       <description>When trying to get a job in technical writing, or even once you have one, humility can serve you well. Sometimes humility is learned the hard way, by running into a wall, or being turned down a few dozen times. Fortunately, we don’t have to wait for that to happen to learn humility. Here are some thoughts I have about its importance in your job search.&#xA;I don’t know what I don’t know Here’s the thing.</description>
     </item>
     <item>
       <title>The technical writing interview – part 2</title>
-      <link>http://localhost:53601/blog/the-technical-writing-interview-part-2/</link>
+      <link>http://localhost:1313/blog/the-technical-writing-interview-part-2/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/the-technical-writing-interview-part-2/</guid>
+      <guid>http://localhost:1313/blog/the-technical-writing-interview-part-2/</guid>
       <description>This topic is divided into two posts: Part 1 covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job. Part 2 will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do.</description>
     </item>
     <item>
       <title>The technical writing interview – part 1</title>
-      <link>http://localhost:53601/blog/the-technical-writing-interview-part-1/</link>
+      <link>http://localhost:1313/blog/the-technical-writing-interview-part-1/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/the-technical-writing-interview-part-1/</guid>
+      <guid>http://localhost:1313/blog/the-technical-writing-interview-part-1/</guid>
       <description>This topic is divided into two posts:&#xA;Part 1 covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.&#xA;Part 2 will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do.</description>
     </item>
     <item>
       <title>What kind of technical writing job should I get into?</title>
-      <link>http://localhost:53601/blog/what-kind-of-technical-writing-job-should-i-get-into/</link>
+      <link>http://localhost:1313/blog/what-kind-of-technical-writing-job-should-i-get-into/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/what-kind-of-technical-writing-job-should-i-get-into/</guid>
+      <guid>http://localhost:1313/blog/what-kind-of-technical-writing-job-should-i-get-into/</guid>
       <description>If you&amp;rsquo;re looking for a technical writing job, it&amp;rsquo;s easy to get overwhelmed with all the possible job requirements. The truth is there are many types of technical writing jobs, and each has its own requirements. For that reason, there is no need to study all the requirements for every category of technical writing job. Picking a target type and working towards that kind of job can save you from being quite so overwhelmed and may get you a job faster.</description>
     </item>
     <item>
       <title>Tech writing hiring freeze</title>
-      <link>http://localhost:53601/blog/tech-writing-hiring-freeze/</link>
+      <link>http://localhost:1313/blog/tech-writing-hiring-freeze/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/tech-writing-hiring-freeze/</guid>
+      <guid>http://localhost:1313/blog/tech-writing-hiring-freeze/</guid>
       <description>I hope the title caught your attention, because if you are in the market to get hired as a technical writer, keep a watch on your calendar. In general, most companies stop hiring around the end of October (sometimes weeks earlier), and start again around mid-January. This often has to do with approved budgets for headcount, and also businesses just start hunkering down as the holidays approach.&#xA;What should I do about it?</description>
     </item>
     <item>
       <title>The Shakespeare effect</title>
-      <link>http://localhost:53601/blog/the-shakespeare-effect/</link>
+      <link>http://localhost:1313/blog/the-shakespeare-effect/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/the-shakespeare-effect/</guid>
+      <guid>http://localhost:1313/blog/the-shakespeare-effect/</guid>
       <description>When I was in college, working my way towards a BA in English, I took a Shakespeare class. Besides all that we learned during lecture times, we were required to read six Shakespeare plays outside of class. So, several nights a week I found myself reading through a Shakespeare play, and most of the time I was utterly confused. Many of the words were modern words, but many were also new to me.</description>
     </item>
     <item>
       <title>How do you handle the frustration?</title>
-      <link>http://localhost:53601/blog/how-do-you-handle-the-frustration/</link>
+      <link>http://localhost:1313/blog/how-do-you-handle-the-frustration/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/how-do-you-handle-the-frustration/</guid>
+      <guid>http://localhost:1313/blog/how-do-you-handle-the-frustration/</guid>
       <description>Here&amp;rsquo;s the thing. I&amp;rsquo;m completely lost in this Android course. I&amp;rsquo;m copying and pasting code, and sometimes it compiles and works and sometimes it doesn&amp;rsquo;t. I get some of the concepts, but most are over my head at this point. I know if I slow down too much, I will get bogged down and feel like I&amp;rsquo;m going nowhere. With enough repetition, this will get better in later iterations. As long as I don&amp;rsquo;t stop.</description>
     </item>
     <item>
       <title>Learning the hard stuff</title>
-      <link>http://localhost:53601/blog/learning-the-hard-stuff/</link>
+      <link>http://localhost:1313/blog/learning-the-hard-stuff/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/learning-the-hard-stuff/</guid>
+      <guid>http://localhost:1313/blog/learning-the-hard-stuff/</guid>
       <description>The thing about getting into technical writing, is that most employers care more about your technical mastery than they do your writing ability. For that reason, one of the best ways to show your value is to prove your technical skills. The list of what you can learn is just about infinite, and choosing what will impress employers can be difficult. (See my spreadsheet if you are looking for how to narrow this down.</description>
     </item>
     <item>
       <title>Google certificates &amp; Sololearn</title>
-      <link>http://localhost:53601/blog/google-certificates-sololearn/</link>
+      <link>http://localhost:1313/blog/google-certificates-sololearn/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/google-certificates-sololearn/</guid>
+      <guid>http://localhost:1313/blog/google-certificates-sololearn/</guid>
       <description>As I have said before, when getting into technical writing, experience is king. But when you might have difficulty getting experience, the next best thing you can do is gain technical know-how. I&amp;rsquo;ve recently stumbled upon Google Certificates. These are courses that are offered either through Google or through a partnership with Google and Coursera, and they are intended to help people get into high-growth technical jobs.&#xA;According to their site, 82% of Certificate graduates report a positive career impact in six months, though so far, these statistics mostly come from the IT Support course, which was their first.</description>
     </item>
     <item>
       <title>Stock OpenAPI (Swagger)</title>
-      <link>http://localhost:53601/pages/stock-openapi/</link>
+      <link>http://localhost:1313/pages/stock-openapi/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/stock-openapi/</guid>
+      <guid>http://localhost:1313/pages/stock-openapi/</guid>
       <description>&amp;lt;body&amp;gt; &amp;lt;div id = &amp;quot;fb&amp;quot;&amp;gt;Facebook: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;ap&amp;quot;&amp;gt;Apple: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;goog&amp;quot;&amp;gt;Google: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;msft&amp;quot;&amp;gt;Microsoft: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;ibm&amp;quot;&amp;gt;IBM: &amp;lt;/div&amp;gt; &amp;lt;/body&amp;gt; Here is an OpenAPI (Swagger) document I wrote for use with this resource. With it you can make calls to IEX Cloud to look up current stock prices for many different companies.​</description>
     </item>
     <item>
       <title>Start with a good resume</title>
-      <link>http://localhost:53601/blog/start-with-a-good-resume/</link>
+      <link>http://localhost:1313/blog/start-with-a-good-resume/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/start-with-a-good-resume/</guid>
+      <guid>http://localhost:1313/blog/start-with-a-good-resume/</guid>
       <description>This post will not get into resume writing basics. There are some great guides out there for free already on that topic. Here I will just cover what is specific to technical writing.&#xA;Keywords are key According to Josh Hrala at careerminds.com, 17% of all resumes submitted are never read by a human being. Instead, they are processed by an ATS (applicant tracking system), which searches for certain keywords that match the job description.</description>
     </item>
     <item>
       <title>Technical skills trump writing skills</title>
-      <link>http://localhost:53601/blog/technical-skills-trump-writing-skills/</link>
+      <link>http://localhost:1313/blog/technical-skills-trump-writing-skills/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/technical-skills-trump-writing-skills/</guid>
+      <guid>http://localhost:1313/blog/technical-skills-trump-writing-skills/</guid>
       <description>If you are trying to get into technical writing, you may find it is a sad fact that much more emphasis is placed on your technical skills than your writing skills. It seems it is assumed that writing is easier to pick up than technical skills. Or perhaps the assumption is that everyone can write, but not everyone has technical know-how. Take a look at this list of requirements for a fairly low-level technical writer position I found (really, it was the first one that came up on Indeed).</description>
     </item>
     <item>
       <title>A Letter About Self Publishing</title>
-      <link>http://localhost:53601/pages/a-letter-about-self-publishing/</link>
+      <link>http://localhost:1313/pages/a-letter-about-self-publishing/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/a-letter-about-self-publishing/</guid>
+      <guid>http://localhost:1313/pages/a-letter-about-self-publishing/</guid>
       <description>Here is a letter I wrote in response to someone asking about self-publishing. Josh,&#xA;I’m glad I got to talk with you a little tonight. It looks like you are on the same adventure that I am on. I really enjoy writing; it is my new hobby, but I have to keep reminding myself that it is more of a marathon than a sprint. I had written five first drafts (National Novel Writing Month), but only one of those did I ever revise into a book for others.</description>
     </item>
     <item>
       <title>A Self-Publishing Guide</title>
-      <link>http://localhost:53601/pages/a-self-publishing-guide_tools/</link>
+      <link>http://localhost:1313/pages/a-self-publishing-guide_tools/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/a-self-publishing-guide_tools/</guid>
+      <guid>http://localhost:1313/pages/a-self-publishing-guide_tools/</guid>
       <description>Skills demonstrated: Software documentation, screenshots, HTML, publishing, explaining step-by-step procedures, web development Tools used: Google Docs, Microsoft Word, Photoshop, Adobe Acrobat, CMS (content management system), WordPress&#xA;Read as a PDF&#xA;Google Docs I use Google Docs for the bulk of my drafting and revision. Some reasons for this are:&#xA;Google Docs saves your document every few seconds, so I do not have to worry about hitting save often or making sure I have auto-save on in Word.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:53601/pages/about-me/</link>
+      <link>http://localhost:1313/pages/about-me/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/about-me/</guid>
+      <guid>http://localhost:1313/pages/about-me/</guid>
       <description> Technical Writer Author of five novels and two novelettes B.A. English </description>
     </item>
     <item>
       <title>Books I&#39;ve Published</title>
-      <link>http://localhost:53601/pages/books-ive-published/</link>
+      <link>http://localhost:1313/pages/books-ive-published/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/books-ive-published/</guid>
+      <guid>http://localhost:1313/pages/books-ive-published/</guid>
       <description>When I was a high school English teacher I sometimes wondered what it would be like to write a book. I had met several teachers who said that one day they would write a novel, but it just never seemed to happen. Then one day I thought to myself, &amp;ldquo;Why not stop dreaming and just do it!&amp;rdquo; You can also view these books at Amazon.&#xA;The Gifted Series Space to Stand Trivia My first draft of my first book, The Gifted, only took me 11 days to complete (50,000 words).</description>
     </item>
     <item>
       <title>Clyste</title>
-      <link>http://localhost:53601/pages/clyste/</link>
+      <link>http://localhost:1313/pages/clyste/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/clyste/</guid>
+      <guid>http://localhost:1313/pages/clyste/</guid>
       <description>Documentation for Clyste I am currently writing some documentation for a start-up called Clyste. The Word doc can be found here. Besides this document, I put together an introductory email for those joining the group.&#xA;Clyste (Pronounced Klīst)&#xA;https://angel.co/clyste-social-network&#xA;Most of you are familiar with social media, such as Facebook, Instagram, and Twitter. This is where people connect, find out interesting news, and keep up with trends. But these models are developed from the top down by huge corporations, meaning that if someone wants to make a change, even a small change, there is a lot of red tape that needs to be gone through before any changes actually happen.</description>
     </item>
     <item>
       <title>Clyste Email</title>
-      <link>http://localhost:53601/pages/clyste-email/</link>
+      <link>http://localhost:1313/pages/clyste-email/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/clyste-email/</guid>
+      <guid>http://localhost:1313/pages/clyste-email/</guid>
       <description>When I joined the Clyste group, I was sent an email by the COO of the company. I offered to help with a rewrite of the initial email. Here you can see the original as well as my version. The original Welcome to the community Aaron. Our first goal is 1. To inform you about what we are doing (whatever you don’t understand, please ask questions – this will help us refine our idea).</description>
     </item>
     <item>
       <title>Creating an Online Portfolio</title>
-      <link>http://localhost:53601/pages/creating-an-online-portfolio/</link>
+      <link>http://localhost:1313/pages/creating-an-online-portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/creating-an-online-portfolio/</guid>
+      <guid>http://localhost:1313/pages/creating-an-online-portfolio/</guid>
       <description>Resources Slides from presentation Handout for Creating an Online Portfolio The best article I found for comparing web hosting sites The top part contains inexpensive hosting plans, with free accounts at the bottom. Advice for aspiring writers This was a letter I wrote to Karen (not her real name), full of advice about what worked for me and how I went about getting into technical writing. Technical writing tools / skills most in demand According to searches I made on Indeed.</description>
     </item>
     <item>
       <title>DebtPayoff</title>
-      <link>http://localhost:53601/pages/debtpayoff/</link>
+      <link>http://localhost:1313/pages/debtpayoff/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/debtpayoff/</guid>
+      <guid>http://localhost:1313/pages/debtpayoff/</guid>
       <description>As I was learning Java, I realized I had need of a program that would calculate how much money and time it would take to pay off my credit card. I wanted to be able to play with the numbers. If I paid $20 more per month, how much would I save in interest payments? How about $50? This program does just that.&#xA;View the Source Code or Download the Program </description>
     </item>
     <item>
       <title>Experience is king</title>
-      <link>http://localhost:53601/blog/experience-is-king/</link>
+      <link>http://localhost:1313/blog/experience-is-king/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/experience-is-king/</guid>
+      <guid>http://localhost:1313/blog/experience-is-king/</guid>
       <description>As I said in the last post, How to get a job in technical writing, there are two big issues that you have to overcome to get into technical writing.&#xA;Experience is king. Technical skills trump writing skills Before I go into each solution in detail, I want to give you an idea of how problematic these obstacles are. I had a number of phone interviews that began and ended with the phrase, “How many years of experience do you have as a technical writer.</description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:53601/pages/resume/</link>
+      <link>http://localhost:1313/pages/resume/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/resume/</guid>
+      <guid>http://localhost:1313/pages/resume/</guid>
       <description>Read my resume as a Word doc or PDF. If you are ambitious, try my Java Swing resume. </description>
     </item>
     <item>
       <title>White Paper</title>
-      <link>http://localhost:53601/pages/white-paper/</link>
+      <link>http://localhost:1313/pages/white-paper/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/pages/white-paper/</guid>
+      <guid>http://localhost:1313/pages/white-paper/</guid>
       <description>A friend of mine was part of a startup and asked if I wanted to write a white paper for them. It was a social media startup based on blockchain. I did what anyone new to writing white papers would do. I bought two books on how to write a white paper and got to work. Here is my result.&#xA;Download the white paper</description>
     </item>
     <item>
       <title>How to get a job in technical writing</title>
-      <link>http://localhost:53601/blog/how-to-get-a-job-in-technical-writing/</link>
+      <link>http://localhost:1313/blog/how-to-get-a-job-in-technical-writing/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53601/blog/how-to-get-a-job-in-technical-writing/</guid>
+      <guid>http://localhost:1313/blog/how-to-get-a-job-in-technical-writing/</guid>
       <description>There are two categories of people interested in technical writing. Those who have received a degree or certificate in technical writing, and those who want to make the switch from another career. While you might think those with a degree or certificate have all the advantages in the job market, that is simply not the case. Without experience and a good portfolio, employers will seldom even consider a candidate.&#xA;Since I recently made the switch into technical writing, I thought I’d pass on what I learned along the way.</description>
     </item>
   </channel>
