@@ -126,12 +126,8 @@
   </url><url>
     <loc>http://localhost:1313/search/placeholder/</loc>
   </url><url>
-    <loc>http://localhost:1313/author/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>
