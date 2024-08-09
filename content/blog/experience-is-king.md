@@ -8,7 +8,6 @@ tags:
   - untagged
 ---
 
-
 As I said in the last post, [How to get a job in technical writing](../how-to-get-a-job-in-technical-writing/),  there are two big issues that you have to overcome to get into technical writing. 
 
 1. Experience is king.
