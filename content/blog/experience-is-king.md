@@ -35,4 +35,3 @@ Help out a startup. Even if there is no pay involved, getting some experience th
 
 Another time, I will discuss creating your own work samples that could land you a job. But that will be when I talk about portfolios. For now, consider getting some experience with a startup or nonprofit. If you have the skills or experience to tackle an open source project, then go ahead with that route.
 
-If you have any other ideas for getting experience in technical writing, feel free to leave a comment.
