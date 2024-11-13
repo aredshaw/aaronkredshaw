@@ -13,3 +13,9 @@
 [submodule "themes/lekh"]
 	path = themes/lekh
 	url = https://github.com/ba11b0y/lekh.git
+[submodule "themes/henry"]
+	path = themes/henry
+	url = https://github.com/kaushikgopal/henry-hugo.git
+[submodule "themes/hugo-blog-awesome"]
+	path = themes/hugo-blog-awesome
+	url = https://github.com/hugo-sid/hugo-blog-awesome.git

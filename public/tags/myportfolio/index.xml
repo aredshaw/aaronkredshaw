@@ -4,23 +4,68 @@
     <title>Myportfolio on Aaron K. Redshaw</title>
     <link>http://localhost:1313/tags/myportfolio/</link>
     <description>Recent content in Myportfolio on Aaron K. Redshaw</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/myportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/myportfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DITA &amp; FrameMaker</title>
       <link>http://localhost:1313/pages/ditaframemaker/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/ditaframemaker/</guid>
-      <description>Skills demonstrated: DITA, XML, topic based authoring, structured authoring, single source publishing, computer hardware, research, photo editing, docs as code​&#xA;Tools used: FrameMaker, Photoshop, WinSCP&#xA;How to Build a Computer​ Three file types generated, two conditional outputs, one XML source Windows Directions Responsive HTML 5 (Windows) Microsoft HTML Help File (Windows) Kindle e-book-.mobi) (Windows) Linux Directions: Responsive HTML 5 (Linux) Microsoft HTML Help File (Linux) Kindle e-book-.mobi (Linux) Note:</description>
+      
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;Skills demonstrated: DITA, XML, topic based authoring, structured authoring, single source publishing, computer hardware, research, photo editing, docs as code​&lt;/p&gt;
+&lt;p&gt;Tools used: FrameMaker, Photoshop, WinSCP&lt;/p&gt;
+&lt;h1 id=&#34;how-to-build-a-computer&#34;&gt;How to Build a Computer​&lt;/h1&gt;
+&lt;h2 id=&#34;three-file-types-generated-two-conditional-outputs-one-xml-source&#34;&gt;Three file types generated, two conditional outputs, one XML source&lt;/h2&gt;
+&lt;h3 id=&#34;windows-directions&#34;&gt;Windows Directions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Responsive_HTML5/&#34;&gt;Responsive HTML 5 (Windows)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Building_a_Computer.chm&#34;&gt;Microsoft HTML Help File (Windows)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Kindle.mobi&#34;&gt;Kindle e-book-.mobi) (Windows)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;linux-directions&#34;&gt;Linux Directions:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Linux/Responsive_HTML5/&#34;&gt;Responsive HTML 5 (Linux)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Linux/Building_a_Linux_Computer.chm&#34;&gt;Microsoft HTML Help File (Linux)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Linux/Linux-Kindle.mobi&#34;&gt;Kindle e-book-.mobi (Linux)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Technical Writer – Developer Docs / APIs</title>
       <link>http://localhost:1313/pages/portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/portfolio/</guid>
-      <description>| Resume | LinkedIn | GitHub | Amazon |&#xA;Resources for &amp;ldquo;Creating an Online Portfolio&amp;rdquo; STC Presentation&#xA;Summary of Skills For experience with these, see my resume&#xA;Managing projects with multiple subject matter experts and stakeholders. Documenting SDKs and APIs, including OpenAPI specs and Swagger. Integrating code into documentation (Java, Python, JavaScript, command-line scripts). Writing docs for overviews, concepts, guides, quick-starts, tutorials, and reference. Reading and writing code in Java and Python.</description>
+      
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;| &lt;a href=&#34;../resume&#34;&gt;Resume&lt;/a&gt; |
+&lt;a href=&#34;https://www.linkedin.com/in/aaron-redshaw/&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;https://github.com/aredshaw&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://www.amazon.com/Aaron-K.-Redshaw/e/B00E3KSIB6/&#34;&gt;Amazon&lt;/a&gt; |&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../creating-an-online-portfolio&#34;&gt;Resources for &amp;ldquo;Creating an Online Portfolio&amp;rdquo; STC Presentation&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary-of-skills&#34;&gt;Summary of Skills&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;For experience with these, see my resume&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managing projects with multiple subject matter experts and stakeholders.&lt;/li&gt;
+&lt;li&gt;Documenting SDKs and APIs, including OpenAPI specs and Swagger.&lt;/li&gt;
+&lt;li&gt;Integrating code into documentation (Java, Python, JavaScript, command-line scripts).&lt;/li&gt;
+&lt;li&gt;Writing docs for overviews, concepts, guides, quick-starts, tutorials, and reference.&lt;/li&gt;
+&lt;li&gt;Reading and writing code in Java and Python.&lt;/li&gt;
+&lt;li&gt;Working with Linux on the desktop and command-line.&lt;/li&gt;
+&lt;li&gt;Writing in HTML and markdown.&lt;/li&gt;
+&lt;li&gt;Constructing information architecture, writing proposals, gap analyses, and other planning docs.&lt;/li&gt;
+&lt;li&gt;Integrating into developer flows, using source control management (including git), bug tracking, and other such tools.&lt;/li&gt;
+&lt;li&gt;Creating and revising UML sequence diagrams.&lt;/li&gt;
+&lt;li&gt;Publishing with static site generators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;portfolio-items&#34;&gt;Portfolio Items&lt;/h2&gt;
+&lt;h3 id=&#34;apis-using-openapi-swaggerapi-and-openapi-practice&#34;&gt;&lt;a href=&#34;../api-and-openapi-practice&#34;&gt;APIs using OpenAPI (Swagger)&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../images/API-FrontPage-1024x398.png&#34; alt=&#34;API-OpenAPI (Swagger)&#34;&gt;&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

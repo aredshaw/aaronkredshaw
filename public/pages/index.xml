@@ -4,128 +4,895 @@
     <title>Pages on Aaron K. Redshaw</title>
     <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Aaron K. Redshaw</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stock OpenAPI (Swagger)</title>
       <link>http://localhost:1313/pages/stock-openapi/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/stock-openapi/</guid>
-      <description>&amp;lt;body&amp;gt; &amp;lt;div id = &amp;quot;fb&amp;quot;&amp;gt;Facebook: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;ap&amp;quot;&amp;gt;Apple: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;goog&amp;quot;&amp;gt;Google: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;msft&amp;quot;&amp;gt;Microsoft: &amp;lt;/div&amp;gt; &amp;lt;div id = &amp;quot;ibm&amp;quot;&amp;gt;IBM: &amp;lt;/div&amp;gt; &amp;lt;/body&amp;gt; Here is an OpenAPI (Swagger) document I wrote for use with this resource. With it you can make calls to IEX Cloud to look up current stock prices for many different companies.​</description>
+      
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;body&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;pre&gt;&lt;code&gt;	&amp;lt;div id = &amp;quot;fb&amp;quot;&amp;gt;Facebook: &amp;lt;/div&amp;gt;
+	&amp;lt;div id = &amp;quot;ap&amp;quot;&amp;gt;Apple: &amp;lt;/div&amp;gt;
+	&amp;lt;div id = &amp;quot;goog&amp;quot;&amp;gt;Google: &amp;lt;/div&amp;gt;
+	&amp;lt;div id = &amp;quot;msft&amp;quot;&amp;gt;Microsoft: &amp;lt;/div&amp;gt;
+	&amp;lt;div id = &amp;quot;ibm&amp;quot;&amp;gt;IBM: &amp;lt;/div&amp;gt;
+	
+&amp;lt;/body&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;here-is-an-openapi-swagger-document-i-wrote-for-use-with-this-resourcehttpsappswaggerhubcomapisaredshawiex-cloud11&#34;&gt;&lt;a href=&#34;https://app.swaggerhub.com/apis/aredshaw/IEX-Cloud/1.1&#34;&gt;Here is an OpenAPI (Swagger) document I wrote for use with this resource.&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;With it you can make calls to IEX Cloud to look up current stock prices for many different companies.​&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>A Letter About Self Publishing</title>
       <link>http://localhost:1313/pages/a-letter-about-self-publishing/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/a-letter-about-self-publishing/</guid>
-      <description>Here is a letter I wrote in response to someone asking about self-publishing. Josh,&#xA;I’m glad I got to talk with you a little tonight. It looks like you are on the same adventure that I am on. I really enjoy writing; it is my new hobby, but I have to keep reminding myself that it is more of a marathon than a sprint. I had written five first drafts (National Novel Writing Month), but only one of those did I ever revise into a book for others.</description>
+      
+      <description>&lt;h2 id=&#34;here-is-a-letter-i-wrote-in-response-to-someone-asking-about-self-publishing&#34;&gt;Here is a letter I wrote in response to someone asking about self-publishing.&lt;/h2&gt;
+&lt;p&gt;Josh,&lt;/p&gt;
+&lt;p&gt;I’m glad I got to talk with you a little tonight. It looks like you are on the same adventure that I am on. I really enjoy writing; it is my new hobby, but I have to keep reminding myself that it is more of a marathon than a sprint. I had written five first drafts (National Novel Writing Month), but only one of those did I ever revise into a book for others. I have a lot I could say, but here are some of those links I promised.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>A Self-Publishing Guide</title>
       <link>http://localhost:1313/pages/a-self-publishing-guide_tools/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/a-self-publishing-guide_tools/</guid>
-      <description>Skills demonstrated: Software documentation, screenshots, HTML, publishing, explaining step-by-step procedures, web development Tools used: Google Docs, Microsoft Word, Photoshop, Adobe Acrobat, CMS (content management system), WordPress&#xA;Read as a PDF&#xA;Google Docs I use Google Docs for the bulk of my drafting and revision. Some reasons for this are:&#xA;Google Docs saves your document every few seconds, so I do not have to worry about hitting save often or making sure I have auto-save on in Word.</description>
+      
+      <description>&lt;p&gt;Skills demonstrated: Software documentation, screenshots, HTML, publishing, explaining step-by-step procedures, web development
+Tools used: Google Docs, Microsoft Word, Photoshop, Adobe Acrobat, CMS (content management system), WordPress&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../uploads/A-Self-Publishing-Guide-Tools-Used-pdf.pdf&#34;&gt;Read as a PDF&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;google-docs&#34;&gt;Google Docs&lt;/h1&gt;
+&lt;p&gt;I use Google Docs for the bulk of my drafting and revision. Some reasons for this are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Google Docs saves your document every few seconds, so I do not have to worry about hitting save often or making sure I have auto-save on in Word.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/pages/about-me/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/about-me/</guid>
-      <description> Technical Writer Author of five novels and two novelettes B.A. English </description>
+      
+      <description>&lt;ul&gt;
+&lt;li&gt;Technical Writer&lt;/li&gt;
+&lt;li&gt;Author of five novels and two novelettes&lt;/li&gt;
+&lt;li&gt;B.A. English&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
     </item>
+    
     <item>
       <title>Books I&#39;ve Published</title>
       <link>http://localhost:1313/pages/books-ive-published/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/books-ive-published/</guid>
-      <description>When I was a high school English teacher I sometimes wondered what it would be like to write a book. I had met several teachers who said that one day they would write a novel, but it just never seemed to happen. Then one day I thought to myself, &amp;ldquo;Why not stop dreaming and just do it!&amp;rdquo; You can also view these books at Amazon.&#xA;The Gifted Series Space to Stand Trivia My first draft of my first book, The Gifted, only took me 11 days to complete (50,000 words).</description>
+      
+      <description>&lt;p&gt;When I was a high school English teacher I sometimes wondered what it would be like to write a book. I had met several teachers who said that one day they would write a novel, but it just never seemed to happen. Then one day I thought to myself, &amp;ldquo;Why not stop dreaming and just do it!&amp;rdquo; You can also &lt;a href=&#34;https://www.amazon.com/Aaron-K-Redshaw/e/B00E3KSIB6&#34;&gt;view these books at Amazon&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-gifted-series&#34;&gt;The Gifted Series&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../images/TracysEscape.png&#34; alt=&#34;Tracy&amp;rsquo;s Escape&#34;&gt;  &lt;img src=&#34;../images/TheGifted.png&#34; alt=&#34;The Gifted&#34;&gt;  &lt;img src=&#34;../images/AssaultFromSpace.png&#34; alt=&#34;Assault from Space&#34;&gt;  &lt;img src=&#34;../images/DangerUnderOceansTides.png&#34; alt=&#34;Danger Under Ocean&amp;rsquo;s Tides&#34;&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Clyste</title>
       <link>http://localhost:1313/pages/clyste/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/clyste/</guid>
-      <description>Documentation for Clyste I am currently writing some documentation for a start-up called Clyste. The Word doc can be found here. Besides this document, I put together an introductory email for those joining the group.&#xA;Clyste (Pronounced Klīst)&#xA;https://angel.co/clyste-social-network&#xA;Most of you are familiar with social media, such as Facebook, Instagram, and Twitter. This is where people connect, find out interesting news, and keep up with trends. But these models are developed from the top down by huge corporations, meaning that if someone wants to make a change, even a small change, there is a lot of red tape that needs to be gone through before any changes actually happen.</description>
+      
+      <description>&lt;h2 id=&#34;documentation-for-clyste&#34;&gt;Documentation for Clyste&lt;/h2&gt;
+&lt;p&gt;I am currently writing some documentation for a start-up called Clyste. The Word doc can be found &lt;a href=&#34;../uploads/Clyste-for-Jason-What-I-wrote.docx&#34;&gt;here&lt;/a&gt;. Besides this document, I put together an introductory email for those joining the group.&lt;/p&gt;
+&lt;h1 id=&#34;clyste&#34;&gt;Clyste&lt;/h1&gt;
+&lt;p&gt;(Pronounced Klīst)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://angel.co/clyste-social-network&#34;&gt;https://angel.co/clyste-social-network&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Most of you are familiar with social media, such as Facebook, Instagram, and Twitter. This is where people connect, find out interesting news, and keep up with trends. But these models are developed from the top down by huge corporations, meaning that if someone wants to make a change, even a small change, there is a lot of red tape that needs to be gone through before any changes actually happen. And those who benefit most will always be those corporations. That’s because they are corporate owned and operated.&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Clyste Email</title>
       <link>http://localhost:1313/pages/clyste-email/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/clyste-email/</guid>
-      <description>When I joined the Clyste group, I was sent an email by the COO of the company. I offered to help with a rewrite of the initial email. Here you can see the original as well as my version. The original Welcome to the community Aaron. Our first goal is 1. To inform you about what we are doing (whatever you don’t understand, please ask questions – this will help us refine our idea).</description>
+      
+      <description>&lt;h3 id=&#34;when-i-joined-the-clyste-group-i-was-sent-an-email-by-the-coo-of-the-company-i-offered-to-help-with-a-rewrite-of-the-initial-email-here-you-can-see-the-original-as-well-as-my-version&#34;&gt;When I joined the Clyste group, I was sent an email by the COO of the company. I offered to help with a rewrite of the initial email. Here you can see the original as well as my version.&lt;/h3&gt;
+&lt;h2 id=&#34;the-original&#34;&gt;The original&lt;/h2&gt;
+&lt;p&gt;Welcome to the community Aaron. Our first goal is 1. To inform you about what we are doing (whatever you don’t understand, please ask questions – this will help us refine our idea). 2. Ask for your help in spreading the word and inviting individuals in your network who may be interested in this idea or supporting us by reviewing our product and providing feedback so that we can build a platform that meets the needs of our users – you. 3. Welcome other like-minded individuals that join this group to the team, answer questions if you know the answer, and network. Use this chance to grow your professional network and find people you would like to work with in the future. Whether you are working on this project or your own, this is a community for you, too. Thank you for your interest in this project and I look forward and answering any questions you may have. Jake&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Creating an Online Portfolio</title>
       <link>http://localhost:1313/pages/creating-an-online-portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/creating-an-online-portfolio/</guid>
-      <description>Resources Slides from presentation Handout for Creating an Online Portfolio The best article I found for comparing web hosting sites The top part contains inexpensive hosting plans, with free accounts at the bottom. Advice for aspiring writers This was a letter I wrote to Karen (not her real name), full of advice about what worked for me and how I went about getting into technical writing. Technical writing tools / skills most in demand According to searches I made on Indeed.</description>
+      
+      <description>&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1eYh4pyOZ_t0na5uZ-L1LZXrpecQTj07BrwXM8DHDjYU/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt; from presentation&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1NvEe3RACE-T1m89uYQo6jCsh5vNjwEIDwW3z3B30K1k/edit?usp=sharing&#34;&gt;Handout&lt;/a&gt; for Creating an Online Portfolio&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hostingadvice.com/how-to/free-web-hosting/&#34;&gt;The best article&lt;/a&gt; I found for comparing web hosting sites
+&lt;ul&gt;
+&lt;li&gt;The top part contains inexpensive hosting plans, with free accounts at the bottom.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/document/d/1IZBxwf2EV9pFU79PS2YVEVZIDxQ1Gtxl8E77M9KbyeE/edit?usp=sharing&#34;&gt;Advice for aspiring writers&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;This was a letter I wrote to Karen (not her real name), full of advice about what worked for me and how I went about getting into technical writing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1AyLq0QaMs3hdKN92p5ASzOA4hjcAHD9Kx0wF63SKkbs/edit?usp=sharing&#34;&gt;Technical writing tools / skills&lt;/a&gt; most in demand
+&lt;ul&gt;
+&lt;li&gt;According to searches I made on Indeed.com: &amp;ldquo;Technical Writer&amp;rdquo; &amp;lt;skill or tool&amp;gt;.&lt;!-- raw HTML omitted --&gt;
+Example: &amp;ldquo;Technical Writer&amp;rdquo; DITA.&lt;!-- raw HTML omitted --&gt;
+All searches were done for the San Jose area.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
     </item>
+    
     <item>
       <title>DebtPayoff</title>
       <link>http://localhost:1313/pages/debtpayoff/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/debtpayoff/</guid>
-      <description>As I was learning Java, I realized I had need of a program that would calculate how much money and time it would take to pay off my credit card. I wanted to be able to play with the numbers. If I paid $20 more per month, how much would I save in interest payments? How about $50? This program does just that.&#xA;View the Source Code or Download the Program </description>
+      
+      <description>&lt;p&gt;As I was learning Java, I realized I had need of a program that would calculate how much money and time it would take to pay off my credit card. I wanted to be able to play with the numbers. If I paid $20 more per month, how much would I save in interest payments? How about $50? This program does just that.&lt;/p&gt;
+&lt;h2 id=&#34;view-the-source-codehttpsgithubcomaredshawdebtpayoff-or-download-the-programhttpssourceforgenetprojectsdebtpayofffilesdebtpayoffdebtpayoff-131debtpayoffjardownload&#34;&gt;View the &lt;a href=&#34;https://github.com/aredshaw/DebtPayoff&#34;&gt;Source Code&lt;/a&gt; or &lt;a href=&#34;https://sourceforge.net/projects/debtpayoff/files/DebtPayoff/DebtPayoff-1.31/DebtPayoff.jar/download&#34;&gt;Download the Program&lt;/a&gt;&lt;/h2&gt;</description>
+      
     </item>
+    
     <item>
       <title>DITA &amp; FrameMaker</title>
       <link>http://localhost:1313/pages/ditaframemaker/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/ditaframemaker/</guid>
-      <description>Skills demonstrated: DITA, XML, topic based authoring, structured authoring, single source publishing, computer hardware, research, photo editing, docs as code​&#xA;Tools used: FrameMaker, Photoshop, WinSCP&#xA;How to Build a Computer​ Three file types generated, two conditional outputs, one XML source Windows Directions Responsive HTML 5 (Windows) Microsoft HTML Help File (Windows) Kindle e-book-.mobi) (Windows) Linux Directions: Responsive HTML 5 (Linux) Microsoft HTML Help File (Linux) Kindle e-book-.mobi (Linux) Note:</description>
+      
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;Skills demonstrated: DITA, XML, topic based authoring, structured authoring, single source publishing, computer hardware, research, photo editing, docs as code​&lt;/p&gt;
+&lt;p&gt;Tools used: FrameMaker, Photoshop, WinSCP&lt;/p&gt;
+&lt;h1 id=&#34;how-to-build-a-computer&#34;&gt;How to Build a Computer​&lt;/h1&gt;
+&lt;h2 id=&#34;three-file-types-generated-two-conditional-outputs-one-xml-source&#34;&gt;Three file types generated, two conditional outputs, one XML source&lt;/h2&gt;
+&lt;h3 id=&#34;windows-directions&#34;&gt;Windows Directions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Responsive_HTML5/&#34;&gt;Responsive HTML 5 (Windows)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Building_a_Computer.chm&#34;&gt;Microsoft HTML Help File (Windows)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Kindle.mobi&#34;&gt;Kindle e-book-.mobi) (Windows)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;linux-directions&#34;&gt;Linux Directions:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Linux/Responsive_HTML5/&#34;&gt;Responsive HTML 5 (Linux)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Linux/Building_a_Linux_Computer.chm&#34;&gt;Microsoft HTML Help File (Linux)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../DITA/Linux/Linux-Kindle.mobi&#34;&gt;Kindle e-book-.mobi (Linux)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>Resume</title>
       <link>http://localhost:1313/pages/resume/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/resume/</guid>
-      <description>Read my resume as a Word doc or PDF. If you are ambitious, try my Java Swing resume. </description>
+      
+      <description>&lt;h2 id=&#34;read-my-resume-as-a-word-docuploadsresume_84_2020docx-or-pdfuploadsresume_84_2020pdf&#34;&gt;Read my resume as a &lt;a href=&#34;../uploads/Resume_8.4_2020.docx&#34;&gt;Word doc&lt;/a&gt; or &lt;a href=&#34;../uploads/Resume_8.4_2020.pdf&#34;&gt;PDF&lt;/a&gt;.&lt;/h2&gt;
+&lt;h2 id=&#34;if-you-are-ambitious-try-my-java-swing-resumehttpsgithubcomaredshawcodepracticeblobmasterjavacodearedshawjava&#34;&gt;&lt;em&gt;If you are ambitious, try &lt;a href=&#34;https://github.com/aredshaw/CodePractice/blob/master/JavaCode/Aredshaw.java&#34;&gt;my Java Swing resume&lt;/a&gt;.&lt;/em&gt;&lt;/h2&gt;</description>
+      
     </item>
+    
     <item>
       <title>Technical Writer – Developer Docs / APIs</title>
       <link>http://localhost:1313/pages/portfolio/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/portfolio/</guid>
-      <description>| Resume | LinkedIn | GitHub | Amazon |&#xA;Resources for &amp;ldquo;Creating an Online Portfolio&amp;rdquo; STC Presentation&#xA;Summary of Skills For experience with these, see my resume&#xA;Managing projects with multiple subject matter experts and stakeholders. Documenting SDKs and APIs, including OpenAPI specs and Swagger. Integrating code into documentation (Java, Python, JavaScript, command-line scripts). Writing docs for overviews, concepts, guides, quick-starts, tutorials, and reference. Reading and writing code in Java and Python.</description>
+      
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;| &lt;a href=&#34;../resume&#34;&gt;Resume&lt;/a&gt; |
+&lt;a href=&#34;https://www.linkedin.com/in/aaron-redshaw/&#34;&gt;LinkedIn&lt;/a&gt; | &lt;a href=&#34;https://github.com/aredshaw&#34;&gt;GitHub&lt;/a&gt; | &lt;a href=&#34;https://www.amazon.com/Aaron-K.-Redshaw/e/B00E3KSIB6/&#34;&gt;Amazon&lt;/a&gt; |&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../creating-an-online-portfolio&#34;&gt;Resources for &amp;ldquo;Creating an Online Portfolio&amp;rdquo; STC Presentation&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary-of-skills&#34;&gt;Summary of Skills&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;For experience with these, see my resume&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Managing projects with multiple subject matter experts and stakeholders.&lt;/li&gt;
+&lt;li&gt;Documenting SDKs and APIs, including OpenAPI specs and Swagger.&lt;/li&gt;
+&lt;li&gt;Integrating code into documentation (Java, Python, JavaScript, command-line scripts).&lt;/li&gt;
+&lt;li&gt;Writing docs for overviews, concepts, guides, quick-starts, tutorials, and reference.&lt;/li&gt;
+&lt;li&gt;Reading and writing code in Java and Python.&lt;/li&gt;
+&lt;li&gt;Working with Linux on the desktop and command-line.&lt;/li&gt;
+&lt;li&gt;Writing in HTML and markdown.&lt;/li&gt;
+&lt;li&gt;Constructing information architecture, writing proposals, gap analyses, and other planning docs.&lt;/li&gt;
+&lt;li&gt;Integrating into developer flows, using source control management (including git), bug tracking, and other such tools.&lt;/li&gt;
+&lt;li&gt;Creating and revising UML sequence diagrams.&lt;/li&gt;
+&lt;li&gt;Publishing with static site generators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;portfolio-items&#34;&gt;Portfolio Items&lt;/h2&gt;
+&lt;h3 id=&#34;apis-using-openapi-swaggerapi-and-openapi-practice&#34;&gt;&lt;a href=&#34;../api-and-openapi-practice&#34;&gt;APIs using OpenAPI (Swagger)&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../images/API-FrontPage-1024x398.png&#34; alt=&#34;API-OpenAPI (Swagger)&#34;&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>White Paper</title>
       <link>http://localhost:1313/pages/white-paper/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/white-paper/</guid>
-      <description>A friend of mine was part of a startup and asked if I wanted to write a white paper for them. It was a social media startup based on blockchain. I did what anyone new to writing white papers would do. I bought two books on how to write a white paper and got to work. Here is my result.&#xA;Download the white paper</description>
+      
+      <description>&lt;p&gt;A friend of mine was part of a startup and asked if I wanted to write a white paper for them. It was a social media startup based on blockchain. I did what anyone new to writing white papers would do. I bought two books on how to write a white paper and got to work. Here is my result.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../uploads/Clyste-White-Paper-customer.pdf&#34;&gt;Download the white paper&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/pages/dita/linux/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/dita/linux/responsive_html5/</guid>
-      <description>&#x9;&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&#xD;&lt;!DOCTYPE HTML&gt;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#x9;%&#xA;End of search results.&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160; </description>
+      
+      <description>&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+&lt;head&gt;
+ &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34; /&gt;
+&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=utf-8&#34; /&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes&#34; /&gt;
+&lt;meta name=&#34;generator&#34; content=&#34;Adobe Framemaker 2017&#34; /&gt;
+&lt;title&gt;Responsive HTML5&lt;/title&gt;
+
+&lt;link rel=&#34;StyleSheet&#34; href=&#34;template/azure_blueResponsive_HTML5/layout.css&#34; type=&#34;text/css&#34; /&gt;
+
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/rh.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/common.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/layout.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/constants.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/projectdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/utils.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhutils.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhlang.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhver.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/settings.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/XmlJsReader.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadscreen.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadcsh.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadparentdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadprojdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/showhidecontrols.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/pageloader.js&#34;&gt;&lt;/script&gt;
+ &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;template/styles/layoutfix.min.css&#34;&gt;
+ &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;template/styles/layout.min.css&#34;&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhfhost.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/search.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+gRootRelPath = &#34;.&#34;;
+gCommonRootRelPath = &#34;.&#34;;
+&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+gTopicFrameName = &#34;rh_default_topic_frame_name&#34;;
+gDefaultTopic = &#34;#Building_a_Computer/c_Introduction.html&#34;;
+&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body class=&#34;hide-children loading&#34; data-rhwidget=&#34;Basic&#34; data-class=&#34;media-desktop: KEY_SCREEN_DESKTOP; media-landscape: KEY_SCREEN_TABLET; media-mobile: KEY_SCREEN_PHONE; ios: KEY_SCREEN_IOS&#34; data-controller=&#34;ModernLayoutController: mc; JsLoadingController&#34; data-attr=&#34;dir:KEY_DIR&#34;&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;ehlpdhtm.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div class=&#34;header&#34; data-class=&#34;mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div class=&#34;logo&#34; data-controller=&#34;HomeController: hc;&#34; data-click=&#34;$hc.goToHome()&#34;&gt;
+		&amp;nbsp;
+	&lt;/div&gt;
+	&lt;div class=&#34;title&#34;&gt;
+		&lt;span&gt;Responsive HTML5&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class=&#34;brs_next&#34; data-attr=&#34;title:@KEY_LNG.Next&#34;&gt;&lt;a id=&#34;browseSeqNextLandscape&#34; class=&#34;wBSNextButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsNext&#34; data-css=&#34;visibility: @.l.brsNext?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;brs_previous&#34; data-attr=&#34;title:@KEY_LNG.Prev&#34;&gt;&lt;a id=&#34;browseSeqBackLandscape&#34; class=&#34;wBSBackButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsBack&#34; data-css=&#34;visibility: @.l.brsBack?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Extra mobile header with special functions --&gt;
+&lt;div class=&#34;mobilespecialfunctions&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); mobile-header-visible: @.l.mobile_header_visible; searchpage-mode: @KEY_ACTIVE_TAB == &#39;fts&#39;&#34;&gt;
+	&lt;a class=&#34;menubutton&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.NavTip;&#34; data-click=&#34;$mc.toggleSideBar()&#34; data-if=&#34;@.l.mobile_menu_enabled === true&#34;&gt;&lt;/a&gt; 
+	&lt;a class=&#34;fts&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.SearchTitle;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;fts&#39;)&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;a class=&#34;filter&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.Filter&#34; data-if=&#34;KEY_FEATURE.filter&#34; data-class=&#34;filter-applied: @.l.tag_expression.length&#34;  data-click=&#34;$mc.toggleActiveTab(&#39;filter&#39;)&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;div class=&#34;brs-holder&#34;&gt;
+	  &lt;div class=&#34;brs_previous&#34; data-if=&#34;@active_content != &#39;search&#39; &amp;&amp; @KEY_SEARCH_LOCATION == &#39;content&#39;&#34; data-attr=&#34;title:@KEY_LNG.Prev&#34;&gt;&lt;a id=&#34;browseSeqBackMobile&#34; class=&#34;wBSBackButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsBack&#34; data-css=&#34;visibility: @.l.brsBack?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+	  &lt;div class=&#34;brs_next&#34; data-if=&#34;@active_content != &#39;search&#39; &amp;&amp; @KEY_SEARCH_LOCATION == &#39;content&#39;&#34; data-attr=&#34;title:@KEY_LNG.Next&#34;&gt;&lt;a id=&#34;browseSeqNextMobile&#34; class=&#34;wBSNextButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsNext&#34; data-css=&#34;visibility: @.l.brsNext?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;	  
+	&lt;/div&gt;	
+&lt;/div&gt;
+&lt;!-- Function bar with TOC/IDS/GLO/FILTER/FTS buttons --&gt;
+&lt;div class=&#34;functionbar&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div class=&#34;nav&#34;&gt;
+		&lt;a class=&#34;toc&#34; data-if=&#34;KEY_FEATURE.toc&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;toc&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;toc&#39;)&#34; data-attr=&#34;title:@KEY_LNG.TableOfContents; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;idx&#34; data-if=&#34;KEY_FEATURE.idx&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;idx&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;idx&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Index; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;glo&#34; data-if=&#34;KEY_FEATURE.glo&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;glo&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;glo&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Glossary; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;filter&#34; data-if=&#34;KEY_FEATURE.filter&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;filter&#39;; filter-applied: @.l.tag_expression.length&#34;  data-click=&#34;$mc.toggleActiveTab(&#39;filter&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Filter; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;fts&#34; data-if=&#34;@KEY_SEARCH_LOCATION == &#39;tabbar&#39;&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;fts&#39;; search-sidebar: @KEY_SEARCH_LOCATION == &#39;tabbar&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;fts&#39;)&#34; data-attr=&#34;title:@KEY_LNG.SearchTitle; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Table of contents --&gt;
+&lt;div class=&#34;toc-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; search-sidebar: @KEY_SEARCH_LOCATION == &#39;tabbar&#39;; search-content: @KEY_SEARCH_LOCATION == &#39;content&#39;; layout-visible: @KEY_ACTIVE_TAB == &#39;toc&#39;; drill-down: KEY_TOC_DRILL_DOWN; mobile-header-visible: @.l.mobile_header_visible; loading: !@EVT_TOC_LOADED&#34;&gt;
+	&lt;ul class=&#34;toc&#34; data-rhwidget=&#34;List: .p.toc&#34; data-controller=&#34;TocController: toc&#34; data-click=&#34;$toc.onClick(event)&#34;&gt;
+		&lt;li data-rif=&#34;item.type === &#39;item&#39; || item.type === &#39;remoteitem&#39;&#34; data-i-class=&#34;$toc.class(item)&#34; data-class=&#34;inactive: @bookid != &#39;#{@pid}&#39;&#34; data-childorder=&#34;#{childOrder}&#34; data-rhtags=&#34;#{$toc.tags(item)}&#34; data-itemid=&#34;#{@id}&#34;&gt;
+			&lt;a data-itext=&#34;item.name&#34; data-i-href=&#34;$toc.url(item, &#39;#{@id}&#39;)&#34;&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li class=&#34;book&#34; data-rif=&#34;item.type === &#39;book&#39;&#34; data-class=&#34;active: @bookid == &#39;#{@id}&#39;; inactive: @bookid != &#39;#{@pid}&#39; &amp;amp;&amp;amp; @bookid != &#39;#{@id}&#39;&#34; data-childorder=&#34;#{childOrder}&#34;
+			data-itemkey=&#34;#{$toc.key(item.absRef, item.key)}&#34; data-itemid=&#34;#{@id}&#34; data-itemlevel=&#34;#{@level}&#34; data-rhtags=&#34;#{$toc.tags(item)}&#34;&gt;
+			&lt;a data-itext=&#34;item.name&#34; data-i-href=&#34;$toc.url(item, &#39;#{@id}&#39;)&#34;&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li class=&#34;child max-height-transition&#34; data-rif=&#34;item.key&#34; data-class=&#34;show: @show_child#{@id}&#34; data-childorder=&#34;#{childOrder}&#34;&gt;
+		  &lt;ul class=&#34;child&#34; data-child=&#34;$toc.key(item.absRef, item.key)&#34;&gt;&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Index --&gt;
+&lt;div class=&#34;idx-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;idx&#39;; mobile-header-visible: @.l.mobile_header_visible&#34; data-scroll=&#34;@.l.load_more_index(true) | debounce: 50, delta: 100&#34;&gt;
+	&lt;div id=&#34;idx&#34; class=&#34;Index&#34;&gt;
+		&lt;input class=&#34;IdxFilter&#34; data-attr=&#34;placeholder:@KEY_LNG.IndexFilterKewords&#34; type=&#34;text&#34; data-keyup=&#34;@.l.idxfilter(node.value)&#34; /&gt;
+		 &lt;ul class=&#34;index-list&#34; data-rhwidget=&#34;List: key: PROJECT_INDEX_DATA, , filter: $ic.showItem(item.name), spliton: index % 60 == 59&#34; data-config=&#34;loadmore: &#39;.l.load_more_index&#39;&#34; data-controller=&#34;IndexController: ic&#34;&gt; 
+			&lt;li class=&#34;treeitem IndexAlphabet&#34; data-rif=&#34;$ic.showCategory(item.name, this.path.length)&#34; data-itemlevel=&#34;#{@level}&#34;&gt; 
+			  &lt;span class=&#34;IndexAlphabetText&#34; data-itext=&#34;$ic.alphaText(item.name)&#34;&gt;&lt;/span&gt; 
+			&lt;/li&gt;
+			&lt;li class=&#34;treeitem IndexKeyword&#34; data-i-data-rhtags=&#34;item[&#39;data-rhtags&#39;]&#34;&gt;
+				&lt;a data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length == 1&#34; class=&#34;nolink IndexKeywordText&#34; data-i-href=&#34;item.topics[0].url&#34; data-itext=&#34;item.name&#34;&gt; 
+				&lt;/a&gt; 
+				&lt;span class=&#34;IndexKeywordText IndexKeyword unselectable&#34; data-itext=&#34;item.name&#34; data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length != 1&#34; data-i-title=&#34;item.name&#34; data-click=&#34;@show.#{@id}(!@show.#{@id})&#34;&gt;&lt;/span&gt; 
+			&lt;ul data-if=&#34;@show.#{@id}&#34; style=&#34;list-style-type: none;&#34;&gt;
+			 &lt;li data-repeat=&#34;i, topic:#{@itemkey}.topics&#34; data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length &gt; 1&#34; class=&#34;IndexChildBlock IndexKeyword&#34;&gt; 
+			  &lt;a class=&#34;nolink IndexLink IndexLinkText&#34; data-i-href=&#34;$topic.url&#34; data-i-data-rhtags=&#34;$topic[&#39;data-rhtags&#39;]&#34; data-itext=&#34;$topic.name&#34; data-i-title=&#34;$topic.name&#34;&gt; 
+			  &lt;/a&gt; 
+			 &lt;/li&gt;
+			&lt;/ul&gt;
+			 &lt;div class=&#34;IndexChildBlock&#34; data-rif=&#34;item[&#39;keys&#39;]&#34;&gt; 
+			  &lt;ul class=&#34;child&#34; data-child=&#34;#{@itemkey}.keys&#34; style=&#34;list-style-type: none;&#34;&gt;&lt;/ul&gt; 
+			 &lt;/div&gt;
+		   &lt;/li&gt; 
+		 &lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Glossary --&gt;
+&lt;div class=&#34;glo-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;glo&#39;; mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div id=&#34;glo&#34; class=&#34;Glossary&#34; data-controller=&#34;GlossaryController: gc&#34;&gt;
+		&lt;input class=&#34;GloFilter&#34; data-attr=&#34;placeholder:@KEY_LNG.GlossaryFilterTerms&#34; type=&#34;text&#34; data-keyup=&#34;$gc.filterGlo(node.value)&#34;/&gt;
+			&lt;ul style=&#34;list-style: none;&#34;&gt; 
+				&lt;div data-repeat=&#34;i, glossary: PROJECT_GLOSSARY_DATA&#34;&gt; 
+					&lt;li class=&#34;treeitem GloAlphabet&#34; data-rif=&#34;!$gc.exists($glossary.name)&amp;amp;&amp;amp;!$gc.isFiltered($glossary.name)&#34;&gt; 
+						&lt;span class=&#34;GloAlphabetText&#34; data-itext=&#34;$gc.alphaText($glossary.name)&#34;&gt;&lt;/span&gt;
+					&lt;/li&gt;
+					&lt;li class=&#34;treeitem&#34; data-rif=&#34;!$gc.isFiltered($glossary.name)&#34;&gt; 
+						&lt;div class=&#34;GlossTerm unselectable&#34; data-type=&#34;11&#34; data-i-title=&#34;$glossary.name&#34; data-term=&#34;$glossary.name&#34; data-click=&#34;@show.#{@index}(!@show.#{@index})&#34;&gt; 
+							&lt;span class=&#34;GlossaryTermText&#34; data-itext=&#34;$glossary.name&#34;&gt;&lt;/span&gt;
+						&lt;/div&gt; 
+						&lt;div class=&#34;GlossDefinition unselectable&#34; data-type=&#34;12&#34; data-if=&#34;@show.#{@index}&#34;&gt; 
+							&lt;span class=&#34;GlossDefinitionText&#34; data-itext=&#34;$glossary.value&#34;&gt;&lt;/span&gt; 
+						&lt;/div&gt; 
+					&lt;/li&gt; 
+				&lt;/div&gt; 
+			&lt;/ul&gt; 
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Filter --&gt;
+&lt;div class=&#34;filter-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;filter&#39;; mobile-header-visible: @.l.mobile_header_visible; loading: !@KEY_MERGED_FILTER_KEY&#34;&gt;
+	&lt;div class=&#34;mobile-filter-heading&#34; data-if=&#34;KEY_SCREEN_PHONE&#34;&gt;
+		&lt;a class=&#34;mobile_back&#34; data-click=&#34;$mc.filterDone()&#34; data-attr=&#34;title:@KEY_LNG.ApplyTip&#34;&gt;&lt;/a&gt;
+		&lt;div class=&#34;page-title&#34; data-text=&#34;KEY_PROJECT_FILTER_CAPTION&#34;&gt;&lt;/div&gt;
+		&lt;a class=&#34;reset-button&#34; data-attr=&#34;href: &#39;#&#39;; title: @KEY_LNG.Reset&#34; data-click=&#34;$mc.setDefaultTagStates()&#34; data-class=&#34;layout-visible: $mc.isTagStatesChanged(@KEY_TAG_EXPRESSION)&#34;&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p class=&#34;filter-title&#34; data-if=&#34;(@KEY_SCREEN_TABLET || @KEY_SCREEN_DESKTOP) &amp;amp;&amp;amp; @KEY_MERGED_FILTER_KEY&#34; data-text=&#34;KEY_PROJECT_FILTER_CAPTION&#34;&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/pages/dita/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/dita/responsive_html5/</guid>
-      <description>&#x9;&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&#xD;&lt;!DOCTYPE HTML&gt;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#x9;%&#xA;End of search results.&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160; </description>
+      
+      <description>&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+&lt;head&gt;
+ &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34; /&gt;
+&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=utf-8&#34; /&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes&#34; /&gt;
+&lt;meta name=&#34;generator&#34; content=&#34;Adobe Framemaker 2017&#34; /&gt;
+&lt;title&gt;Responsive HTML5&lt;/title&gt;
+
+&lt;link rel=&#34;StyleSheet&#34; href=&#34;template/azure_blueResponsive_HTML5/layout.css&#34; type=&#34;text/css&#34; /&gt;
+
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/rh.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/common.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/layout.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/constants.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/projectdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/utils.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhutils.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhlang.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhver.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/settings.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/XmlJsReader.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadscreen.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadcsh.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadparentdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadprojdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/showhidecontrols.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/pageloader.js&#34;&gt;&lt;/script&gt;
+ &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;template/styles/layoutfix.min.css&#34;&gt;
+ &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;template/styles/layout.min.css&#34;&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhfhost.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/search.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+gRootRelPath = &#34;.&#34;;
+gCommonRootRelPath = &#34;.&#34;;
+&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+gTopicFrameName = &#34;rh_default_topic_frame_name&#34;;
+gDefaultTopic = &#34;#Building_a_Computer/c_Introduction.html&#34;;
+&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body class=&#34;hide-children loading&#34; data-rhwidget=&#34;Basic&#34; data-class=&#34;media-desktop: KEY_SCREEN_DESKTOP; media-landscape: KEY_SCREEN_TABLET; media-mobile: KEY_SCREEN_PHONE; ios: KEY_SCREEN_IOS&#34; data-controller=&#34;ModernLayoutController: mc; JsLoadingController&#34; data-attr=&#34;dir:KEY_DIR&#34;&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;ehlpdhtm.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div class=&#34;header&#34; data-class=&#34;mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div class=&#34;logo&#34; data-controller=&#34;HomeController: hc;&#34; data-click=&#34;$hc.goToHome()&#34;&gt;
+		&amp;nbsp;
+	&lt;/div&gt;
+	&lt;div class=&#34;title&#34;&gt;
+		&lt;span&gt;Responsive HTML5&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class=&#34;brs_next&#34; data-attr=&#34;title:@KEY_LNG.Next&#34;&gt;&lt;a id=&#34;browseSeqNextLandscape&#34; class=&#34;wBSNextButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsNext&#34; data-css=&#34;visibility: @.l.brsNext?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;brs_previous&#34; data-attr=&#34;title:@KEY_LNG.Prev&#34;&gt;&lt;a id=&#34;browseSeqBackLandscape&#34; class=&#34;wBSBackButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsBack&#34; data-css=&#34;visibility: @.l.brsBack?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Extra mobile header with special functions --&gt;
+&lt;div class=&#34;mobilespecialfunctions&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); mobile-header-visible: @.l.mobile_header_visible; searchpage-mode: @KEY_ACTIVE_TAB == &#39;fts&#39;&#34;&gt;
+	&lt;a class=&#34;menubutton&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.NavTip;&#34; data-click=&#34;$mc.toggleSideBar()&#34; data-if=&#34;@.l.mobile_menu_enabled === true&#34;&gt;&lt;/a&gt; 
+	&lt;a class=&#34;fts&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.SearchTitle;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;fts&#39;)&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;a class=&#34;filter&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.Filter&#34; data-if=&#34;KEY_FEATURE.filter&#34; data-class=&#34;filter-applied: @.l.tag_expression.length&#34;  data-click=&#34;$mc.toggleActiveTab(&#39;filter&#39;)&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;div class=&#34;brs-holder&#34;&gt;
+	  &lt;div class=&#34;brs_previous&#34; data-if=&#34;@active_content != &#39;search&#39; &amp;&amp; @KEY_SEARCH_LOCATION == &#39;content&#39;&#34; data-attr=&#34;title:@KEY_LNG.Prev&#34;&gt;&lt;a id=&#34;browseSeqBackMobile&#34; class=&#34;wBSBackButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsBack&#34; data-css=&#34;visibility: @.l.brsBack?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+	  &lt;div class=&#34;brs_next&#34; data-if=&#34;@active_content != &#39;search&#39; &amp;&amp; @KEY_SEARCH_LOCATION == &#39;content&#39;&#34; data-attr=&#34;title:@KEY_LNG.Next&#34;&gt;&lt;a id=&#34;browseSeqNextMobile&#34; class=&#34;wBSNextButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsNext&#34; data-css=&#34;visibility: @.l.brsNext?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;	  
+	&lt;/div&gt;	
+&lt;/div&gt;
+&lt;!-- Function bar with TOC/IDS/GLO/FILTER/FTS buttons --&gt;
+&lt;div class=&#34;functionbar&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div class=&#34;nav&#34;&gt;
+		&lt;a class=&#34;toc&#34; data-if=&#34;KEY_FEATURE.toc&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;toc&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;toc&#39;)&#34; data-attr=&#34;title:@KEY_LNG.TableOfContents; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;idx&#34; data-if=&#34;KEY_FEATURE.idx&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;idx&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;idx&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Index; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;glo&#34; data-if=&#34;KEY_FEATURE.glo&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;glo&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;glo&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Glossary; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;filter&#34; data-if=&#34;KEY_FEATURE.filter&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;filter&#39;; filter-applied: @.l.tag_expression.length&#34;  data-click=&#34;$mc.toggleActiveTab(&#39;filter&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Filter; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;fts&#34; data-if=&#34;@KEY_SEARCH_LOCATION == &#39;tabbar&#39;&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;fts&#39;; search-sidebar: @KEY_SEARCH_LOCATION == &#39;tabbar&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;fts&#39;)&#34; data-attr=&#34;title:@KEY_LNG.SearchTitle; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Table of contents --&gt;
+&lt;div class=&#34;toc-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; search-sidebar: @KEY_SEARCH_LOCATION == &#39;tabbar&#39;; search-content: @KEY_SEARCH_LOCATION == &#39;content&#39;; layout-visible: @KEY_ACTIVE_TAB == &#39;toc&#39;; drill-down: KEY_TOC_DRILL_DOWN; mobile-header-visible: @.l.mobile_header_visible; loading: !@EVT_TOC_LOADED&#34;&gt;
+	&lt;ul class=&#34;toc&#34; data-rhwidget=&#34;List: .p.toc&#34; data-controller=&#34;TocController: toc&#34; data-click=&#34;$toc.onClick(event)&#34;&gt;
+		&lt;li data-rif=&#34;item.type === &#39;item&#39; || item.type === &#39;remoteitem&#39;&#34; data-i-class=&#34;$toc.class(item)&#34; data-class=&#34;inactive: @bookid != &#39;#{@pid}&#39;&#34; data-childorder=&#34;#{childOrder}&#34; data-rhtags=&#34;#{$toc.tags(item)}&#34; data-itemid=&#34;#{@id}&#34;&gt;
+			&lt;a data-itext=&#34;item.name&#34; data-i-href=&#34;$toc.url(item, &#39;#{@id}&#39;)&#34;&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li class=&#34;book&#34; data-rif=&#34;item.type === &#39;book&#39;&#34; data-class=&#34;active: @bookid == &#39;#{@id}&#39;; inactive: @bookid != &#39;#{@pid}&#39; &amp;amp;&amp;amp; @bookid != &#39;#{@id}&#39;&#34; data-childorder=&#34;#{childOrder}&#34;
+			data-itemkey=&#34;#{$toc.key(item.absRef, item.key)}&#34; data-itemid=&#34;#{@id}&#34; data-itemlevel=&#34;#{@level}&#34; data-rhtags=&#34;#{$toc.tags(item)}&#34;&gt;
+			&lt;a data-itext=&#34;item.name&#34; data-i-href=&#34;$toc.url(item, &#39;#{@id}&#39;)&#34;&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li class=&#34;child max-height-transition&#34; data-rif=&#34;item.key&#34; data-class=&#34;show: @show_child#{@id}&#34; data-childorder=&#34;#{childOrder}&#34;&gt;
+		  &lt;ul class=&#34;child&#34; data-child=&#34;$toc.key(item.absRef, item.key)&#34;&gt;&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Index --&gt;
+&lt;div class=&#34;idx-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;idx&#39;; mobile-header-visible: @.l.mobile_header_visible&#34; data-scroll=&#34;@.l.load_more_index(true) | debounce: 50, delta: 100&#34;&gt;
+	&lt;div id=&#34;idx&#34; class=&#34;Index&#34;&gt;
+		&lt;input class=&#34;IdxFilter&#34; data-attr=&#34;placeholder:@KEY_LNG.IndexFilterKewords&#34; type=&#34;text&#34; data-keyup=&#34;@.l.idxfilter(node.value)&#34; /&gt;
+		 &lt;ul class=&#34;index-list&#34; data-rhwidget=&#34;List: key: PROJECT_INDEX_DATA, , filter: $ic.showItem(item.name), spliton: index % 60 == 59&#34; data-config=&#34;loadmore: &#39;.l.load_more_index&#39;&#34; data-controller=&#34;IndexController: ic&#34;&gt; 
+			&lt;li class=&#34;treeitem IndexAlphabet&#34; data-rif=&#34;$ic.showCategory(item.name, this.path.length)&#34; data-itemlevel=&#34;#{@level}&#34;&gt; 
+			  &lt;span class=&#34;IndexAlphabetText&#34; data-itext=&#34;$ic.alphaText(item.name)&#34;&gt;&lt;/span&gt; 
+			&lt;/li&gt;
+			&lt;li class=&#34;treeitem IndexKeyword&#34; data-i-data-rhtags=&#34;item[&#39;data-rhtags&#39;]&#34;&gt;
+				&lt;a data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length == 1&#34; class=&#34;nolink IndexKeywordText&#34; data-i-href=&#34;item.topics[0].url&#34; data-itext=&#34;item.name&#34;&gt; 
+				&lt;/a&gt; 
+				&lt;span class=&#34;IndexKeywordText IndexKeyword unselectable&#34; data-itext=&#34;item.name&#34; data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length != 1&#34; data-i-title=&#34;item.name&#34; data-click=&#34;@show.#{@id}(!@show.#{@id})&#34;&gt;&lt;/span&gt; 
+			&lt;ul data-if=&#34;@show.#{@id}&#34; style=&#34;list-style-type: none;&#34;&gt;
+			 &lt;li data-repeat=&#34;i, topic:#{@itemkey}.topics&#34; data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length &gt; 1&#34; class=&#34;IndexChildBlock IndexKeyword&#34;&gt; 
+			  &lt;a class=&#34;nolink IndexLink IndexLinkText&#34; data-i-href=&#34;$topic.url&#34; data-i-data-rhtags=&#34;$topic[&#39;data-rhtags&#39;]&#34; data-itext=&#34;$topic.name&#34; data-i-title=&#34;$topic.name&#34;&gt; 
+			  &lt;/a&gt; 
+			 &lt;/li&gt;
+			&lt;/ul&gt;
+			 &lt;div class=&#34;IndexChildBlock&#34; data-rif=&#34;item[&#39;keys&#39;]&#34;&gt; 
+			  &lt;ul class=&#34;child&#34; data-child=&#34;#{@itemkey}.keys&#34; style=&#34;list-style-type: none;&#34;&gt;&lt;/ul&gt; 
+			 &lt;/div&gt;
+		   &lt;/li&gt; 
+		 &lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Glossary --&gt;
+&lt;div class=&#34;glo-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;glo&#39;; mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div id=&#34;glo&#34; class=&#34;Glossary&#34; data-controller=&#34;GlossaryController: gc&#34;&gt;
+		&lt;input class=&#34;GloFilter&#34; data-attr=&#34;placeholder:@KEY_LNG.GlossaryFilterTerms&#34; type=&#34;text&#34; data-keyup=&#34;$gc.filterGlo(node.value)&#34;/&gt;
+			&lt;ul style=&#34;list-style: none;&#34;&gt; 
+				&lt;div data-repeat=&#34;i, glossary: PROJECT_GLOSSARY_DATA&#34;&gt; 
+					&lt;li class=&#34;treeitem GloAlphabet&#34; data-rif=&#34;!$gc.exists($glossary.name)&amp;amp;&amp;amp;!$gc.isFiltered($glossary.name)&#34;&gt; 
+						&lt;span class=&#34;GloAlphabetText&#34; data-itext=&#34;$gc.alphaText($glossary.name)&#34;&gt;&lt;/span&gt;
+					&lt;/li&gt;
+					&lt;li class=&#34;treeitem&#34; data-rif=&#34;!$gc.isFiltered($glossary.name)&#34;&gt; 
+						&lt;div class=&#34;GlossTerm unselectable&#34; data-type=&#34;11&#34; data-i-title=&#34;$glossary.name&#34; data-term=&#34;$glossary.name&#34; data-click=&#34;@show.#{@index}(!@show.#{@index})&#34;&gt; 
+							&lt;span class=&#34;GlossaryTermText&#34; data-itext=&#34;$glossary.name&#34;&gt;&lt;/span&gt;
+						&lt;/div&gt; 
+						&lt;div class=&#34;GlossDefinition unselectable&#34; data-type=&#34;12&#34; data-if=&#34;@show.#{@index}&#34;&gt; 
+							&lt;span class=&#34;GlossDefinitionText&#34; data-itext=&#34;$glossary.value&#34;&gt;&lt;/span&gt; 
+						&lt;/div&gt; 
+					&lt;/li&gt; 
+				&lt;/div&gt; 
+			&lt;/ul&gt; 
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Filter --&gt;
+&lt;div class=&#34;filter-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;filter&#39;; mobile-header-visible: @.l.mobile_header_visible; loading: !@KEY_MERGED_FILTER_KEY&#34;&gt;
+	&lt;div class=&#34;mobile-filter-heading&#34; data-if=&#34;KEY_SCREEN_PHONE&#34;&gt;
+		&lt;a class=&#34;mobile_back&#34; data-click=&#34;$mc.filterDone()&#34; data-attr=&#34;title:@KEY_LNG.ApplyTip&#34;&gt;&lt;/a&gt;
+		&lt;div class=&#34;page-title&#34; data-text=&#34;KEY_PROJECT_FILTER_CAPTION&#34;&gt;&lt;/div&gt;
+		&lt;a class=&#34;reset-button&#34; data-attr=&#34;href: &#39;#&#39;; title: @KEY_LNG.Reset&#34; data-click=&#34;$mc.setDefaultTagStates()&#34; data-class=&#34;layout-visible: $mc.isTagStatesChanged(@KEY_TAG_EXPRESSION)&#34;&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p class=&#34;filter-title&#34; data-if=&#34;(@KEY_SCREEN_TABLET || @KEY_SCREEN_DESKTOP) &amp;amp;&amp;amp; @KEY_MERGED_FILTER_KEY&#34; data-text=&#34;KEY_PROJECT_FILTER_CAPTION&#34;&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/pages/uploads/uploads/dita/linux/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/uploads/uploads/dita/linux/responsive_html5/</guid>
-      <description>&#x9;&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&#xD;&lt;!DOCTYPE HTML&gt;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#x9;%&#xA;End of search results.&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160; </description>
+      
+      <description>&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+&lt;head&gt;
+ &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34; /&gt;
+&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=utf-8&#34; /&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes&#34; /&gt;
+&lt;meta name=&#34;generator&#34; content=&#34;Adobe Framemaker 2017&#34; /&gt;
+&lt;title&gt;Responsive HTML5&lt;/title&gt;
+
+&lt;link rel=&#34;StyleSheet&#34; href=&#34;template/azure_blueResponsive_HTML5/layout.css&#34; type=&#34;text/css&#34; /&gt;
+
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/rh.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/common.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/layout.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/constants.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/projectdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/utils.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhutils.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhlang.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhver.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/settings.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/XmlJsReader.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadscreen.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadcsh.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadparentdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadprojdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/showhidecontrols.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/pageloader.js&#34;&gt;&lt;/script&gt;
+ &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;template/styles/layoutfix.min.css&#34;&gt;
+ &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;template/styles/layout.min.css&#34;&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhfhost.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/search.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+gRootRelPath = &#34;.&#34;;
+gCommonRootRelPath = &#34;.&#34;;
+&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+gTopicFrameName = &#34;rh_default_topic_frame_name&#34;;
+gDefaultTopic = &#34;#Building_a_Computer/c_Introduction.html&#34;;
+&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body class=&#34;hide-children loading&#34; data-rhwidget=&#34;Basic&#34; data-class=&#34;media-desktop: KEY_SCREEN_DESKTOP; media-landscape: KEY_SCREEN_TABLET; media-mobile: KEY_SCREEN_PHONE; ios: KEY_SCREEN_IOS&#34; data-controller=&#34;ModernLayoutController: mc; JsLoadingController&#34; data-attr=&#34;dir:KEY_DIR&#34;&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;ehlpdhtm.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div class=&#34;header&#34; data-class=&#34;mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div class=&#34;logo&#34; data-controller=&#34;HomeController: hc;&#34; data-click=&#34;$hc.goToHome()&#34;&gt;
+		&amp;nbsp;
+	&lt;/div&gt;
+	&lt;div class=&#34;title&#34;&gt;
+		&lt;span&gt;Responsive HTML5&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class=&#34;brs_next&#34; data-attr=&#34;title:@KEY_LNG.Next&#34;&gt;&lt;a id=&#34;browseSeqNextLandscape&#34; class=&#34;wBSNextButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsNext&#34; data-css=&#34;visibility: @.l.brsNext?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;brs_previous&#34; data-attr=&#34;title:@KEY_LNG.Prev&#34;&gt;&lt;a id=&#34;browseSeqBackLandscape&#34; class=&#34;wBSBackButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsBack&#34; data-css=&#34;visibility: @.l.brsBack?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Extra mobile header with special functions --&gt;
+&lt;div class=&#34;mobilespecialfunctions&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); mobile-header-visible: @.l.mobile_header_visible; searchpage-mode: @KEY_ACTIVE_TAB == &#39;fts&#39;&#34;&gt;
+	&lt;a class=&#34;menubutton&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.NavTip;&#34; data-click=&#34;$mc.toggleSideBar()&#34; data-if=&#34;@.l.mobile_menu_enabled === true&#34;&gt;&lt;/a&gt; 
+	&lt;a class=&#34;fts&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.SearchTitle;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;fts&#39;)&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;a class=&#34;filter&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.Filter&#34; data-if=&#34;KEY_FEATURE.filter&#34; data-class=&#34;filter-applied: @.l.tag_expression.length&#34;  data-click=&#34;$mc.toggleActiveTab(&#39;filter&#39;)&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;div class=&#34;brs-holder&#34;&gt;
+	  &lt;div class=&#34;brs_previous&#34; data-if=&#34;@active_content != &#39;search&#39; &amp;&amp; @KEY_SEARCH_LOCATION == &#39;content&#39;&#34; data-attr=&#34;title:@KEY_LNG.Prev&#34;&gt;&lt;a id=&#34;browseSeqBackMobile&#34; class=&#34;wBSBackButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsBack&#34; data-css=&#34;visibility: @.l.brsBack?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+	  &lt;div class=&#34;brs_next&#34; data-if=&#34;@active_content != &#39;search&#39; &amp;&amp; @KEY_SEARCH_LOCATION == &#39;content&#39;&#34; data-attr=&#34;title:@KEY_LNG.Next&#34;&gt;&lt;a id=&#34;browseSeqNextMobile&#34; class=&#34;wBSNextButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsNext&#34; data-css=&#34;visibility: @.l.brsNext?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;	  
+	&lt;/div&gt;	
+&lt;/div&gt;
+&lt;!-- Function bar with TOC/IDS/GLO/FILTER/FTS buttons --&gt;
+&lt;div class=&#34;functionbar&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div class=&#34;nav&#34;&gt;
+		&lt;a class=&#34;toc&#34; data-if=&#34;KEY_FEATURE.toc&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;toc&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;toc&#39;)&#34; data-attr=&#34;title:@KEY_LNG.TableOfContents; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;idx&#34; data-if=&#34;KEY_FEATURE.idx&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;idx&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;idx&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Index; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;glo&#34; data-if=&#34;KEY_FEATURE.glo&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;glo&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;glo&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Glossary; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;filter&#34; data-if=&#34;KEY_FEATURE.filter&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;filter&#39;; filter-applied: @.l.tag_expression.length&#34;  data-click=&#34;$mc.toggleActiveTab(&#39;filter&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Filter; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;fts&#34; data-if=&#34;@KEY_SEARCH_LOCATION == &#39;tabbar&#39;&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;fts&#39;; search-sidebar: @KEY_SEARCH_LOCATION == &#39;tabbar&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;fts&#39;)&#34; data-attr=&#34;title:@KEY_LNG.SearchTitle; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Table of contents --&gt;
+&lt;div class=&#34;toc-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; search-sidebar: @KEY_SEARCH_LOCATION == &#39;tabbar&#39;; search-content: @KEY_SEARCH_LOCATION == &#39;content&#39;; layout-visible: @KEY_ACTIVE_TAB == &#39;toc&#39;; drill-down: KEY_TOC_DRILL_DOWN; mobile-header-visible: @.l.mobile_header_visible; loading: !@EVT_TOC_LOADED&#34;&gt;
+	&lt;ul class=&#34;toc&#34; data-rhwidget=&#34;List: .p.toc&#34; data-controller=&#34;TocController: toc&#34; data-click=&#34;$toc.onClick(event)&#34;&gt;
+		&lt;li data-rif=&#34;item.type === &#39;item&#39; || item.type === &#39;remoteitem&#39;&#34; data-i-class=&#34;$toc.class(item)&#34; data-class=&#34;inactive: @bookid != &#39;#{@pid}&#39;&#34; data-childorder=&#34;#{childOrder}&#34; data-rhtags=&#34;#{$toc.tags(item)}&#34; data-itemid=&#34;#{@id}&#34;&gt;
+			&lt;a data-itext=&#34;item.name&#34; data-i-href=&#34;$toc.url(item, &#39;#{@id}&#39;)&#34;&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li class=&#34;book&#34; data-rif=&#34;item.type === &#39;book&#39;&#34; data-class=&#34;active: @bookid == &#39;#{@id}&#39;; inactive: @bookid != &#39;#{@pid}&#39; &amp;amp;&amp;amp; @bookid != &#39;#{@id}&#39;&#34; data-childorder=&#34;#{childOrder}&#34;
+			data-itemkey=&#34;#{$toc.key(item.absRef, item.key)}&#34; data-itemid=&#34;#{@id}&#34; data-itemlevel=&#34;#{@level}&#34; data-rhtags=&#34;#{$toc.tags(item)}&#34;&gt;
+			&lt;a data-itext=&#34;item.name&#34; data-i-href=&#34;$toc.url(item, &#39;#{@id}&#39;)&#34;&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li class=&#34;child max-height-transition&#34; data-rif=&#34;item.key&#34; data-class=&#34;show: @show_child#{@id}&#34; data-childorder=&#34;#{childOrder}&#34;&gt;
+		  &lt;ul class=&#34;child&#34; data-child=&#34;$toc.key(item.absRef, item.key)&#34;&gt;&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Index --&gt;
+&lt;div class=&#34;idx-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;idx&#39;; mobile-header-visible: @.l.mobile_header_visible&#34; data-scroll=&#34;@.l.load_more_index(true) | debounce: 50, delta: 100&#34;&gt;
+	&lt;div id=&#34;idx&#34; class=&#34;Index&#34;&gt;
+		&lt;input class=&#34;IdxFilter&#34; data-attr=&#34;placeholder:@KEY_LNG.IndexFilterKewords&#34; type=&#34;text&#34; data-keyup=&#34;@.l.idxfilter(node.value)&#34; /&gt;
+		 &lt;ul class=&#34;index-list&#34; data-rhwidget=&#34;List: key: PROJECT_INDEX_DATA, , filter: $ic.showItem(item.name), spliton: index % 60 == 59&#34; data-config=&#34;loadmore: &#39;.l.load_more_index&#39;&#34; data-controller=&#34;IndexController: ic&#34;&gt; 
+			&lt;li class=&#34;treeitem IndexAlphabet&#34; data-rif=&#34;$ic.showCategory(item.name, this.path.length)&#34; data-itemlevel=&#34;#{@level}&#34;&gt; 
+			  &lt;span class=&#34;IndexAlphabetText&#34; data-itext=&#34;$ic.alphaText(item.name)&#34;&gt;&lt;/span&gt; 
+			&lt;/li&gt;
+			&lt;li class=&#34;treeitem IndexKeyword&#34; data-i-data-rhtags=&#34;item[&#39;data-rhtags&#39;]&#34;&gt;
+				&lt;a data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length == 1&#34; class=&#34;nolink IndexKeywordText&#34; data-i-href=&#34;item.topics[0].url&#34; data-itext=&#34;item.name&#34;&gt; 
+				&lt;/a&gt; 
+				&lt;span class=&#34;IndexKeywordText IndexKeyword unselectable&#34; data-itext=&#34;item.name&#34; data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length != 1&#34; data-i-title=&#34;item.name&#34; data-click=&#34;@show.#{@id}(!@show.#{@id})&#34;&gt;&lt;/span&gt; 
+			&lt;ul data-if=&#34;@show.#{@id}&#34; style=&#34;list-style-type: none;&#34;&gt;
+			 &lt;li data-repeat=&#34;i, topic:#{@itemkey}.topics&#34; data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length &gt; 1&#34; class=&#34;IndexChildBlock IndexKeyword&#34;&gt; 
+			  &lt;a class=&#34;nolink IndexLink IndexLinkText&#34; data-i-href=&#34;$topic.url&#34; data-i-data-rhtags=&#34;$topic[&#39;data-rhtags&#39;]&#34; data-itext=&#34;$topic.name&#34; data-i-title=&#34;$topic.name&#34;&gt; 
+			  &lt;/a&gt; 
+			 &lt;/li&gt;
+			&lt;/ul&gt;
+			 &lt;div class=&#34;IndexChildBlock&#34; data-rif=&#34;item[&#39;keys&#39;]&#34;&gt; 
+			  &lt;ul class=&#34;child&#34; data-child=&#34;#{@itemkey}.keys&#34; style=&#34;list-style-type: none;&#34;&gt;&lt;/ul&gt; 
+			 &lt;/div&gt;
+		   &lt;/li&gt; 
+		 &lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Glossary --&gt;
+&lt;div class=&#34;glo-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;glo&#39;; mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div id=&#34;glo&#34; class=&#34;Glossary&#34; data-controller=&#34;GlossaryController: gc&#34;&gt;
+		&lt;input class=&#34;GloFilter&#34; data-attr=&#34;placeholder:@KEY_LNG.GlossaryFilterTerms&#34; type=&#34;text&#34; data-keyup=&#34;$gc.filterGlo(node.value)&#34;/&gt;
+			&lt;ul style=&#34;list-style: none;&#34;&gt; 
+				&lt;div data-repeat=&#34;i, glossary: PROJECT_GLOSSARY_DATA&#34;&gt; 
+					&lt;li class=&#34;treeitem GloAlphabet&#34; data-rif=&#34;!$gc.exists($glossary.name)&amp;amp;&amp;amp;!$gc.isFiltered($glossary.name)&#34;&gt; 
+						&lt;span class=&#34;GloAlphabetText&#34; data-itext=&#34;$gc.alphaText($glossary.name)&#34;&gt;&lt;/span&gt;
+					&lt;/li&gt;
+					&lt;li class=&#34;treeitem&#34; data-rif=&#34;!$gc.isFiltered($glossary.name)&#34;&gt; 
+						&lt;div class=&#34;GlossTerm unselectable&#34; data-type=&#34;11&#34; data-i-title=&#34;$glossary.name&#34; data-term=&#34;$glossary.name&#34; data-click=&#34;@show.#{@index}(!@show.#{@index})&#34;&gt; 
+							&lt;span class=&#34;GlossaryTermText&#34; data-itext=&#34;$glossary.name&#34;&gt;&lt;/span&gt;
+						&lt;/div&gt; 
+						&lt;div class=&#34;GlossDefinition unselectable&#34; data-type=&#34;12&#34; data-if=&#34;@show.#{@index}&#34;&gt; 
+							&lt;span class=&#34;GlossDefinitionText&#34; data-itext=&#34;$glossary.value&#34;&gt;&lt;/span&gt; 
+						&lt;/div&gt; 
+					&lt;/li&gt; 
+				&lt;/div&gt; 
+			&lt;/ul&gt; 
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Filter --&gt;
+&lt;div class=&#34;filter-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;filter&#39;; mobile-header-visible: @.l.mobile_header_visible; loading: !@KEY_MERGED_FILTER_KEY&#34;&gt;
+	&lt;div class=&#34;mobile-filter-heading&#34; data-if=&#34;KEY_SCREEN_PHONE&#34;&gt;
+		&lt;a class=&#34;mobile_back&#34; data-click=&#34;$mc.filterDone()&#34; data-attr=&#34;title:@KEY_LNG.ApplyTip&#34;&gt;&lt;/a&gt;
+		&lt;div class=&#34;page-title&#34; data-text=&#34;KEY_PROJECT_FILTER_CAPTION&#34;&gt;&lt;/div&gt;
+		&lt;a class=&#34;reset-button&#34; data-attr=&#34;href: &#39;#&#39;; title: @KEY_LNG.Reset&#34; data-click=&#34;$mc.setDefaultTagStates()&#34; data-class=&#34;layout-visible: $mc.isTagStatesChanged(@KEY_TAG_EXPRESSION)&#34;&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p class=&#34;filter-title&#34; data-if=&#34;(@KEY_SCREEN_TABLET || @KEY_SCREEN_DESKTOP) &amp;amp;&amp;amp; @KEY_MERGED_FILTER_KEY&#34; data-text=&#34;KEY_PROJECT_FILTER_CAPTION&#34;&gt;&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title></title>
       <link>http://localhost:1313/pages/uploads/uploads/dita/responsive_html5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/pages/uploads/uploads/dita/responsive_html5/</guid>
-      <description>&#x9;&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;&#xD;&lt;!DOCTYPE HTML&gt;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;Responsive HTML5&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#x9;%&#xA;End of search results.&#xD;&amp;nbsp;&#xD;&amp;#160;&#xD;&amp;nbsp;&#xD;&amp;nbsp;&#xD;&amp;#160; </description>
+      
+      <description>&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34; ?&gt;
+&lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+&lt;head&gt;
+ &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34; /&gt;
+&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=utf-8&#34; /&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes&#34; /&gt;
+&lt;meta name=&#34;generator&#34; content=&#34;Adobe Framemaker 2017&#34; /&gt;
+&lt;title&gt;Responsive HTML5&lt;/title&gt;
+
+&lt;link rel=&#34;StyleSheet&#34; href=&#34;template/azure_blueResponsive_HTML5/layout.css&#34; type=&#34;text/css&#34; /&gt;
+
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/rh.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/common.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/layout.min.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/constants.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/projectdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/utils.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhutils.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhlang.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhver.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/settings.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/XmlJsReader.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadscreen.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadcsh.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadparentdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/loadprojdata.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/showhidecontrols.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/pageloader.js&#34;&gt;&lt;/script&gt;
+ &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;template/styles/layoutfix.min.css&#34;&gt;
+ &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;template/styles/layout.min.css&#34;&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/mhfhost.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;template/scripts/search.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+gRootRelPath = &#34;.&#34;;
+gCommonRootRelPath = &#34;.&#34;;
+&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; &gt;
+gTopicFrameName = &#34;rh_default_topic_frame_name&#34;;
+gDefaultTopic = &#34;#Building_a_Computer/c_Introduction.html&#34;;
+&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;body class=&#34;hide-children loading&#34; data-rhwidget=&#34;Basic&#34; data-class=&#34;media-desktop: KEY_SCREEN_DESKTOP; media-landscape: KEY_SCREEN_TABLET; media-mobile: KEY_SCREEN_PHONE; ios: KEY_SCREEN_IOS&#34; data-controller=&#34;ModernLayoutController: mc; JsLoadingController&#34; data-attr=&#34;dir:KEY_DIR&#34;&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;ehlpdhtm.js&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;div class=&#34;header&#34; data-class=&#34;mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div class=&#34;logo&#34; data-controller=&#34;HomeController: hc;&#34; data-click=&#34;$hc.goToHome()&#34;&gt;
+		&amp;nbsp;
+	&lt;/div&gt;
+	&lt;div class=&#34;title&#34;&gt;
+		&lt;span&gt;Responsive HTML5&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class=&#34;brs_next&#34; data-attr=&#34;title:@KEY_LNG.Next&#34;&gt;&lt;a id=&#34;browseSeqNextLandscape&#34; class=&#34;wBSNextButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsNext&#34; data-css=&#34;visibility: @.l.brsNext?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+	&lt;div class=&#34;brs_previous&#34; data-attr=&#34;title:@KEY_LNG.Prev&#34;&gt;&lt;a id=&#34;browseSeqBackLandscape&#34; class=&#34;wBSBackButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsBack&#34; data-css=&#34;visibility: @.l.brsBack?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Extra mobile header with special functions --&gt;
+&lt;div class=&#34;mobilespecialfunctions&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); mobile-header-visible: @.l.mobile_header_visible; searchpage-mode: @KEY_ACTIVE_TAB == &#39;fts&#39;&#34;&gt;
+	&lt;a class=&#34;menubutton&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.NavTip;&#34; data-click=&#34;$mc.toggleSideBar()&#34; data-if=&#34;@.l.mobile_menu_enabled === true&#34;&gt;&lt;/a&gt; 
+	&lt;a class=&#34;fts&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.SearchTitle;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;fts&#39;)&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;a class=&#34;filter&#34; data-attr=&#34;href: &#39;#&#39;; title:@KEY_LNG.Filter&#34; data-if=&#34;KEY_FEATURE.filter&#34; data-class=&#34;filter-applied: @.l.tag_expression.length&#34;  data-click=&#34;$mc.toggleActiveTab(&#39;filter&#39;)&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;div class=&#34;brs-holder&#34;&gt;
+	  &lt;div class=&#34;brs_previous&#34; data-if=&#34;@active_content != &#39;search&#39; &amp;&amp; @KEY_SEARCH_LOCATION == &#39;content&#39;&#34; data-attr=&#34;title:@KEY_LNG.Prev&#34;&gt;&lt;a id=&#34;browseSeqBackMobile&#34; class=&#34;wBSBackButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsBack&#34; data-css=&#34;visibility: @.l.brsBack?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;
+	  &lt;div class=&#34;brs_next&#34; data-if=&#34;@active_content != &#39;search&#39; &amp;&amp; @KEY_SEARCH_LOCATION == &#39;content&#39;&#34; data-attr=&#34;title:@KEY_LNG.Next&#34;&gt;&lt;a id=&#34;browseSeqNextMobile&#34; class=&#34;wBSNextButton&#34; data-rhwidget=&#34;Basic&#34; data-attr=&#34;href:.l.brsNext&#34; data-css=&#34;visibility: @.l.brsNext?&#39;visible&#39;:&#39;hidden&#39;&#34;&gt;&amp;nbsp;&lt;/a&gt;
+&lt;/div&gt;	  
+	&lt;/div&gt;	
+&lt;/div&gt;
+&lt;!-- Function bar with TOC/IDS/GLO/FILTER/FTS buttons --&gt;
+&lt;div class=&#34;functionbar&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div class=&#34;nav&#34;&gt;
+		&lt;a class=&#34;toc&#34; data-if=&#34;KEY_FEATURE.toc&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;toc&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;toc&#39;)&#34; data-attr=&#34;title:@KEY_LNG.TableOfContents; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;idx&#34; data-if=&#34;KEY_FEATURE.idx&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;idx&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;idx&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Index; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;glo&#34; data-if=&#34;KEY_FEATURE.glo&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;glo&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;glo&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Glossary; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;filter&#34; data-if=&#34;KEY_FEATURE.filter&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;filter&#39;; filter-applied: @.l.tag_expression.length&#34;  data-click=&#34;$mc.toggleActiveTab(&#39;filter&#39;)&#34; data-attr=&#34;title:@KEY_LNG.Filter; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+		&lt;a class=&#34;fts&#34; data-if=&#34;@KEY_SEARCH_LOCATION == &#39;tabbar&#39;&#34; data-class=&#34;active: @KEY_ACTIVE_TAB == &#39;fts&#39;; search-sidebar: @KEY_SEARCH_LOCATION == &#39;tabbar&#39;&#34; data-click=&#34;$mc.toggleActiveTab(&#39;fts&#39;)&#34; data-attr=&#34;title:@KEY_LNG.SearchTitle; href: &#39;#&#39;&#34;&gt;&amp;#160;&lt;/a&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Table of contents --&gt;
+&lt;div class=&#34;toc-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; search-sidebar: @KEY_SEARCH_LOCATION == &#39;tabbar&#39;; search-content: @KEY_SEARCH_LOCATION == &#39;content&#39;; layout-visible: @KEY_ACTIVE_TAB == &#39;toc&#39;; drill-down: KEY_TOC_DRILL_DOWN; mobile-header-visible: @.l.mobile_header_visible; loading: !@EVT_TOC_LOADED&#34;&gt;
+	&lt;ul class=&#34;toc&#34; data-rhwidget=&#34;List: .p.toc&#34; data-controller=&#34;TocController: toc&#34; data-click=&#34;$toc.onClick(event)&#34;&gt;
+		&lt;li data-rif=&#34;item.type === &#39;item&#39; || item.type === &#39;remoteitem&#39;&#34; data-i-class=&#34;$toc.class(item)&#34; data-class=&#34;inactive: @bookid != &#39;#{@pid}&#39;&#34; data-childorder=&#34;#{childOrder}&#34; data-rhtags=&#34;#{$toc.tags(item)}&#34; data-itemid=&#34;#{@id}&#34;&gt;
+			&lt;a data-itext=&#34;item.name&#34; data-i-href=&#34;$toc.url(item, &#39;#{@id}&#39;)&#34;&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li class=&#34;book&#34; data-rif=&#34;item.type === &#39;book&#39;&#34; data-class=&#34;active: @bookid == &#39;#{@id}&#39;; inactive: @bookid != &#39;#{@pid}&#39; &amp;amp;&amp;amp; @bookid != &#39;#{@id}&#39;&#34; data-childorder=&#34;#{childOrder}&#34;
+			data-itemkey=&#34;#{$toc.key(item.absRef, item.key)}&#34; data-itemid=&#34;#{@id}&#34; data-itemlevel=&#34;#{@level}&#34; data-rhtags=&#34;#{$toc.tags(item)}&#34;&gt;
+			&lt;a data-itext=&#34;item.name&#34; data-i-href=&#34;$toc.url(item, &#39;#{@id}&#39;)&#34;&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li class=&#34;child max-height-transition&#34; data-rif=&#34;item.key&#34; data-class=&#34;show: @show_child#{@id}&#34; data-childorder=&#34;#{childOrder}&#34;&gt;
+		  &lt;ul class=&#34;child&#34; data-child=&#34;$toc.key(item.absRef, item.key)&#34;&gt;&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Index --&gt;
+&lt;div class=&#34;idx-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;idx&#39;; mobile-header-visible: @.l.mobile_header_visible&#34; data-scroll=&#34;@.l.load_more_index(true) | debounce: 50, delta: 100&#34;&gt;
+	&lt;div id=&#34;idx&#34; class=&#34;Index&#34;&gt;
+		&lt;input class=&#34;IdxFilter&#34; data-attr=&#34;placeholder:@KEY_LNG.IndexFilterKewords&#34; type=&#34;text&#34; data-keyup=&#34;@.l.idxfilter(node.value)&#34; /&gt;
+		 &lt;ul class=&#34;index-list&#34; data-rhwidget=&#34;List: key: PROJECT_INDEX_DATA, , filter: $ic.showItem(item.name), spliton: index % 60 == 59&#34; data-config=&#34;loadmore: &#39;.l.load_more_index&#39;&#34; data-controller=&#34;IndexController: ic&#34;&gt; 
+			&lt;li class=&#34;treeitem IndexAlphabet&#34; data-rif=&#34;$ic.showCategory(item.name, this.path.length)&#34; data-itemlevel=&#34;#{@level}&#34;&gt; 
+			  &lt;span class=&#34;IndexAlphabetText&#34; data-itext=&#34;$ic.alphaText(item.name)&#34;&gt;&lt;/span&gt; 
+			&lt;/li&gt;
+			&lt;li class=&#34;treeitem IndexKeyword&#34; data-i-data-rhtags=&#34;item[&#39;data-rhtags&#39;]&#34;&gt;
+				&lt;a data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length == 1&#34; class=&#34;nolink IndexKeywordText&#34; data-i-href=&#34;item.topics[0].url&#34; data-itext=&#34;item.name&#34;&gt; 
+				&lt;/a&gt; 
+				&lt;span class=&#34;IndexKeywordText IndexKeyword unselectable&#34; data-itext=&#34;item.name&#34; data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length != 1&#34; data-i-title=&#34;item.name&#34; data-click=&#34;@show.#{@id}(!@show.#{@id})&#34;&gt;&lt;/span&gt; 
+			&lt;ul data-if=&#34;@show.#{@id}&#34; style=&#34;list-style-type: none;&#34;&gt;
+			 &lt;li data-repeat=&#34;i, topic:#{@itemkey}.topics&#34; data-rif=&#34;item.topics &amp;amp;&amp;amp; item.topics.length &gt; 1&#34; class=&#34;IndexChildBlock IndexKeyword&#34;&gt; 
+			  &lt;a class=&#34;nolink IndexLink IndexLinkText&#34; data-i-href=&#34;$topic.url&#34; data-i-data-rhtags=&#34;$topic[&#39;data-rhtags&#39;]&#34; data-itext=&#34;$topic.name&#34; data-i-title=&#34;$topic.name&#34;&gt; 
+			  &lt;/a&gt; 
+			 &lt;/li&gt;
+			&lt;/ul&gt;
+			 &lt;div class=&#34;IndexChildBlock&#34; data-rif=&#34;item[&#39;keys&#39;]&#34;&gt; 
+			  &lt;ul class=&#34;child&#34; data-child=&#34;#{@itemkey}.keys&#34; style=&#34;list-style-type: none;&#34;&gt;&lt;/ul&gt; 
+			 &lt;/div&gt;
+		   &lt;/li&gt; 
+		 &lt;/ul&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Glossary --&gt;
+&lt;div class=&#34;glo-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;glo&#39;; mobile-header-visible: @.l.mobile_header_visible&#34;&gt;
+	&lt;div id=&#34;glo&#34; class=&#34;Glossary&#34; data-controller=&#34;GlossaryController: gc&#34;&gt;
+		&lt;input class=&#34;GloFilter&#34; data-attr=&#34;placeholder:@KEY_LNG.GlossaryFilterTerms&#34; type=&#34;text&#34; data-keyup=&#34;$gc.filterGlo(node.value)&#34;/&gt;
+			&lt;ul style=&#34;list-style: none;&#34;&gt; 
+				&lt;div data-repeat=&#34;i, glossary: PROJECT_GLOSSARY_DATA&#34;&gt; 
+					&lt;li class=&#34;treeitem GloAlphabet&#34; data-rif=&#34;!$gc.exists($glossary.name)&amp;amp;&amp;amp;!$gc.isFiltered($glossary.name)&#34;&gt; 
+						&lt;span class=&#34;GloAlphabetText&#34; data-itext=&#34;$gc.alphaText($glossary.name)&#34;&gt;&lt;/span&gt;
+					&lt;/li&gt;
+					&lt;li class=&#34;treeitem&#34; data-rif=&#34;!$gc.isFiltered($glossary.name)&#34;&gt; 
+						&lt;div class=&#34;GlossTerm unselectable&#34; data-type=&#34;11&#34; data-i-title=&#34;$glossary.name&#34; data-term=&#34;$glossary.name&#34; data-click=&#34;@show.#{@index}(!@show.#{@index})&#34;&gt; 
+							&lt;span class=&#34;GlossaryTermText&#34; data-itext=&#34;$glossary.name&#34;&gt;&lt;/span&gt;
+						&lt;/div&gt; 
+						&lt;div class=&#34;GlossDefinition unselectable&#34; data-type=&#34;12&#34; data-if=&#34;@show.#{@index}&#34;&gt; 
+							&lt;span class=&#34;GlossDefinitionText&#34; data-itext=&#34;$glossary.value&#34;&gt;&lt;/span&gt; 
+						&lt;/div&gt; 
+					&lt;/li&gt; 
+				&lt;/div&gt; 
+			&lt;/ul&gt; 
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Filter --&gt;
+&lt;div class=&#34;filter-holder left-pane&#34; data-css=&#34;width: sidebar_width | screen: &#39;desktop&#39;&#34; data-class=&#34;sidebar-opened: $mc.isSidebarTab(@KEY_ACTIVE_TAB); desktop-sidebar-hidden: @.l.desktop_sidebar_visible == false || @.l.desktop_sidebar_available === false; layout-visible: @KEY_ACTIVE_TAB == &#39;filter&#39;; mobile-header-visible: @.l.mobile_header_visible; loading: !@KEY_MERGED_FILTER_KEY&#34;&gt;
+	&lt;div class=&#34;mobile-filter-heading&#34; data-if=&#34;KEY_SCREEN_PHONE&#34;&gt;
+		&lt;a class=&#34;mobile_back&#34; data-click=&#34;$mc.filterDone()&#34; data-attr=&#34;title:@KEY_LNG.ApplyTip&#34;&gt;&lt;/a&gt;
+		&lt;div class=&#34;page-title&#34; data-text=&#34;KEY_PROJECT_FILTER_CAPTION&#34;&gt;&lt;/div&gt;
+		&lt;a class=&#34;reset-button&#34; data-attr=&#34;href: &#39;#&#39;; title: @KEY_LNG.Reset&#34; data-click=&#34;$mc.setDefaultTagStates()&#34; data-class=&#34;layout-visible: $mc.isTagStatesChanged(@KEY_TAG_EXPRESSION)&#34;&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;p class=&#34;filter-title&#34; data-if=&#34;(@KEY_SCREEN_TABLET || @KEY_SCREEN_DESKTOP) &amp;amp;&amp;amp; @KEY_MERGED_FILTER_KEY&#34; data-text=&#34;KEY_PROJECT_FILTER_CAPTION&#34;&gt;&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
