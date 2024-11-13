@@ -1,7 +1,7 @@
 baseURL = 'https://aaronkredshaw.com/'
 languageCode = 'en-us'
 title = "Aaron K. Redshaw"
-theme = "bilberry-hugo-theme"
+theme = "hugo-theme-cleanwhite"
 [params]
   subtitle = 'How to get a job in technical writing'
   favicon="/img/favicon-32-32.png"
