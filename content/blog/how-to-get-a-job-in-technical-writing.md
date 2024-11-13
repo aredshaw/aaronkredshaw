@@ -38,4 +38,5 @@ Having said the above, the market is great to get into technical writing. Here a
 
 **Don’t do it alone**. Find technical writers on LinkedIn and add them to your connections. Attend a local [STC](https://www.stc.org/) chapter meeting or a [Write the Docs](https://www.writethedocs.org/) meetup near you. Ask for advice, make connections, and find out about job openings.
 
-I will expand each of these points above in more detail in the coming weeks, but this is a start. 
+I will expand each of these points above in more detail in the coming weeks, but this is a start.
+ 
