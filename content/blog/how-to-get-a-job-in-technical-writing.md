@@ -40,4 +40,3 @@ Having said the above, the market is great to get into technical writing. Here a
 
 I will expand each of these points above in more detail in the coming weeks, but this is a start.
 
- 
