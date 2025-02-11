@@ -1,8 +1,9 @@
 baseURL = 'https://aaronkredshaw.com'
 languageCode = 'en-us'
-title = "Aaron K. Redshaw"
-theme = "hugo-blog-awesome"
+title = "HOW TO GET A JOB IN TECHNICAL WRITING"
+theme = "paper"
 [params]
+ color = 'linen'
   subtitle = 'How to get a job in technical writing'
   favicon="/img/favicon-32-32.png"
   enableLightDarkTheme = true

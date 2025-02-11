@@ -1,293 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aaron K. Redshaw</title>
+    <title>HOW TO GET A JOB IN TECHNICAL WRITING</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Aaron K. Redshaw</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on HOW TO GET A JOB IN TECHNICAL WRITING</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Would I like technical writing?</title>
       <link>http://localhost:1313/blog/would-i-like-technical-writing/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/would-i-like-technical-writing/</guid>
-      
-      <description>&lt;p&gt;Before you invest time, and possibly money, into getting into a technical writing career, you should first decide if it&amp;rsquo;s the kind of job you would like.&lt;/p&gt;
-&lt;p&gt;Keep in mind you probably won’t identify with everything in these lists, but if technical writing is a job you’d like, you may see some familiar patterns here.&lt;/p&gt;
-&lt;h2 id=&#34;questions-to-answer---the-big-3&#34;&gt;Questions to answer - The big 3&lt;/h2&gt;
-&lt;p&gt;There are lots of possible questions to answer to know if you would like technical writing, but I think these might be the big 3:&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;Before you invest time, and possibly money, into getting into a technical writing career, you should first decide if it&amp;rsquo;s the kind of job you would like.&lt;/p&gt;&#xA;&lt;p&gt;Keep in mind you probably won’t identify with everything in these lists, but if technical writing is a job you’d like, you may see some familiar patterns here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;questions-to-answer---the-big-3&#34;&gt;Questions to answer - The big 3&lt;/h2&gt;&#xA;&lt;p&gt;There are lots of possible questions to answer to know if you would like technical writing, but I think these might be the big 3:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What should I study first?</title>
       <link>http://localhost:1313/blog/what-should-i-study-first/</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/what-should-i-study-first/</guid>
-      
-      <description>&lt;p&gt;If you want to get a job as a technical writer, you will have to get technical. Since I&amp;rsquo;m often asked what to study first, I&amp;rsquo;ve put together some guiding principles so you can figure out where to spend your time learning the technical subjects.&lt;/p&gt;
-&lt;p&gt;I won&amp;rsquo;t tell you what to study first, but I&amp;rsquo;ll give you what you need to make that decision. As usual, I&amp;rsquo;m assuming you want to document software using a &lt;a href=&#34;https://www.writethedocs.org/guide/docs-as-code/&#34;&gt;docs-as-code&lt;/a&gt; approach, which is where my experience lies.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;If you want to get a job as a technical writer, you will have to get technical. Since I&amp;rsquo;m often asked what to study first, I&amp;rsquo;ve put together some guiding principles so you can figure out where to spend your time learning the technical subjects.&lt;/p&gt;&#xA;&lt;p&gt;I won&amp;rsquo;t tell you what to study first, but I&amp;rsquo;ll give you what you need to make that decision. As usual, I&amp;rsquo;m assuming you want to document software using a &lt;a href=&#34;https://www.writethedocs.org/guide/docs-as-code/&#34;&gt;docs-as-code&lt;/a&gt; approach, which is where my experience lies.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What are APIs anyway?</title>
       <link>http://localhost:1313/blog/what-are-apis-anyway/</link>
       <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/what-are-apis-anyway/</guid>
-      
-      <description>&lt;h2 id=&#34;introduction-to-apis&#34;&gt;Introduction to APIs&lt;/h2&gt;
-&lt;p&gt;When people use the term APIs, they are not all talking about the same thing. This used to confuse me early on, so I&amp;rsquo;m going to give you a very quick tour of APIs. If you want more in-depth knowledge, there is a ton of information online.&lt;/p&gt;
-&lt;p&gt;To start, API stands for Application Programming Interface. It’s a way that software can exchange information with other software. Since knowing how to document APIs is in very high demand for software technical writers, I’m going to also provide resources for learning more about each type.&lt;/p&gt;</description>
-      
+      <description>&lt;h2 id=&#34;introduction-to-apis&#34;&gt;Introduction to APIs&lt;/h2&gt;&#xA;&lt;p&gt;When people use the term APIs, they are not all talking about the same thing. This used to confuse me early on, so I&amp;rsquo;m going to give you a very quick tour of APIs. If you want more in-depth knowledge, there is a ton of information online.&lt;/p&gt;&#xA;&lt;p&gt;To start, API stands for Application Programming Interface. It’s a way that software can exchange information with other software. Since knowing how to document APIs is in very high demand for software technical writers, I’m going to also provide resources for learning more about each type.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Getting experience – part 3</title>
       <link>http://localhost:1313/blog/getting-experience-part-3/</link>
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/getting-experience-part-3/</guid>
-      
-      <description>&lt;h1 id=&#34;get-experience-with-an-open-source-project&#34;&gt;Get experience with an open source project&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;../images/open_source.png&#34; alt=&#34;Open Source&#34;&gt;&lt;/p&gt;
-&lt;p&gt;GitHub | Linux | GNU | Sourceforge&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;common-advice&#34;&gt;Common advice&lt;/h2&gt;
-&lt;p&gt;The idea that you can get a job in technical writing by volunteering to write documentation for an open source project has been around awhile. This advice often appears in blog posts, tech writing forums, and advice columns. The prevailing logic is that you can add to your portfolio by writing documentation for some of the many open source software projects available. This shows off your tech skills as well as your writing ability, and is a kind of real-world experience. It sounds good on paper, but has some real problems. Let’s begin with a story.&lt;/p&gt;</description>
-      
+      <description>&lt;h1 id=&#34;get-experience-with-an-open-source-project&#34;&gt;Get experience with an open source project&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/open_source.png&#34; alt=&#34;Open Source&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;GitHub | Linux | GNU | Sourceforge&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;common-advice&#34;&gt;Common advice&lt;/h2&gt;&#xA;&lt;p&gt;The idea that you can get a job in technical writing by volunteering to write documentation for an open source project has been around awhile. This advice often appears in blog posts, tech writing forums, and advice columns. The prevailing logic is that you can add to your portfolio by writing documentation for some of the many open source software projects available. This shows off your tech skills as well as your writing ability, and is a kind of real-world experience. It sounds good on paper, but has some real problems. Let’s begin with a story.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Getting experience – part 2</title>
       <link>http://localhost:1313/blog/getting-experience-part-2/</link>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/getting-experience-part-2/</guid>
-      
-      <description>&lt;h2 id=&#34;get-any-job-in-an-it-industry-and-try-to-work-your-way-into-a-tech-writing-position&#34;&gt;Get any job in an IT industry, and try to work your way into a tech writing position&lt;/h2&gt;
-&lt;p&gt;If you’ve been applying for technical writing jobs, you may have discovered that &lt;a href=&#34;../getting-experience-part-1/&#34;&gt;no one will hire you without experience&lt;/a&gt;. In that case, you may try getting a job in a technical company, and see if you can work your way into technical writing. If you are currently employed, you may do this in your current company.&lt;/p&gt;</description>
-      
+      <description>&lt;h2 id=&#34;get-any-job-in-an-it-industry-and-try-to-work-your-way-into-a-tech-writing-position&#34;&gt;Get any job in an IT industry, and try to work your way into a tech writing position&lt;/h2&gt;&#xA;&lt;p&gt;If you’ve been applying for technical writing jobs, you may have discovered that &lt;a href=&#34;../getting-experience-part-1/&#34;&gt;no one will hire you without experience&lt;/a&gt;. In that case, you may try getting a job in a technical company, and see if you can work your way into technical writing. If you are currently employed, you may do this in your current company.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Getting experience – part 1</title>
       <link>http://localhost:1313/blog/getting-experience-part-1/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/getting-experience-part-1/</guid>
-      
-      <description>&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
-&lt;p&gt;&amp;ldquo;How can I get experience in technical writing when all the entry-level jobs require experience?&amp;rdquo; I&amp;rsquo;ve heard this a lot. It&amp;rsquo;s perhaps the most difficult issue to overcome when trying to get into technical writing. Just today I looked up entry level positions for technical writing on &lt;a href=&#34;https://www.indeed.com/&#34;&gt;Indeed&lt;/a&gt;. I saw only one in my area, and here’s what it said:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../images/job_desc.png&#34; alt=&#34;Open Source&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;3-6 years? I have seen many other entry level positions like this, usually requiring 1-3 years of experience. How is that entry level? Of course, you can always apply anyway, but even in interviews I have found getting around a lack of experience extremely difficult.&lt;/p&gt;</description>
-      
+      <description>&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;How can I get experience in technical writing when all the entry-level jobs require experience?&amp;rdquo; I&amp;rsquo;ve heard this a lot. It&amp;rsquo;s perhaps the most difficult issue to overcome when trying to get into technical writing. Just today I looked up entry level positions for technical writing on &lt;a href=&#34;https://www.indeed.com/&#34;&gt;Indeed&lt;/a&gt;. I saw only one in my area, and here’s what it said:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/job_desc.png&#34; alt=&#34;Open Source&#34;&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;3-6 years? I have seen many other entry level positions like this, usually requiring 1-3 years of experience. How is that entry level? Of course, you can always apply anyway, but even in interviews I have found getting around a lack of experience extremely difficult.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The importance of humility</title>
       <link>http://localhost:1313/blog/the-importance-of-humility/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/the-importance-of-humility/</guid>
-      
-      <description>&lt;p&gt;When trying to get a job in technical writing, or even once you have one, humility can serve you well. Sometimes humility is learned the hard way, by running into a wall, or being turned down a few dozen times. Fortunately, we don’t have to wait for that to happen to learn humility. Here are some thoughts I have about its importance in your job search.&lt;/p&gt;
-&lt;h2 id=&#34;i-dont-know-what-i-dont-know&#34;&gt;I don’t know what I don’t know&lt;/h2&gt;
-&lt;p&gt;Here’s the thing. I think I’m pretty smart. I’ve learned some things trying to get into technical writing, and on the job. Sometimes I think I’ve arrived. But that’s not true at all. I know what I know. But I also don’t know what I don’t know. You can take a look at the comment at the end of my blog on &lt;a href=&#34;../what-kind-of-technical-writing-job-should-i-get-into/&#34;&gt;What kind of technical writing job should I get into?&lt;/a&gt; and see that some of my assumptions were incorrect, at least for other locations. While it may be hard to hear that, it helps me to grow. The truth is my knowledge was incomplete. Someone else knew something I didn’t know.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;When trying to get a job in technical writing, or even once you have one, humility can serve you well. Sometimes humility is learned the hard way, by running into a wall, or being turned down a few dozen times. Fortunately, we don’t have to wait for that to happen to learn humility. Here are some thoughts I have about its importance in your job search.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-dont-know-what-i-dont-know&#34;&gt;I don’t know what I don’t know&lt;/h2&gt;&#xA;&lt;p&gt;Here’s the thing. I think I’m pretty smart. I’ve learned some things trying to get into technical writing, and on the job. Sometimes I think I’ve arrived. But that’s not true at all. I know what I know. But I also don’t know what I don’t know. You can take a look at the comment at the end of my blog on &lt;a href=&#34;../what-kind-of-technical-writing-job-should-i-get-into/&#34;&gt;What kind of technical writing job should I get into?&lt;/a&gt; and see that some of my assumptions were incorrect, at least for other locations. While it may be hard to hear that, it helps me to grow. The truth is my knowledge was incomplete. Someone else knew something I didn’t know.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The technical writing interview – part 2</title>
       <link>http://localhost:1313/blog/the-technical-writing-interview-part-2/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/the-technical-writing-interview-part-2/</guid>
-      
-      <description>&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;This topic is divided into two posts:&lt;/th&gt;
-          &lt;th&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Part 1&lt;/strong&gt; covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Part 2&lt;/strong&gt; will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See &lt;a href=&#34;../what-kind-of-technical-writing-job-should-i-get-into/&#34;&gt;What kind of technical writing job should I get into?&lt;/a&gt; for more on types of technical writing jobs and where my work lies.&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;In this second post on the technical writing interview, I’ll focus on the technical section of the interview itself. For behavioral interview advice, as well as how to prepare for other general interview questions, see &lt;a href=&#34;../the-technical-writing-interview-part-1/&#34;&gt;The technical writing interview – Part 1&lt;/a&gt;.&lt;/p&gt;</description>
-      
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;This topic is divided into two posts:&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Part 1&lt;/strong&gt; covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Part 2&lt;/strong&gt; will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See &lt;a href=&#34;../what-kind-of-technical-writing-job-should-i-get-into/&#34;&gt;What kind of technical writing job should I get into?&lt;/a&gt; for more on types of technical writing jobs and where my work lies.&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;In this second post on the technical writing interview, I’ll focus on the technical section of the interview itself. For behavioral interview advice, as well as how to prepare for other general interview questions, see &lt;a href=&#34;../the-technical-writing-interview-part-1/&#34;&gt;The technical writing interview – Part 1&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The technical writing interview – part 1</title>
       <link>http://localhost:1313/blog/the-technical-writing-interview-part-1/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/the-technical-writing-interview-part-1/</guid>
-      
-      <description>&lt;p&gt;This topic is divided into two posts:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Part 1&lt;/strong&gt; covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Part 2&lt;/strong&gt; will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See &lt;a href=&#34;../what-kind-of-technical-writing-job-should-i-get-into/&#34;&gt;What kind of technical writing job should I get into?&lt;/a&gt; for more on types of technical writing jobs and where my work lies.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;This topic is divided into two posts:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Part 1&lt;/strong&gt; covers more of the non-technical aspects of the interview. A lot of this might work for any interview in any field, but the examples will mostly be specific to technical writing. If you take this part seriously, you really sabotage your chances of getting the job.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Part 2&lt;/strong&gt; will focus on the technical aspects. This will be from my own experience, for the type of technical writing I do. See &lt;a href=&#34;../what-kind-of-technical-writing-job-should-i-get-into/&#34;&gt;What kind of technical writing job should I get into?&lt;/a&gt; for more on types of technical writing jobs and where my work lies.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>What kind of technical writing job should I get into?</title>
       <link>http://localhost:1313/blog/what-kind-of-technical-writing-job-should-i-get-into/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/what-kind-of-technical-writing-job-should-i-get-into/</guid>
-      
       <description>&lt;p&gt;If you&amp;rsquo;re looking for a technical writing job, it&amp;rsquo;s easy to get overwhelmed with all the possible job requirements. The truth is there are many types of technical writing jobs, and each has its own requirements. For that reason, there is no need to study all the requirements for every category of technical writing job. Picking a target type and working towards that kind of job can save you from being quite so overwhelmed and may get you a job faster.&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Tech writing hiring freeze</title>
       <link>http://localhost:1313/blog/tech-writing-hiring-freeze/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/tech-writing-hiring-freeze/</guid>
-      
-      <description>&lt;p&gt;I hope the title caught your attention, because if you are in the market to get hired as a technical writer, keep a watch on your calendar. In general, most companies stop hiring around the &lt;strong&gt;end of October (sometimes weeks earlier), and start again around mid-January&lt;/strong&gt;. This often has to do with approved budgets for headcount, and also businesses just start hunkering down as the holidays approach.&lt;/p&gt;
-&lt;h3 id=&#34;what-should-i-do-about-it&#34;&gt;What should I do about it?&lt;/h3&gt;
-&lt;p&gt;I&amp;rsquo;m glad you asked. If you want to get into technical writing, maybe you have some past experience, have relevant skills without the experience, or just want to take a stab at it, I would recommend these action items (the other AI):&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;I hope the title caught your attention, because if you are in the market to get hired as a technical writer, keep a watch on your calendar. In general, most companies stop hiring around the &lt;strong&gt;end of October (sometimes weeks earlier), and start again around mid-January&lt;/strong&gt;. This often has to do with approved budgets for headcount, and also businesses just start hunkering down as the holidays approach.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-should-i-do-about-it&#34;&gt;What should I do about it?&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m glad you asked. If you want to get into technical writing, maybe you have some past experience, have relevant skills without the experience, or just want to take a stab at it, I would recommend these action items (the other AI):&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Shakespeare effect</title>
       <link>http://localhost:1313/blog/the-shakespeare-effect/</link>
       <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/the-shakespeare-effect/</guid>
-      
       <description>&lt;p&gt;When I was in college, working my way towards a BA in English, I took a Shakespeare class. Besides all that we learned during lecture times, we were required to read six Shakespeare plays outside of class. So, several nights a week I found myself reading through a Shakespeare play, and most of the time I was utterly confused. Many of the words were modern words, but many were also new to me. Since it was written as poetry, the phrases were odd and didn&amp;rsquo;t make much sense. Some ideas or historical references were also opaque. However, for these I had helpful notes in my textbook.&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>How do you handle the frustration?</title>
       <link>http://localhost:1313/blog/how-do-you-handle-the-frustration/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/how-do-you-handle-the-frustration/</guid>
-      
       <description>&lt;p&gt;Here&amp;rsquo;s the thing. I&amp;rsquo;m completely lost in &lt;a href=&#34;https://developer.android.com/courses/android-basics-kotlin/course?utm_source=gDigital&amp;amp;utm_medium=website&amp;amp;utm_campaign=gwgsite-gDigital-paidha-sem-bk-gen-phr-glp-br-null&#34;&gt;this Android course&lt;/a&gt;. I&amp;rsquo;m copying and pasting code, and sometimes it compiles and works and sometimes it doesn&amp;rsquo;t. I get some of the concepts, but most are over my head at this point. I know if I slow down too much, I will get bogged down and feel like I&amp;rsquo;m going nowhere. &lt;a href=&#34;../learning-the-hard-stuff/&#34;&gt;With enough repetition&lt;/a&gt;, this will get better in later iterations. As long as I don&amp;rsquo;t stop. So how do I deal with this frustration? Feeling lost is normal when trying to learn something really complex. But I have gained confidence in recent years that I can learn almost anything if I do not give up. Here is what I found helps me keep going.&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Learning the hard stuff</title>
       <link>http://localhost:1313/blog/learning-the-hard-stuff/</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/learning-the-hard-stuff/</guid>
-      
       <description>&lt;p&gt;The thing about getting into technical writing, is that most employers care more about your technical mastery than they do your writing ability. For that reason, one of the best ways to show your value is to prove your technical skills. The list of what you can learn is just about infinite, and choosing what will impress employers can be difficult. (&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1AyLq0QaMs3hdKN92p5ASzOA4hjcAHD9Kx0wF63SKkbs/edit#gid=0&#34;&gt;See my spreadsheet&lt;/a&gt; if you are looking for how to narrow this down.)&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Google certificates &amp; Sololearn</title>
       <link>http://localhost:1313/blog/google-certificates-sololearn/</link>
       <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/google-certificates-sololearn/</guid>
-      
-      <description>&lt;p&gt;As I have said before, when getting into technical writing, experience is king. But when you might have difficulty getting experience, the next best thing you can do is gain technical know-how. I&amp;rsquo;ve recently stumbled upon &lt;a href=&#34;https://grow.google/certificates/#?modal_active=none&#34;&gt;Google Certificates&lt;/a&gt;. These are courses that are offered either through Google or through a partnership with Google and Coursera, and they are intended to help people get into high-growth technical jobs.&lt;/p&gt;
-&lt;p&gt;According to their site, 82% of Certificate graduates report a positive career impact in six months, though so far, these statistics mostly come from the IT Support course, which was their first. Also, over 50% of those those who took these courses did not have a college degree and no experience is necessary for any of these courses. They assume no prior knowledge.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;As I have said before, when getting into technical writing, experience is king. But when you might have difficulty getting experience, the next best thing you can do is gain technical know-how. I&amp;rsquo;ve recently stumbled upon &lt;a href=&#34;https://grow.google/certificates/#?modal_active=none&#34;&gt;Google Certificates&lt;/a&gt;. These are courses that are offered either through Google or through a partnership with Google and Coursera, and they are intended to help people get into high-growth technical jobs.&lt;/p&gt;&#xA;&lt;p&gt;According to their site, 82% of Certificate graduates report a positive career impact in six months, though so far, these statistics mostly come from the IT Support course, which was their first. Also, over 50% of those those who took these courses did not have a college degree and no experience is necessary for any of these courses. They assume no prior knowledge.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Start with a good resume</title>
       <link>http://localhost:1313/blog/start-with-a-good-resume/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/start-with-a-good-resume/</guid>
-      
-      <description>&lt;p&gt;This post will not get into &lt;a href=&#34;https://www.roberthalf.com/blog/writing-a-resume/how-to-write-a-good-resume-in-7-easy-steps&#34;&gt;resume writing basics&lt;/a&gt;. There are some great guides out there for free already on that topic. Here I will just cover what is specific to technical writing.&lt;/p&gt;
-&lt;h2 id=&#34;keywords-are-key&#34;&gt;Keywords are key&lt;/h2&gt;
-&lt;p&gt;According to Josh Hrala at careerminds.com, &lt;a href=&#34;https://blog.careerminds.com/75-percent-of-resumes-are-never-read&#34;&gt;17% of all resumes submitted are never read by a human being&lt;/a&gt;. Instead, they are processed by an ATS (applicant tracking system), which searches for certain keywords that match the job description. If these words are not in the resume, they will never be forwarded to the hiring manager.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;This post will not get into &lt;a href=&#34;https://www.roberthalf.com/blog/writing-a-resume/how-to-write-a-good-resume-in-7-easy-steps&#34;&gt;resume writing basics&lt;/a&gt;. There are some great guides out there for free already on that topic. Here I will just cover what is specific to technical writing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;keywords-are-key&#34;&gt;Keywords are key&lt;/h2&gt;&#xA;&lt;p&gt;According to Josh Hrala at careerminds.com, &lt;a href=&#34;https://blog.careerminds.com/75-percent-of-resumes-are-never-read&#34;&gt;17% of all resumes submitted are never read by a human being&lt;/a&gt;. Instead, they are processed by an ATS (applicant tracking system), which searches for certain keywords that match the job description. If these words are not in the resume, they will never be forwarded to the hiring manager.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Technical skills trump writing skills</title>
       <link>http://localhost:1313/blog/technical-skills-trump-writing-skills/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/technical-skills-trump-writing-skills/</guid>
-      
       <description>&lt;p&gt;If you are trying to get into technical writing, you may find it is a sad fact that much more emphasis is placed on your technical skills than your writing skills. It seems it is assumed that writing is easier to pick up than technical skills. Or perhaps the assumption is that everyone can write, but not everyone has technical know-how. Take a look at this list of requirements for a fairly low-level technical writer position I found (really, it was the first one that came up on Indeed).&lt;/p&gt;</description>
-      
     </item>
-    
     <item>
       <title>Experience is king</title>
       <link>http://localhost:1313/blog/experience-is-king/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/experience-is-king/</guid>
-      
-      <description>&lt;p&gt;As I said in the last post, &lt;a href=&#34;../how-to-get-a-job-in-technical-writing/&#34;&gt;How to get a job in technical writing&lt;/a&gt;,  there are two big issues that you have to overcome to get into technical writing.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Experience is king.&lt;/li&gt;
-&lt;li&gt;Technical skills trump writing skills&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Before I go into each solution in detail, I want to give you an idea of how problematic these obstacles are. I had a number of phone interviews that began and ended with the phrase, “How many years of experience do you have as a technical writer.” Unwilling to lie, I told them I had worked with a startup some, and then tried to point them to my skills, as well as my extensive portfolio. I had the mistaken idea that if they knew what I could do, years of experience would be less of an issue.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;As I said in the last post, &lt;a href=&#34;../how-to-get-a-job-in-technical-writing/&#34;&gt;How to get a job in technical writing&lt;/a&gt;,  there are two big issues that you have to overcome to get into technical writing.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Experience is king.&lt;/li&gt;&#xA;&lt;li&gt;Technical skills trump writing skills&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Before I go into each solution in detail, I want to give you an idea of how problematic these obstacles are. I had a number of phone interviews that began and ended with the phrase, “How many years of experience do you have as a technical writer.” Unwilling to lie, I told them I had worked with a startup some, and then tried to point them to my skills, as well as my extensive portfolio. I had the mistaken idea that if they knew what I could do, years of experience would be less of an issue.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How to get a job in technical writing</title>
       <link>http://localhost:1313/blog/how-to-get-a-job-in-technical-writing/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/how-to-get-a-job-in-technical-writing/</guid>
-      
-      <description>&lt;p&gt;There are two categories of people interested in technical writing. Those who have received a degree or certificate in technical writing, and those who want to make the switch from another career. While you might think those with a degree or certificate have all the advantages in the job market, that is simply not the case. Without experience and a good portfolio, employers will seldom even consider a candidate.&lt;/p&gt;
-&lt;p&gt;Since I recently made the switch into technical writing, I thought I’d pass on what I learned along the way.&lt;/p&gt;</description>
-      
+      <description>&lt;p&gt;There are two categories of people interested in technical writing. Those who have received a degree or certificate in technical writing, and those who want to make the switch from another career. While you might think those with a degree or certificate have all the advantages in the job market, that is simply not the case. Without experience and a good portfolio, employers will seldom even consider a candidate.&lt;/p&gt;&#xA;&lt;p&gt;Since I recently made the switch into technical writing, I thought I’d pass on what I learned along the way.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>http://localhost:1313/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/search/placeholder/</guid>
-      
       <description></description>
-      
     </item>
-    
     <item>
       <title>Blog</title>
       <link>http://localhost:1313/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/blog/</guid>
-      
       <description>&lt;p&gt;This is a test.&lt;/p&gt;</description>
-      
     </item>
-    
   </channel>
 </rss>
