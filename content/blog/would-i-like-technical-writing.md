@@ -50,9 +50,9 @@ Writing has been an interest of yours for a while now. I had an 8th grade teache
 
 I didn't just add this because I was a high school teacher for so long. I really believe a technical writer is inherently a teacher at heart. As such, you are good at explaining things to people, and you get some satisfaction from it.
 
-**You want to pass it on.** If you learn something new, you probably can't wait to tell someone what you learned. My father used to joke about a kind of person that if you asked them what time it was, instead, they would tell you how to build a clock. That's pretty extreme, but maybe you're a bit like that.
+**You want to pass it on.** If you learn something new, you probably can't wait to tell someone what you learned. You think new knowledge is something to be shared. And you might often think, "people really should know about this!"
 
-**You love teaching people things.** My father used to joke about the kind of person that if you asked them what time it was, they would instead tell you how to build a clock. You might be a bit like that. You like explaining things to people. Maybe you were the one who helped one of your siblings with homework. Perhaps you want to be the one to teach your own child certain things. I taught both of our boys how to read.
+**You love teaching people things.** My father used to joke about the kind of person that if you asked them what time it was, they would instead tell you how to build a clock.  That's pretty extreme, but maybe you're a bit like that. You like explaining things to people. Maybe you were the one who helped one of your siblings with homework. Perhaps you want to be the one to teach your own child certain things. I taught both of our boys how to read.
 
 **You are good at explaining things to people.** You may find in conversations, when someone doesn’t understand what one of your friends is saying, you know how to say it so it makes sense to everyone. Maybe you did this in school, interpreting what the teacher said to your friends.
 
